@@ -11,3 +11,5 @@ At the time of this writing, the configuration file and script used to build thi
 ```sh
 path/to/fritzing-app/tools/build_doxygen.sh
 ```
+
+The generated content is using the CC0 License, but the code segments included from the Fritzing application retain the GPL3 license from that repository.
