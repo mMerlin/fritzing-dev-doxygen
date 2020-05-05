@@ -1,0 +1,13 @@
+<map id="DRC::missingCopper" name="DRC::missingCopper">
+<area shape="rect" id="node1" title="collect connector items that are missing pcb copper layer graphics" alt="" coords="1873,42,2028,69"/>
+<area shape="rect" id="node2" href="$dc/d8c/classDRC.html#a35bf4a1f2215f811175fc3d5758c0606" title="locate embedded (not core) parts that are missing copper layer information" alt="" coords="1653,42,1825,69"/>
+<area shape="rect" id="node3" href="$dc/d8c/classDRC.html#a3278b784f80fe4db30e4618cd910627b" title="do the actual rule check processing for a single PCB" alt="" coords="1492,42,1605,69"/>
+<area shape="rect" id="node4" href="$dc/d8c/classDRC.html#afafd7b4217ebc10c0f3b8904903277ec" title=" " alt="" coords="1356,42,1444,69"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a515ccc1e117dfba77f0bab954a7c6523" title=" " alt="" coords="1087,35,1308,76"/>
+<area shape="rect" id="node6" href="$d1/dec/classPanelizer.html#a746666008f0498b0b2d533eb542538a2" title=" " alt="" coords="860,17,1039,43"/>
+<area shape="rect" id="node11" href="$dc/dc7/classFApplication.html#ad221f960da2ad821517d29ef4d91eb67" title=" " alt="" coords="605,67,812,94"/>
+<area shape="rect" id="node7" href="$d1/dec/classPanelizer.html#a17e70d92a6673b55cbe831bf41f51764" title=" " alt="" coords="639,15,779,42"/>
+<area shape="rect" id="node8" href="$dc/dc7/classFApplication.html#acf8b4e0eaaa72bb5ac8da5ac4350a8a4" title=" " alt="" coords="359,5,557,47"/>
+<area shape="rect" id="node9" href="$dc/dc7/classFApplication.html#ac5e0b62634df1a581eee3c3a36980754" title=" " alt="" coords="108,42,311,69"/>
+<area shape="rect" id="node10" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,42,60,69"/>
+</map>

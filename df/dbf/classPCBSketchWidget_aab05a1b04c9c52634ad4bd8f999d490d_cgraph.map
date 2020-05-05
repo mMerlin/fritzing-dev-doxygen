@@ -1,0 +1,12 @@
+<map id="PCBSketchWidget::calcBoardArea" name="PCBSketchWidget::calcBoardArea">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,244,133"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#afe2eaccd6266f7c70092425055e9e726" title=" " alt="" coords="305,56,486,83"/>
+<area shape="rect" id="node6" href="$df/dbf/classPCBSketchWidget.html#ab4e47040fe50dd8aa573652ce0411c68" title=" " alt="" coords="292,107,499,133"/>
+<area shape="rect" id="node10" href="$d7/dfe/classGraphicsUtils.html#a091697d7263c84850f4df0d18391fa72" title=" " alt="" coords="301,157,490,184"/>
+<area shape="rect" id="node3" href="$df/db0/classFSvgRenderer.html#abfa59a6da2875e59a5ab3112fd644ade" title=" " alt="" coords="547,5,748,32"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#a783246d1e45a53efa9e044fca46d2c9f" title=" " alt="" coords="558,56,737,83"/>
+<area shape="rect" id="node5" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="798,56,953,83"/>
+<area shape="rect" id="node7" href="$de/d23/classBoard.html#a6063939428d01920fefae3dd9b1f0b84" title=" " alt="" coords="589,107,706,133"/>
+<area shape="rect" id="node9" href="$d4/d4f/classItemBase.html#abf6d16e250a353043cd4953ddc049bd0" title=" " alt="" coords="557,157,737,184"/>
+<area shape="rect" id="node8" href="$d4/d4f/classItemBase.html#acc2f5bad42928e7178c28fa0771b1f60" title=" " alt="" coords="796,107,955,133"/>
+</map>

@@ -1,0 +1,64 @@
+<map id="FolderUtils::unzipTo" name="FolderUtils::unzipTo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,728,155,755"/>
+<area shape="rect" id="node2" href="$da/da8/classQuaZipFile.html#aaed13cdefac340725300421f2b89a948" title="Returns true if the end of file was reached." alt="" coords="246,56,383,83"/>
+<area shape="rect" id="node5" href="$d9/de5/classQuaZip.html#a7a4323b73e12f3b4470109f200728f9f" title="Closes ZIP file." alt="" coords="523,461,634,488"/>
+<area shape="rect" id="node18" href="$da/da8/classQuaZipFile.html#a42a39b12619bccd3d419ee60bbb3fcf6" title="Closes the file." alt="" coords="247,335,382,361"/>
+<area shape="rect" id="node24" href="$d9/de5/classQuaZip.html#aacfec612329cc4a2fbbb515cd024f793" title="Returns the error code of the last operation." alt="" coords="503,563,654,589"/>
+<area shape="rect" id="node25" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="237,601,392,628"/>
+<area shape="rect" id="node26" href="$da/da8/classQuaZipFile.html#a4c8d14a81a9f8293b558c6a5df7ad6ad" title="Returns the actual file name in the archive." alt="" coords="203,652,427,679"/>
+<area shape="rect" id="node36" href="$d9/de5/classQuaZip.html#ad79caa4c8a3262f7fcf52c6262b1dc25" title="Retrieves information about the current file." alt="" coords="481,855,676,881"/>
+<area shape="rect" id="node37" href="$d9/de5/classQuaZip.html#a0f4ca7e008ad8ee65bebeee06be34943" title="Returns number of the entries in the ZIP central directory." alt="" coords="224,753,405,780"/>
+<area shape="rect" id="node39" href="$da/da8/classQuaZipFile.html#a69f10d51ac3030ee2f2a6f82503e84a0" title="Returns the error code returned by the last ZIP/UNZIP API call." alt="" coords="228,804,401,831"/>
+<area shape="rect" id="node40" href="$d9/de5/classQuaZip.html#a745488f9177bcec3cdb858587584e033" title="Sets the current file to the first file in the archive." alt="" coords="737,932,896,959"/>
+<area shape="rect" id="node42" href="$d9/de5/classQuaZip.html#aee6779b6cd338420c2e8c5655fa8ba97" title="Sets the current file to the next file in the archive." alt="" coords="736,1063,897,1089"/>
+<area shape="rect" id="node44" href="$d9/de5/classQuaZip.html#abfa4e6018b2964a3d10a4c54e5ab3962" title="Opens ZIP file." alt="" coords="524,703,633,729"/>
+<area shape="rect" id="node61" href="$da/da8/classQuaZipFile.html#a4c20c0ef00ae79c9a59eafe2906c9384" title="Opens a file for reading." alt="" coords="249,1007,381,1033"/>
+<area shape="rect" id="node62" href="$d9/de5/classQuaZip.html#a339010b5566704ba3c9cafbfe848d8fb" title="Sets the codec used to encode/decode file names inside archive." alt="" coords="215,1057,414,1084"/>
+<area shape="rect" id="node3" href="$d6/da7/unzip_8c.html#a564f8ada96a5b2e3c5815306fa146d68" title=" " alt="" coords="545,5,612,32"/>
+<area shape="rect" id="node4" href="$d9/de5/classQuaZip.html#a3b78a652f296ff4a678a791e8294e642" title="Returns unzFile handle." alt="" coords="505,56,652,83"/>
+<area shape="rect" id="node6" href="$d6/da7/unzip_8c.html#af6ab0ba88ab5da62747df8f9336f1bb3" title=" " alt="" coords="776,369,857,396"/>
+<area shape="rect" id="node8" href="$d0/d5f/zip_8c.html#a4fda7a41fa2f57d105ffc7d1cbcf53cc" title=" " alt="" coords="778,420,855,447"/>
+<area shape="rect" id="node7" href="$d6/da7/unzip_8c.html#ac48279e5325cfdabbc67a312b1d32700" title=" " alt="" coords="951,157,1103,184"/>
+<area shape="rect" id="node9" href="$d0/d5f/zip_8c.html#a5fdfcec2cad86ab1420b0059ee03fb00" title=" " alt="" coords="967,259,1086,285"/>
+<area shape="rect" id="node10" href="$d2/db7/ioapi_8h.html#a50e9e9d5c30e481de822ad68fe537986" title=" " alt="" coords="1721,521,1783,548"/>
+<area shape="rect" id="node11" href="$d0/d5f/zip_8c.html#ae470f753aef4cffe4f77a5ec2bcfbde1" title=" " alt="" coords="960,208,1093,235"/>
+<area shape="rect" id="node16" href="$d0/d5f/zip_8c.html#a36feaf8a1065df30f930867493e85719" title=" " alt="" coords="1440,217,1576,244"/>
+<area shape="rect" id="node12" href="$d0/d5f/zip_8c.html#a43fe6f36cef62c7f34c0fdb4c8288b87" title=" " alt="" coords="1171,116,1333,143"/>
+<area shape="rect" id="node13" href="$d0/d5f/zip_8c.html#a030fc7eff1719f676267e1f3529c452e" title=" " alt="" coords="1422,167,1594,193"/>
+<area shape="rect" id="node15" href="$d0/d5f/zip_8c.html#a9cd2dfc90ba0aee3d5558fac70fcc902" title=" " alt="" coords="1433,65,1583,92"/>
+<area shape="rect" id="node17" href="$d0/d5f/zip_8c.html#a188a9087b9bfff92085647a3ac5a2f38" title=" " alt="" coords="1403,15,1613,41"/>
+<area shape="rect" id="node14" href="$d0/d5f/zip_8c.html#aeb6943cee58f6c170994889ae106ddab" title=" " alt="" coords="1663,167,1841,193"/>
+<area shape="rect" id="node19" href="$da/da8/classQuaZipFile.html#a83a01593f09b24e4b10bfde54306c477" title=" " alt="" coords="486,360,671,387"/>
+<area shape="rect" id="node20" href="$da/da8/classQuaZipFile.html#a755afddd4815f099bb1a55b1820fc069" title=" " alt="" coords="731,319,903,345"/>
+<area shape="rect" id="node21" href="$d9/de5/classQuaZip.html#ae9652544f94ed1384632ef9b43e6ec92" title="Returns true if ZIP file is open, false otherwise." alt="" coords="755,753,878,780"/>
+<area shape="rect" id="node22" href="$da/da8/classQuaZipFile.html#a2167e04a47afcce4dbf4135db7480eac" title="Returns true if the file was opened in raw mode." alt="" coords="509,208,648,235"/>
+<area shape="rect" id="node23" href="$d9/de5/classQuaZip.html#a425043a4d7cc31e2fe2bba73d954f15c" title="Returns zipFile handle." alt="" coords="507,259,650,285"/>
+<area shape="rect" id="node27" href="$d9/de5/classQuaZip.html#a9cfdbc86f4b2cc13c4246a8d438003b1" title="Returns the current file name." alt="" coords="475,753,683,780"/>
+<area shape="rect" id="node28" href="$d9/de5/classQuaZip.html#af14ccbcf38bb540ba73b833cdc000f90" title="Returns true if the current file has been set." alt="" coords="731,855,902,881"/>
+<area shape="rect" id="node29" href="$d6/da7/unzip_8c.html#ac99166540260b60340f4787af0a90029" title=" " alt="" coords="735,804,899,831"/>
+<area shape="rect" id="node30" href="$d6/da7/unzip_8c.html#a604f8ca20c251b1ae520a40cd1a688ad" title=" " alt="" coords="1151,1021,1353,1062"/>
+<area shape="rect" id="node31" href="$d6/da7/unzip_8c.html#a2adf50ee682fe99e90f76e3b5c5aff19" title=" " alt="" coords="1401,977,1615,1004"/>
+<area shape="rect" id="node32" href="$d6/da7/unzip_8c.html#adf85ae30e9d93b75f7980750f9696a9a" title=" " alt="" coords="1441,1129,1575,1156"/>
+<area shape="rect" id="node35" href="$d6/da7/unzip_8c.html#a6e42c868757990ea103d34619e3f5fa2" title=" " alt="" coords="1439,1079,1577,1105"/>
+<area shape="rect" id="node33" href="$d6/da7/unzip_8c.html#a5ebba7e31a1d05c7283915a397b4b3d0" title=" " alt="" coords="1685,1079,1819,1105"/>
+<area shape="rect" id="node34" href="$d2/db7/ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title=" " alt="" coords="1889,699,1928,725"/>
+<area shape="rect" id="node38" href="$d6/da7/unzip_8c.html#af05d6e3eac6ec396d9d134ca140fec61" title=" " alt="" coords="511,804,646,831"/>
+<area shape="rect" id="node41" href="$d6/da7/unzip_8c.html#a54821c0b6da683800164a56f2ae14f33" title=" " alt="" coords="963,981,1091,1008"/>
+<area shape="rect" id="node43" href="$d6/da7/unzip_8c.html#acb457ebeaee7cb850c11a4a3d4b58201" title=" " alt="" coords="961,1137,1092,1164"/>
+<area shape="rect" id="node45" href="$d6/da7/unzip_8c.html#a899fa69e894354e48aab8869e13fd396" title=" " alt="" coords="773,703,860,729"/>
+<area shape="rect" id="node55" href="$d0/d5f/zip_8c.html#a1e81b9e717c86e8c7ef8914534cd83e1" title=" " alt="" coords="985,445,1068,472"/>
+<area shape="rect" id="node46" href="$d5/d84/ioapi_8c.html#ab44f1d585b26ce7f9447a91ada432727" title=" " alt="" coords="1183,703,1321,729"/>
+<area shape="rect" id="node54" href="$d6/da7/unzip_8c.html#a284d31610ee61ca6680d154d6e64949e" title=" " alt="" coords="1155,591,1349,617"/>
+<area shape="rect" id="node47" href="$d5/d84/ioapi_8c.html#a12a806aa61c249ef344bd3e528641325" title=" " alt="" coords="1447,825,1569,852"/>
+<area shape="rect" id="node48" href="$d5/d84/ioapi_8c.html#ae67c883fafa49a27f296fee12709fa5b" title=" " alt="" coords="1448,876,1568,903"/>
+<area shape="rect" id="node49" href="$d5/d84/ioapi_8c.html#ab16242c09ff27ff5f13b79e4a367068e" title=" " alt="" coords="1447,673,1569,700"/>
+<area shape="rect" id="node50" href="$d5/d84/ioapi_8c.html#a8413758028f1cc3444993fb8be822696" title=" " alt="" coords="1449,623,1567,649"/>
+<area shape="rect" id="node51" href="$d5/d84/ioapi_8c.html#a0f11721c477f14c803565ff90140dcb5" title=" " alt="" coords="1448,724,1568,751"/>
+<area shape="rect" id="node52" href="$d5/d84/ioapi_8c.html#a1be834ab0bdd674886b5d38cf31a01c0" title=" " alt="" coords="1453,775,1563,801"/>
+<area shape="rect" id="node53" href="$d5/d84/ioapi_8c.html#a1a5a1c0c57e77a7a8d2fb00a4f5a9a19" title=" " alt="" coords="1447,572,1569,599"/>
+<area shape="rect" id="node56" href="$d0/d5f/zip_8c.html#ab1a9e286f304e1447d9cd122b576e8e7" title=" " alt="" coords="1197,521,1307,548"/>
+<area shape="rect" id="node57" href="$d0/d5f/zip_8c.html#a7224e414f49d927fbd8f27b66b60ec09" title=" " alt="" coords="1443,319,1573,345"/>
+<area shape="rect" id="node59" href="$d0/d5f/zip_8c.html#a667c1905a3e3f7e5f1ce1cfaa57f3f80" title=" " alt="" coords="1441,268,1575,295"/>
+<area shape="rect" id="node60" href="$d0/d5f/zip_8c.html#a4ea4b4773490a189bde2b156e8f670a4" title=" " alt="" coords="1157,420,1347,447"/>
+<area shape="rect" id="node58" href="$d0/d5f/zip_8c.html#a05d1c7d81a3f8d813682bd1e7ca2aeef" title=" " alt="" coords="1687,319,1817,345"/>
+</map>

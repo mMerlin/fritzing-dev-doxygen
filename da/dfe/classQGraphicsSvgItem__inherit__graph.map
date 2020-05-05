@@ -1,0 +1,42 @@
+<map id="QGraphicsSvgItem" name="QGraphicsSvgItem">
+<area shape="rect" id="node1" title=" " alt="" coords="2142,5,2285,83"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html" title=" " alt="" coords="1944,131,2219,1396"/>
+<area shape="rect" id="node40" href="$d0/dbb/classPartLabel.html" title=" " alt="" coords="2243,497,2450,1029"/>
+<area shape="rect" id="node3" href="$dc/d2c/classNote.html" title=" " alt="" coords="1731,1495,1941,2174"/>
+<area shape="rect" id="node4" href="$d7/de7/classPaletteItemBase.html" title=" " alt="" coords="1966,1591,2197,2079"/>
+<area shape="rect" id="node36" href="$d7/d64/classWire.html" title=" " alt="" coords="2921,1444,3196,2225"/>
+<area shape="rect" id="node5" href="$d8/d7f/classLayerKinPaletteItem.html" title=" " alt="" coords="1182,2464,1362,2805"/>
+<area shape="rect" id="node7" href="$d3/d04/classPaletteItem.html" title=" " alt="" coords="1974,2273,2189,2996"/>
+<area shape="rect" id="node6" href="$d7/d3d/classSchematicTextLayerKinPaletteItem.html" title=" " alt="" coords="425,3227,700,3466"/>
+<area shape="rect" id="node8" href="$de/d23/classBoard.html" title=" " alt="" coords="725,3088,934,3605"/>
+<area shape="rect" id="node18" href="$d5/de8/classBreadboard.html" title=" " alt="" coords="958,3257,1167,3437"/>
+<area shape="rect" id="node19" href="$df/dca/classCapacitor.html" title=" " alt="" coords="1191,3249,1371,3444"/>
+<area shape="rect" id="node24" href="$d0/d5b/classGroundPlane.html" title=" " alt="" coords="1396,3161,1599,3532"/>
+<area shape="rect" id="node25" href="$d6/d3e/classHole.html" title=" " alt="" coords="1623,3169,1833,3525"/>
+<area shape="rect" id="node27" href="$d6/d39/classJumperItem.html" title=" " alt="" coords="1857,3044,2063,3649"/>
+<area shape="rect" id="node28" href="$d8/d73/classMysteryPart.html" title=" " alt="" coords="2087,3059,2318,3635"/>
+<area shape="rect" id="node30" href="$d9/d10/classPinHeader.html" title=" " alt="" coords="2343,3095,2585,3598"/>
+<area shape="rect" id="node31" href="$d7/d60/classRuler.html" title=" " alt="" coords="2610,3183,2819,3510"/>
+<area shape="rect" id="node32" href="$d0/d51/classSchematicSubpart.html" title=" " alt="" coords="2843,3271,3050,3422"/>
+<area shape="rect" id="node33" href="$db/d54/classScrewTerminal.html" title=" " alt="" coords="3074,3220,3305,3473"/>
+<area shape="rect" id="node34" href="$d8/de8/classSymbolPaletteItem.html" title=" " alt="" coords="3329,3139,3514,3554"/>
+<area shape="rect" id="node9" href="$d7/dde/classResizableBoard.html" title=" " alt="" coords="728,3697,931,4317"/>
+<area shape="rect" id="node10" href="$de/d5e/classLogoItem.html" title=" " alt="" coords="420,4365,615,4853"/>
+<area shape="rect" id="node15" href="$d3/d78/classPad.html" title=" " alt="" coords="728,4424,931,4795"/>
+<area shape="rect" id="node17" href="$df/d59/classSchematicFrame.html" title=" " alt="" coords="955,4373,1157,4846"/>
+<area shape="rect" id="node11" href="$d7/d13/classBoardLogoItem.html" title=" " alt="" coords="5,4901,192,5169"/>
+<area shape="rect" id="node12" href="$d5/d7a/classBreadboardLogoItem.html" title=" " alt="" coords="216,4945,411,5125"/>
+<area shape="rect" id="node13" href="$d4/d90/classCopperLogoItem.html" title=" " alt="" coords="435,4960,600,5111"/>
+<area shape="rect" id="node14" href="$df/d97/classSchematicLogoItem.html" title=" " alt="" coords="624,4967,811,5103"/>
+<area shape="rect" id="node16" href="$d4/d01/classCopperBlocker.html" title=" " alt="" coords="835,4960,1005,5111"/>
+<area shape="rect" id="node20" href="$d9/d6b/classLED.html" title=" " alt="" coords="961,3873,1146,4141"/>
+<area shape="rect" id="node21" href="$d6/d92/classPerfboard.html" title=" " alt="" coords="1170,3800,1379,4215"/>
+<area shape="rect" id="node23" href="$dd/df8/classResistor.html" title=" " alt="" coords="1404,3763,1591,4251"/>
+<area shape="rect" id="node22" href="$d3/dee/classStripboard.html" title=" " alt="" coords="1189,4380,1360,4839"/>
+<area shape="rect" id="node26" href="$d7/dc8/classVia.html" title=" " alt="" coords="1615,3881,1879,4134"/>
+<area shape="rect" id="node29" href="$dc/dec/classDip.html" title=" " alt="" coords="2087,3829,2318,4185"/>
+<area shape="rect" id="node35" href="$df/d12/classNetLabel.html" title=" " alt="" coords="3343,3910,3500,4105"/>
+<area shape="rect" id="node37" href="$d6/d53/classClipableWire.html" title=" " alt="" coords="3528,2449,3747,2820"/>
+<area shape="rect" id="node38" href="$d1/d9a/classTraceWire.html" title=" " alt="" coords="3539,3198,3736,3495"/>
+<area shape="rect" id="node39" href="$da/d1d/classVirtualWire.html" title=" " alt="" coords="3760,3205,3992,3488"/>
+</map>

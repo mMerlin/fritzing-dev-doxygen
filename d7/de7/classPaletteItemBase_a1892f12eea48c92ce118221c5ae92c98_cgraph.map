@@ -1,0 +1,13 @@
+<map id="PaletteItemBase::paintSelected" name="PaletteItemBase::paintSelected">
+<area shape="rect" id="node1" title=" " alt="" coords="5,95,232,121"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#af04d5720eead42b15b100b923cd9a00d" title=" " alt="" coords="280,44,497,71"/>
+<area shape="rect" id="node3" href="$d4/d4f/classItemBase.html#a2a2a7cb485d4f6175d7c81c772bf384c" title=" " alt="" coords="298,95,479,121"/>
+<area shape="rect" id="node9" href="$d7/dfe/classGraphicsUtils.html#a24f181b4b2b5074cb796836a02517bc3" title=" " alt="" coords="545,143,737,185"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#afe2eaccd6266f7c70092425055e9e726" title=" " alt="" coords="551,41,732,68"/>
+<area shape="rect" id="node8" href="$d4/d4f/classItemBase.html#ab6a1fe536ae8bbb70c223bdf3214f577" title=" " alt="" coords="557,92,726,119"/>
+<area shape="rect" id="node5" href="$df/db0/classFSvgRenderer.html#abfa59a6da2875e59a5ab3112fd644ade" title=" " alt="" coords="785,5,987,32"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#a783246d1e45a53efa9e044fca46d2c9f" title=" " alt="" coords="797,56,975,83"/>
+<area shape="rect" id="node7" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="1035,56,1189,83"/>
+<area shape="rect" id="node10" href="$d4/d08/misc_8h.html#ae7cc352fa1dc81e57ff53ebbc762f27d" title=" " alt="" coords="857,121,915,148"/>
+<area shape="rect" id="node11" href="$d4/d08/misc_8h.html#aec6ff9c887dc8733e787bf81a01492fd" title=" " alt="" coords="859,172,913,199"/>
+</map>

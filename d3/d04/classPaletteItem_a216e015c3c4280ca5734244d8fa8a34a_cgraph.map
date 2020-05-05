@@ -1,0 +1,20 @@
+<map id="PaletteItem::resetConnector" name="PaletteItem::resetConnector">
+<area shape="rect" id="node1" title=" " alt="" coords="5,304,209,331"/>
+<area shape="rect" id="node2" href="$dc/d3a/classConnectorItem.html#adf8843eb2f856a9d4ed82874d110227a" title=" " alt="" coords="258,111,485,137"/>
+<area shape="rect" id="node8" href="$d4/d4f/classItemBase.html#af8b5baf85b1febe04dbaccd09e90d58a" title=" " alt="" coords="269,162,473,203"/>
+<area shape="rect" id="node9" href="$d7/d2d/classSvgIdLayer.html#a502c6df4b10d63a5a41582da945e35ee" title=" " alt="" coords="304,228,439,255"/>
+<area shape="rect" id="node11" href="$d7/d2d/classSvgIdLayer.html#acdaf551c0efe7ce5b7197185c60f7b64" title=" " alt="" coords="308,279,435,305"/>
+<area shape="rect" id="node13" href="$dc/d09/classNonConnectorItem.html#a6aad78dd5da1f2fb196108490cc7a8e1" title=" " alt="" coords="266,329,477,356"/>
+<area shape="rect" id="node14" href="$dc/d09/classNonConnectorItem.html#abf259f506f5e1de5dd5cafa3d9b21748" title=" " alt="" coords="263,380,479,407"/>
+<area shape="rect" id="node17" href="$dc/d3a/classConnectorItem.html#ad1ea0a231aa8cf2f8e07a31fffc5b5c8" title=" " alt="" coords="270,431,473,473"/>
+<area shape="rect" id="node18" href="$d4/d4f/classItemBase.html#a3dd3d84b0fdadf869b2bbd87f42ec156" title=" " alt="" coords="257,497,485,524"/>
+<area shape="rect" id="node3" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="533,5,756,32"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#a574c87eb0c9c35b03e26c995e81c88ef" title=" " alt="" coords="543,56,746,83"/>
+<area shape="rect" id="node5" href="$dc/d3a/classConnectorItem.html#af2e14ebbdaa87a6c6dd301825fc83fc0" title=" " alt="" coords="548,107,741,149"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#a7565ba05974fedf75bb75923b18bca1a" title=" " alt="" coords="559,173,730,200"/>
+<area shape="rect" id="node7" href="$d3/de8/classViewGeometry.html#a11ca759a75de95be900ac023617a1858" title=" " alt="" coords="804,173,1008,200"/>
+<area shape="rect" id="node10" href="$d1/d88/classPointRect.html#aacdc9cc8b5f980cb5aafdf82f8909d6a" title=" " alt="" coords="571,228,718,255"/>
+<area shape="rect" id="node12" href="$d1/d88/classPointRect.html#a35106398b82d6e7cacb0c7754cdfa9b8" title=" " alt="" coords="573,279,716,305"/>
+<area shape="rect" id="node15" href="$dc/d09/classNonConnectorItem.html#aec029a6f4aa8c20f02016bb43881a19f" title=" " alt="" coords="549,355,741,381"/>
+<area shape="rect" id="node16" href="$dc/d09/classNonConnectorItem.html#a4b26de20defdd7184d44fd2c178b5407" title=" " alt="" coords="549,406,741,447"/>
+</map>

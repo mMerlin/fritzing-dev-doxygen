@@ -1,0 +1,17 @@
+<map id="ResizableBoard" name="ResizableBoard">
+<area shape="rect" id="node1" title=" " alt="" coords="728,3316,931,3936"/>
+<area shape="rect" id="node8" href="$de/d5e/classLogoItem.html" title=" " alt="" coords="420,3984,615,4472"/>
+<area shape="rect" id="node13" href="$d3/d78/classPad.html" title=" " alt="" coords="728,4043,931,4413"/>
+<area shape="rect" id="node15" href="$df/d59/classSchematicFrame.html" title=" " alt="" coords="955,3991,1157,4465"/>
+<area shape="rect" id="node2" href="$de/d23/classBoard.html" title=" " alt="" coords="725,2751,934,3268"/>
+<area shape="rect" id="node3" href="$d3/d04/classPaletteItem.html" title=" " alt="" coords="722,1980,937,2703"/>
+<area shape="rect" id="node4" href="$d7/de7/classPaletteItemBase.html" title=" " alt="" coords="714,1444,945,1932"/>
+<area shape="rect" id="node5" href="$d4/d4f/classItemBase.html" title=" " alt="" coords="575,131,849,1396"/>
+<area shape="rect" id="node6" href="$df/da7/classQGraphicsSvgItem.html" title=" " alt="" coords="641,5,783,83"/>
+<area shape="rect" id="node7" href="$db/d0a/classCursorKeyListener.html" title=" " alt="" coords="874,725,1022,802"/>
+<area shape="rect" id="node9" href="$d7/d13/classBoardLogoItem.html" title=" " alt="" coords="5,4520,192,4788"/>
+<area shape="rect" id="node10" href="$d5/d7a/classBreadboardLogoItem.html" title=" " alt="" coords="216,4564,411,4744"/>
+<area shape="rect" id="node11" href="$d4/d90/classCopperLogoItem.html" title=" " alt="" coords="435,4579,600,4729"/>
+<area shape="rect" id="node12" href="$df/d97/classSchematicLogoItem.html" title=" " alt="" coords="624,4586,811,4722"/>
+<area shape="rect" id="node14" href="$d4/d01/classCopperBlocker.html" title=" " alt="" coords="835,4579,1005,4729"/>
+</map>

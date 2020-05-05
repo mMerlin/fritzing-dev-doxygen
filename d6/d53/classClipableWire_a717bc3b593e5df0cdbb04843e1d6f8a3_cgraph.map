@@ -1,0 +1,12 @@
+<map id="ClipableWire::calcClip" name="ClipableWire::calcClip">
+<area shape="rect" id="node1" title=" " alt="" coords="5,173,169,200"/>
+<area shape="rect" id="node2" href="$dc/d3a/classConnectorItem.html#ac66f6d3ce92c69990c1131d598f67401" title=" " alt="" coords="217,93,439,120"/>
+<area shape="rect" id="node7" href="$d6/d53/classClipableWire.html#ab6255933108377e6cc6d0472420ff445" title=" " alt="" coords="221,144,435,171"/>
+<area shape="rect" id="node9" href="$dc/d3a/classConnectorItem.html#a4724f01fd175b70710bb88e3bad1d3aa" title=" " alt="" coords="225,195,431,237"/>
+<area shape="rect" id="node10" href="$d7/dfe/classGraphicsUtils.html#a6871188db62e8f636440f994911b14a3" title=" " alt="" coords="231,261,425,288"/>
+<area shape="rect" id="node3" href="$dc/d09/classNonConnectorItem.html#aec029a6f4aa8c20f02016bb43881a19f" title=" " alt="" coords="487,5,679,32"/>
+<area shape="rect" id="node4" href="$dc/d09/classNonConnectorItem.html#a4b26de20defdd7184d44fd2c178b5407" title=" " alt="" coords="487,57,679,98"/>
+<area shape="rect" id="node5" href="$d7/d2d/classSvgIdLayer.html#acdaf551c0efe7ce5b7197185c60f7b64" title=" " alt="" coords="519,123,646,149"/>
+<area shape="rect" id="node6" href="$d1/d88/classPointRect.html#a35106398b82d6e7cacb0c7754cdfa9b8" title=" " alt="" coords="727,123,869,149"/>
+<area shape="rect" id="node8" href="$d7/d64/classWire.html#aeeab152819f6e13d4f41614ba7e72761" title=" " alt="" coords="541,173,625,200"/>
+</map>

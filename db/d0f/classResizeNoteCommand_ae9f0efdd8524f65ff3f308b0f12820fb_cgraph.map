@@ -1,0 +1,15 @@
+<map id="ResizeNoteCommand::redo" name="ResizeNoteCommand::redo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,205,108"/>
+<area shape="rect" id="node2" href="$d8/d6e/classBaseCommand.html#a165c99f7028014fa735ee7f0c74afeaf" title=" " alt="" coords="269,56,427,83"/>
+<area shape="rect" id="node5" href="$d8/d37/classSketchWidget.html#a63313ca38dc58bf1e9f6744a8aefc092" title=" " alt="" coords="253,107,443,133"/>
+<area shape="rect" id="node3" href="$df/d8b/classCommandProgress.html#aebf23a39ab6caf18a3e7b3351ad4f49d" title=" " alt="" coords="502,5,695,32"/>
+<area shape="rect" id="node4" href="$df/d8b/classCommandProgress.html#af6c9106bc35e189ceb59132c1ac065b6" title=" " alt="" coords="491,56,707,83"/>
+<area shape="rect" id="node6" href="$d8/d37/classSketchWidget.html#a8e2ae23ef1e4c2ad993e0c3985e5c3ba" title=" " alt="" coords="512,107,685,133"/>
+<area shape="rect" id="node10" href="$dc/d2c/classNote.html#a0273c381a88c739b6a234491b5c0ca94" title=" " alt="" coords="545,183,653,209"/>
+<area shape="rect" id="node7" href="$d4/d4f/classItemBase.html#a27afd199a7ae3c3fd14e88ed0be14420" title=" " alt="" coords="806,31,910,57"/>
+<area shape="rect" id="node8" href="$d4/d4f/classItemBase.html#abf6d16e250a353043cd4953ddc049bd0" title=" " alt="" coords="768,81,948,108"/>
+<area shape="rect" id="node9" href="$d4/d4f/classItemBase.html#acc32076e751f0e21ffb9050f275d3b87" title=" " alt="" coords="785,132,931,159"/>
+<area shape="rect" id="node11" href="$dc/d2c/classNote.html#a708a59e31bba4e86715ff6263f2c4df1" title=" " alt="" coords="788,183,928,209"/>
+<area shape="rect" id="node13" href="$d4/d4f/classItemBase.html#ab1484692ebea9a39e103002ea06421ab" title=" " alt="" coords="755,234,961,275"/>
+<area shape="rect" id="node12" href="$dc/d2c/classNote.html#ae25f6f876cc5555ba0d439567e10f917" title=" " alt="" coords="1009,183,1160,209"/>
+</map>

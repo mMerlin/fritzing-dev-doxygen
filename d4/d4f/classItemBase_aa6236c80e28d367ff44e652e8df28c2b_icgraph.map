@@ -1,0 +1,6 @@
+<map id="ItemBase::movePartLabel" name="ItemBase::movePartLabel">
+<area shape="rect" id="node1" title=" " alt="" coords="517,31,707,57"/>
+<area shape="rect" id="node2" href="$d8/d37/classSketchWidget.html#ab0bc905720e73653f27cfae15206a3bd" title=" " alt="" coords="253,31,469,57"/>
+<area shape="rect" id="node3" href="$d7/d71/classMoveLabelCommand.html#abdfe13a668807acb39892fc6bb02cafd" title=" " alt="" coords="5,5,205,32"/>
+<area shape="rect" id="node4" href="$d7/d71/classMoveLabelCommand.html#ad89bd532ce13de49762d8443ab0ef921" title=" " alt="" coords="7,56,204,83"/>
+</map>

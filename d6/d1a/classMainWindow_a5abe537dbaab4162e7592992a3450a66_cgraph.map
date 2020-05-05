@@ -1,0 +1,114 @@
+<map id="MainWindow::saveBundledPart" name="MainWindow::saveBundledPart">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1440,228,1467"/>
+<area shape="rect" id="node2" href="$d3/d1c/classFritzingWindow.html#a46da018c6bcb10814e9e2a848dab0dd4" title=" " alt="" coords="290,1374,493,1415"/>
+<area shape="rect" id="node8" href="$d4/d08/misc_8h.html#a6d45f03f87be52b2975812e690f9ae68" title=" " alt="" coords="1103,5,1315,32"/>
+<area shape="rect" id="node12" href="$dd/d63/classFolderUtils.html#a759177aa161443276b5197b80101186e" title=" " alt="" coords="301,1155,482,1197"/>
+<area shape="rect" id="node13" href="$dd/d63/classFolderUtils.html#a00dc42e63e4e691371265ec1c6f6ac27" title=" " alt="" coords="298,885,485,926"/>
+<area shape="rect" id="node35" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="2127,2088,2281,2115"/>
+<area shape="rect" id="node36" href="$de/db8/classTextUtils.html#ad35d662d2ca478c32b715c6d276de55e" title=" " alt="" coords="575,1221,743,1248"/>
+<area shape="rect" id="node64" href="$d6/d1a/classMainWindow.html#a245cf5178d10fd872f8a74872ba9aff9" title=" " alt="" coords="276,1272,507,1299"/>
+<area shape="rect" id="node67" href="$dd/d63/classFolderUtils.html#a0102eb1951eecd173ee852859d7057ca" title=" " alt="" coords="284,1323,499,1349"/>
+<area shape="rect" id="node70" href="$d4/d4f/classItemBase.html#acc2f5bad42928e7178c28fa0771b1f60" title=" " alt="" coords="312,1491,471,1517"/>
+<area shape="rect" id="node71" href="$d4/d72/classModelPart.html#affa1c5cf5ca90387b030ec2f8311823f" title=" " alt="" coords="854,1389,1013,1416"/>
+<area shape="rect" id="node72" href="$dd/d63/classFolderUtils.html#a714dffeb9966767ba34d521fafb0f219" title=" " alt="" coords="324,1592,459,1619"/>
+<area shape="rect" id="node73" href="$d6/d1a/classMainWindow.html#a9c3c720fbcdeeb56173c5d0cde8515ec" title=" " alt="" coords="280,1541,503,1568"/>
+<area shape="rect" id="node85" href="$d4/d72/classModelPart.html#a29e10c6f50f41dbb0022f6e885b282e9" title=" " alt="" coords="873,2333,994,2360"/>
+<area shape="rect" id="node110" href="$d3/d1c/classFritzingWindow.html#a4eb152893461e532ce76c99f4223754e" title=" " alt="" coords="302,1643,481,1669"/>
+<area shape="rect" id="node112" href="$d2/d94/classFMessageBox.html#a64304e91e7816907a25c81f8ffc3284a" title=" " alt="" coords="1617,2435,1791,2461"/>
+<area shape="rect" id="node3" href="$d3/d1c/classFritzingWindow.html#aa47767f58c66caeff225b25a5454c390" title=" " alt="" coords="565,1617,753,1644"/>
+<area shape="rect" id="node4" href="$d7/d5f/misc_8cpp.html#acfc58c1b63c0597456d226225dad023c" title=" " alt="" coords="590,563,729,589"/>
+<area shape="rect" id="node5" href="$d7/d5f/misc_8cpp.html#a8b9d9444c5bd4f7781707e79227affd0" title=" " alt="" coords="851,157,1016,184"/>
+<area shape="rect" id="node6" href="$d4/d08/misc_8h.html#ad72485ea9c87de2533a6eb0e699ecfb4" title=" " alt="" coords="1131,259,1286,285"/>
+<area shape="rect" id="node7" href="$d4/d08/misc_8h.html#aa8a502117c973eea5594ca069587b0e8" title=" " alt="" coords="1105,56,1313,83"/>
+<area shape="rect" id="node9" href="$d4/d08/misc_8h.html#abb7ae10a2ca56c950bda6dacee791688" title=" " alt="" coords="1119,107,1298,133"/>
+<area shape="rect" id="node10" href="$d4/d08/misc_8h.html#af94921b1392f8ec18b3d575c2c762b94" title=" " alt="" coords="1129,157,1288,184"/>
+<area shape="rect" id="node11" href="$d4/d08/misc_8h.html#a74b4dc3fdcea5d103f2659a5f0088b0b" title=" " alt="" coords="1120,208,1297,235"/>
+<area shape="rect" id="node14" href="$d9/de5/classQuaZip.html#a7a4323b73e12f3b4470109f200728f9f" title="Closes ZIP file." alt="" coords="878,765,989,792"/>
+<area shape="rect" id="node27" href="$da/da8/classQuaZipFile.html#a42a39b12619bccd3d419ee60bbb3fcf6" title="Closes the file." alt="" coords="592,613,727,640"/>
+<area shape="rect" id="node34" href="$d9/de5/classQuaZip.html#aacfec612329cc4a2fbbb515cd024f793" title="Returns the error code of the last operation." alt="" coords="858,816,1009,843"/>
+<area shape="rect" id="node37" href="$da/da8/classQuaZipFile.html#a69f10d51ac3030ee2f2a6f82503e84a0" title="Returns the error code returned by the last ZIP/UNZIP API call." alt="" coords="573,917,746,944"/>
+<area shape="rect" id="node38" href="$d9/de5/classQuaZip.html#abfa4e6018b2964a3d10a4c54e5ab3962" title="Opens ZIP file." alt="" coords="879,867,988,893"/>
+<area shape="rect" id="node62" href="$da/da8/classQuaZipFile.html#a4c20c0ef00ae79c9a59eafe2906c9384" title="Opens a file for reading." alt="" coords="593,512,725,539"/>
+<area shape="rect" id="node63" href="$dd/d63/classFolderUtils.html#ab17a0b4ee45f0976d68b55597dd83fd0" title=" " alt="" coords="577,1389,742,1416"/>
+<area shape="rect" id="node15" href="$d6/da7/unzip_8c.html#af6ab0ba88ab5da62747df8f9336f1bb3" title=" " alt="" coords="1168,715,1249,741"/>
+<area shape="rect" id="node17" href="$d0/d5f/zip_8c.html#a4fda7a41fa2f57d105ffc7d1cbcf53cc" title=" " alt="" coords="1170,765,1247,792"/>
+<area shape="rect" id="node16" href="$d6/da7/unzip_8c.html#ac48279e5325cfdabbc67a312b1d32700" title=" " alt="" coords="1383,411,1535,437"/>
+<area shape="rect" id="node18" href="$d0/d5f/zip_8c.html#a5fdfcec2cad86ab1420b0059ee03fb00" title=" " alt="" coords="1399,512,1518,539"/>
+<area shape="rect" id="node19" href="$d2/db7/ioapi_8h.html#a50e9e9d5c30e481de822ad68fe537986" title=" " alt="" coords="2173,867,2235,893"/>
+<area shape="rect" id="node20" href="$d0/d5f/zip_8c.html#ae470f753aef4cffe4f77a5ec2bcfbde1" title=" " alt="" coords="1392,461,1525,488"/>
+<area shape="rect" id="node25" href="$d0/d5f/zip_8c.html#a36feaf8a1065df30f930867493e85719" title=" " alt="" coords="1892,563,2028,589"/>
+<area shape="rect" id="node21" href="$d0/d5f/zip_8c.html#a43fe6f36cef62c7f34c0fdb4c8288b87" title=" " alt="" coords="1623,461,1785,488"/>
+<area shape="rect" id="node22" href="$d0/d5f/zip_8c.html#a030fc7eff1719f676267e1f3529c452e" title=" " alt="" coords="1874,461,2046,488"/>
+<area shape="rect" id="node24" href="$d0/d5f/zip_8c.html#a9cd2dfc90ba0aee3d5558fac70fcc902" title=" " alt="" coords="1885,360,2035,387"/>
+<area shape="rect" id="node26" href="$d0/d5f/zip_8c.html#a188a9087b9bfff92085647a3ac5a2f38" title=" " alt="" coords="1855,411,2065,437"/>
+<area shape="rect" id="node23" href="$d0/d5f/zip_8c.html#aeb6943cee58f6c170994889ae106ddab" title=" " alt="" coords="2115,461,2293,488"/>
+<area shape="rect" id="node28" href="$da/da8/classQuaZipFile.html#a83a01593f09b24e4b10bfde54306c477" title=" " alt="" coords="841,563,1026,589"/>
+<area shape="rect" id="node29" href="$da/da8/classQuaZipFile.html#a755afddd4815f099bb1a55b1820fc069" title=" " alt="" coords="1123,537,1295,564"/>
+<area shape="rect" id="node30" href="$d9/de5/classQuaZip.html#ae9652544f94ed1384632ef9b43e6ec92" title="Returns true if ZIP file is open, false otherwise." alt="" coords="1147,613,1270,640"/>
+<area shape="rect" id="node31" href="$d9/de5/classQuaZip.html#a3b78a652f296ff4a678a791e8294e642" title="Returns unzFile handle." alt="" coords="860,664,1007,691"/>
+<area shape="rect" id="node32" href="$da/da8/classQuaZipFile.html#a2167e04a47afcce4dbf4135db7480eac" title="Returns true if the file was opened in raw mode." alt="" coords="864,360,1003,387"/>
+<area shape="rect" id="node33" href="$d9/de5/classQuaZip.html#a425043a4d7cc31e2fe2bba73d954f15c" title="Returns zipFile handle." alt="" coords="862,411,1005,437"/>
+<area shape="rect" id="node39" href="$d6/da7/unzip_8c.html#a899fa69e894354e48aab8869e13fd396" title=" " alt="" coords="1165,1269,1252,1296"/>
+<area shape="rect" id="node56" href="$d0/d5f/zip_8c.html#a1e81b9e717c86e8c7ef8914534cd83e1" title=" " alt="" coords="1417,791,1500,817"/>
+<area shape="rect" id="node40" href="$d5/d84/ioapi_8c.html#ab44f1d585b26ce7f9447a91ada432727" title=" " alt="" coords="1635,1069,1773,1096"/>
+<area shape="rect" id="node48" href="$d6/da7/unzip_8c.html#a54821c0b6da683800164a56f2ae14f33" title=" " alt="" coords="1395,1269,1523,1296"/>
+<area shape="rect" id="node51" href="$d6/da7/unzip_8c.html#adf85ae30e9d93b75f7980750f9696a9a" title=" " alt="" coords="1893,1424,2027,1451"/>
+<area shape="rect" id="node54" href="$d6/da7/unzip_8c.html#a6e42c868757990ea103d34619e3f5fa2" title=" " alt="" coords="1891,1475,2029,1501"/>
+<area shape="rect" id="node55" href="$d6/da7/unzip_8c.html#a284d31610ee61ca6680d154d6e64949e" title=" " alt="" coords="1607,968,1801,995"/>
+<area shape="rect" id="node41" href="$d5/d84/ioapi_8c.html#a12a806aa61c249ef344bd3e528641325" title=" " alt="" coords="1899,1221,2021,1248"/>
+<area shape="rect" id="node42" href="$d5/d84/ioapi_8c.html#ae67c883fafa49a27f296fee12709fa5b" title=" " alt="" coords="1900,1019,2020,1045"/>
+<area shape="rect" id="node43" href="$d5/d84/ioapi_8c.html#ab16242c09ff27ff5f13b79e4a367068e" title=" " alt="" coords="1899,1069,2021,1096"/>
+<area shape="rect" id="node44" href="$d5/d84/ioapi_8c.html#a8413758028f1cc3444993fb8be822696" title=" " alt="" coords="1901,917,2019,944"/>
+<area shape="rect" id="node45" href="$d5/d84/ioapi_8c.html#a0f11721c477f14c803565ff90140dcb5" title=" " alt="" coords="1900,1120,2020,1147"/>
+<area shape="rect" id="node46" href="$d5/d84/ioapi_8c.html#a1be834ab0bdd674886b5d38cf31a01c0" title=" " alt="" coords="1905,1171,2015,1197"/>
+<area shape="rect" id="node47" href="$d5/d84/ioapi_8c.html#a1a5a1c0c57e77a7a8d2fb00a4f5a9a19" title=" " alt="" coords="1899,968,2021,995"/>
+<area shape="rect" id="node49" href="$d6/da7/unzip_8c.html#a604f8ca20c251b1ae520a40cd1a688ad" title=" " alt="" coords="1603,1262,1805,1303"/>
+<area shape="rect" id="node50" href="$d6/da7/unzip_8c.html#a2adf50ee682fe99e90f76e3b5c5aff19" title=" " alt="" coords="1853,1272,2067,1299"/>
+<area shape="rect" id="node52" href="$d6/da7/unzip_8c.html#a5ebba7e31a1d05c7283915a397b4b3d0" title=" " alt="" coords="2137,1449,2271,1476"/>
+<area shape="rect" id="node53" href="$d2/db7/ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title=" " alt="" coords="2341,1449,2380,1476"/>
+<area shape="rect" id="node57" href="$d0/d5f/zip_8c.html#ab1a9e286f304e1447d9cd122b576e8e7" title=" " alt="" coords="1649,816,1759,843"/>
+<area shape="rect" id="node58" href="$d0/d5f/zip_8c.html#a7224e414f49d927fbd8f27b66b60ec09" title=" " alt="" coords="1895,715,2025,741"/>
+<area shape="rect" id="node60" href="$d0/d5f/zip_8c.html#a667c1905a3e3f7e5f1ce1cfaa57f3f80" title=" " alt="" coords="1893,664,2027,691"/>
+<area shape="rect" id="node61" href="$d0/d5f/zip_8c.html#a4ea4b4773490a189bde2b156e8f670a4" title=" " alt="" coords="1609,867,1799,893"/>
+<area shape="rect" id="node59" href="$d0/d5f/zip_8c.html#a05d1c7d81a3f8d813682bd1e7ca2aeef" title=" " alt="" coords="2139,715,2269,741"/>
+<area shape="rect" id="node65" href="$dd/d63/classFolderUtils.html#a3be898e3748e862cdd4b7c9fba654d1d" title=" " alt="" coords="557,1272,761,1299"/>
+<area shape="rect" id="node66" href="$dd/d63/classFolderUtils.html#a9e306412034df4031e73cf34f8348439" title=" " alt="" coords="1119,1453,1298,1494"/>
+<area shape="rect" id="node68" href="$dd/d63/classFolderUtils.html#a993f8ba1c7d1b072ba3a15a426ebf8c8" title=" " alt="" coords="566,1323,753,1365"/>
+<area shape="rect" id="node69" href="$dd/d63/classFolderUtils.html#a51ca9ec3ca614b435ab008619bbed235" title=" " alt="" coords="840,1323,1027,1365"/>
+<area shape="rect" id="node74" href="$d0/d85/classPartFactory.html#ab89d049f6f75e11a655af0a3e11add4f" title=" " alt="" coords="556,1811,763,1837"/>
+<area shape="rect" id="node77" href="$d4/d72/classModelPart.html#a4c4b99accea7970f828880cfb85a4ce3" title=" " alt="" coords="871,1440,995,1467"/>
+<area shape="rect" id="node109" href="$d4/d72/classModelPart.html#a533184efe05407b6149ad0d076e10ec0" title=" " alt="" coords="555,1541,764,1568"/>
+<area shape="rect" id="node75" href="$dd/d63/classFolderUtils.html#ab9ed75a3706e46f388802b915640ac61" title=" " alt="" coords="828,1491,1039,1517"/>
+<area shape="rect" id="node76" href="$d0/d85/classPartFactory.html#ae677aab758f00def4e91f7162d10f3ab" title=" " alt="" coords="850,1928,1017,1955"/>
+<area shape="rect" id="node78" href="$dd/d63/classFolderUtils.html#a1d31fd7428720ce7c1480a9cf6dc15de" title=" " alt="" coords="844,1862,1023,1903"/>
+<area shape="rect" id="node84" href="$d4/d72/classModelPart.html#a0f97eb1ff6826eb9948b3e62ab3b45fd" title=" " alt="" coords="835,1979,1031,2005"/>
+<area shape="rect" id="node86" href="$d4/d72/classModelPart.html#a1a3c3970a8a05587649f4e1b4a20fb5b" title=" " alt="" coords="830,2029,1037,2056"/>
+<area shape="rect" id="node87" href="$d9/d6c/classModelPartShared.html#a8132139bbd92106024c883cc34d74371" title=" " alt="" coords="823,2080,1043,2107"/>
+<area shape="rect" id="node88" href="$d9/d6c/classModelPartShared.html#af54a1491f022e7a07d7ffd564b37bb16" title=" " alt="" coords="812,2131,1055,2157"/>
+<area shape="rect" id="node91" href="$d9/d6c/classModelPartShared.html#ab39283df6c5d0fc655532f6d62decdb3" title=" " alt="" coords="835,2181,1031,2208"/>
+<area shape="rect" id="node92" href="$d0/d85/classPartFactory.html#a7afcc368d63c5f1dc170eac3a84360fc" title=" " alt="" coords="856,2232,1011,2259"/>
+<area shape="rect" id="node93" href="$d9/d6c/classModelPartShared.html#a4c8898a38462b2d1929d7a22b783acdd" title=" " alt="" coords="1103,1545,1314,1586"/>
+<area shape="rect" id="node94" href="$d0/d85/classPartFactory.html#a98fc44b22c3dce129d31023377beff02" title=" " alt="" coords="841,1592,1026,1619"/>
+<area shape="rect" id="node95" href="$d9/d6c/classModelPartShared.html#aea3a5bf46afdc39c5369ea5ca3004001" title=" " alt="" coords="1107,1835,1310,1861"/>
+<area shape="rect" id="node96" href="$d0/d85/classPartFactory.html#a988b009a1f71fcf7e975177ae5a3e104" title=" " alt="" coords="826,1643,1041,1669"/>
+<area shape="rect" id="node107" href="$d9/d6c/classModelPartShared.html#af1ff8b0ba6018d5da68d3a961968c930" title=" " alt="" coords="839,1745,1028,1786"/>
+<area shape="rect" id="node108" href="$de/db8/classTextUtils.html#a0301b94dbede1f79d5518f7e21c65fb6" title=" " alt="" coords="859,1811,1007,1837"/>
+<area shape="rect" id="node79" href="$dd/d63/classFolderUtils.html#a1cfc928bc5e4767ee32d0e12fe3e14a8" title=" " alt="" coords="1875,2016,2045,2043"/>
+<area shape="rect" id="node80" href="$dd/d63/classFolderUtils.html#affe62da0f029c1f69d5fbc0fd1fc0c74" title=" " alt="" coords="1119,1899,1298,1941"/>
+<area shape="rect" id="node81" href="$dd/d63/classFolderUtils.html#a362640e33643f9f8049352fd7d947ea8" title=" " alt="" coords="1369,1899,1548,1941"/>
+<area shape="rect" id="node82" href="$dd/d63/classFolderUtils.html#ab9ac929b2f8ae09fb703d6e4fcc952e0" title=" " alt="" coords="1607,1899,1801,1941"/>
+<area shape="rect" id="node83" href="$dd/d63/classFolderUtils.html#ae36aca73d9a99c08603ca1f2b908dea0" title=" " alt="" coords="1874,1950,2046,1991"/>
+<area shape="rect" id="node89" href="$d4/d4f/classItemBase.html#a39957519ed5ac922dead0466357d4644" title=" " alt="" coords="1140,2117,1277,2144"/>
+<area shape="rect" id="node90" href="$d4/d4f/classItemBase.html#a8f16baa26ee92ac6cd8dda5c69d759d4" title=" " alt="" coords="1122,2168,1295,2195"/>
+<area shape="rect" id="node97" href="$de/db8/classTextUtils.html#ac9ce32bc4bf73730e4a0cda08188d7e0" title=" " alt="" coords="1115,1784,1303,1811"/>
+<area shape="rect" id="node102" href="$de/db8/classTextUtils.html#af7854eec8a82d579424248f45446191b" title=" " alt="" coords="1125,1733,1292,1760"/>
+<area shape="rect" id="node103" href="$d6/dab/classSvgText.html#a5458c01d572d8306903cacc0d3f2cd0d" title=" " alt="" coords="1133,1632,1284,1659"/>
+<area shape="rect" id="node98" href="$de/db8/classTextUtils.html#a491e4184481aaf5e501c351f88e37246" title=" " alt="" coords="1365,1784,1552,1811"/>
+<area shape="rect" id="node100" href="$de/db8/classTextUtils.html#a53e674684a7ceb29e742cae16c5e246b" title=" " alt="" coords="1363,1835,1555,1861"/>
+<area shape="rect" id="node99" href="$de/db8/classTextUtils.html#af0e4253de83781c52fcd24852666100f" title=" " alt="" coords="1612,1759,1796,1785"/>
+<area shape="rect" id="node101" href="$de/db8/classTextUtils.html#a081f65f326bccb69ddec2919b692c479" title=" " alt="" coords="1615,1835,1793,1861"/>
+<area shape="rect" id="node104" href="$d1/d9e/svgtext_8cpp.html#a83d6b3350d25cae4592188270b0cfac0" title=" " alt="" coords="1421,1581,1496,1608"/>
+<area shape="rect" id="node105" href="$d4/d08/misc_8h.html#ae7cc352fa1dc81e57ff53ebbc762f27d" title=" " alt="" coords="1429,1632,1488,1659"/>
+<area shape="rect" id="node106" href="$d4/d08/misc_8h.html#aec6ff9c887dc8733e787bf81a01492fd" title=" " alt="" coords="1431,1683,1486,1709"/>
+<area shape="rect" id="node111" href="$d3/d1c/classFritzingWindow.html#a516a46a566017b11ed8d849b4d4d614a" title=" " alt="" coords="572,1862,747,1903"/>
+</map>

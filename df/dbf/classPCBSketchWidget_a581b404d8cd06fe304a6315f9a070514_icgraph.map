@@ -1,0 +1,7 @@
+<map id="PCBSketchWidget::sameElectricalLayer2" name="PCBSketchWidget::sameElectricalLayer2">
+<area shape="rect" id="node1" title=" " alt="" coords="1125,5,1367,47"/>
+<area shape="rect" id="node2" href="$df/dbf/classPCBSketchWidget.html#ab856d0a739265560faa7533311c8071d" title=" " alt="" coords="851,13,1077,39"/>
+<area shape="rect" id="node3" href="$df/dbf/classPCBSketchWidget.html#a25d5284b93de35f568a37799852d8a88" title="canConnectSeed Check if we can connect a seed without getting to close to another part Also checks if..." alt="" coords="549,13,803,39"/>
+<area shape="rect" id="node4" href="$df/dbf/classPCBSketchWidget.html#a582ac421949a4c295bb2ae73f785287c" title=" " alt="" coords="263,13,501,39"/>
+<area shape="rect" id="node5" href="$df/dbf/classPCBSketchWidget.html#a4e805d3449198677f63a796fd9f8ae22" title=" " alt="" coords="5,13,215,39"/>
+</map>

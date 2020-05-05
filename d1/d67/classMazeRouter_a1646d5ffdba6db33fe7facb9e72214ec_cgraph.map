@@ -1,0 +1,12 @@
+<map id="MazeRouter::route" name="MazeRouter::route">
+<area shape="rect" id="node1" title=" " alt="" coords="5,108,148,135"/>
+<area shape="rect" id="node2" href="$d1/d67/classMazeRouter.html#a32342dbb61a3fdc1568c7899c702bb6d" title=" " alt="" coords="400,32,607,59"/>
+<area shape="rect" id="node5" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="197,83,351,109"/>
+<area shape="rect" id="node6" href="$d1/d67/classMazeRouter.html#ad804f2fa42ac5e32231e123143cfe6b3" title=" " alt="" coords="196,133,352,160"/>
+<area shape="rect" id="node9" href="$d1/d67/classMazeRouter.html#a655bee95c994548b01ee5d66ea2228d0" title=" " alt="" coords="417,196,590,223"/>
+<area shape="rect" id="node3" href="$d5/d78/structGrid.html#abaa75317af57191e1343db3231237ea3" title=" " alt="" coords="901,120,972,147"/>
+<area shape="rect" id="node4" href="$d5/d78/structGrid.html#ad0343baab84bd96758d6819404d690b9" title=" " alt="" coords="709,44,799,71"/>
+<area shape="rect" id="node7" href="$d1/d67/classMazeRouter.html#aa8f01e4a331c8bacc51c1bd7fb25158b" title=" " alt="" coords="412,120,595,147"/>
+<area shape="rect" id="node8" href="$d1/d67/classMazeRouter.html#a8e3f580781e380f740fbb9b0f2716722" title=" " alt="" coords="669,145,839,172"/>
+<area shape="rect" id="node10" href="$d1/d67/classMazeRouter.html#ae547c59ef8957d71cf484b40f86e48a7" title=" " alt="" coords="655,196,853,223"/>
+</map>

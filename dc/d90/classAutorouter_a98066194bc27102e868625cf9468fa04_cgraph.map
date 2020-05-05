@@ -1,0 +1,10 @@
+<map id="Autorouter::addUndoConnection" name="Autorouter::addUndoConnection">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,236,105"/>
+<area shape="rect" id="node2" href="$dc/d90/classAutorouter.html#aa01be0fc5ee657dc209d2a4ed2175fb9" title=" " alt="" coords="284,21,515,47"/>
+<area shape="rect" id="node4" href="$d7/dc8/classVia.html#aa63d89d744e5445871998bb617479277" title=" " alt="" coords="327,78,472,105"/>
+<area shape="rect" id="node6" href="$dc/d3a/classConnectorItem.html#a560c1e8d67851141398c6923c12f1a49" title=" " alt="" coords="290,136,509,177"/>
+<area shape="rect" id="node3" href="$d8/de8/classSymbolPaletteItem.html#aa1280c8cad4c9ea0252d2e06750f6883" title=" " alt="" coords="587,5,742,47"/>
+<area shape="rect" id="node5" href="$d4/d4f/classItemBase.html#af8b5baf85b1febe04dbaccd09e90d58a" title=" " alt="" coords="563,71,767,112"/>
+<area shape="rect" id="node7" href="$dc/d3a/classConnectorItem.html#aa255a20e50fe55ef1b3726abcd357991" title=" " alt="" coords="566,136,763,177"/>
+<area shape="rect" id="node8" href="$dc/d3a/classConnectorItem.html#abdede51810abd3e7858b1020155f6b8e" title=" " alt="" coords="566,201,763,243"/>
+</map>

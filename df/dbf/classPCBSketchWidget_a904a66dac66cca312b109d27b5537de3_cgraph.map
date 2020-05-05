@@ -1,0 +1,9 @@
+<map id="PCBSketchWidget::calcDistance" name="PCBSketchWidget::calcDistance">
+<area shape="rect" id="node1" title=" " alt="" coords="5,103,233,130"/>
+<area shape="rect" id="node2" href="$df/dbf/classPCBSketchWidget.html#a7dc10e832f85b93200a51be551958f07" title=" " alt="" coords="281,78,535,105"/>
+<area shape="rect" id="node6" href="$d7/d64/classWire.html#a45f4d43eb8d9c12df32f8431b22ae04a" title=" " alt="" coords="342,129,474,155"/>
+<area shape="rect" id="node7" href="$d7/d64/classWire.html#a866a8602d73cc8004d133cb8780048f3" title=" " alt="" coords="342,179,474,206"/>
+<area shape="rect" id="node3" href="$dc/d3a/classConnectorItem.html#af2e14ebbdaa87a6c6dd301825fc83fc0" title=" " alt="" coords="597,5,791,47"/>
+<area shape="rect" id="node4" href="$dc/d09/classNonConnectorItem.html#a9a1e80518fb866bab2bd1fa7fe0965db" title=" " alt="" coords="589,71,799,112"/>
+<area shape="rect" id="node5" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="583,137,805,163"/>
+</map>

@@ -1,0 +1,44 @@
+<map id="PCBSketchWidget::convertToVia" name="PCBSketchWidget::convertToVia">
+<area shape="rect" id="node1" title=" " alt="" coords="5,503,200,544"/>
+<area shape="rect" id="node2" href="$d2/d38/classSelectItemCommand.html#af5f579079660a8d49b256cc47c37a9f8" title=" " alt="" coords="283,5,450,47"/>
+<area shape="rect" id="node3" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="541,87,764,114"/>
+<area shape="rect" id="node4" href="$dc/d09/classNonConnectorItem.html#a8bddbd1259c61a57ba95d83150d57eaf" title=" " alt="" coords="248,71,485,98"/>
+<area shape="rect" id="node6" href="$d8/d37/classSketchWidget.html#a64ec2ec0979f89303d7299d215733cd8" title=" " alt="" coords="266,263,467,304"/>
+<area shape="rect" id="node7" href="$dc/d3a/classConnectorItem.html#af2e14ebbdaa87a6c6dd301825fc83fc0" title=" " alt="" coords="270,328,463,369"/>
+<area shape="rect" id="node8" href="$dc/d3a/classConnectorItem.html#aa22ed310cdf87c914bfad84ce759d66b" title=" " alt="" coords="271,393,462,435"/>
+<area shape="rect" id="node9" href="$d4/d4f/classItemBase.html#ae000103e2c77f8ffe4e11f9e08e054da" title=" " alt="" coords="287,459,446,486"/>
+<area shape="rect" id="node11" href="$df/dbf/classPCBSketchWidget.html#afe1ab64e99e4f86546ae548a42f66f28" title=" " alt="" coords="253,510,481,537"/>
+<area shape="rect" id="node12" href="$df/dbf/classPCBSketchWidget.html#ab9c9425841989e7cfc24260379db0b84" title=" " alt="" coords="259,561,474,587"/>
+<area shape="rect" id="node16" href="$d7/d64/classWire.html#af18b21be89076a015bf909b1571e010a" title=" " alt="" coords="299,611,434,638"/>
+<area shape="rect" id="node19" href="$d8/d37/classSketchWidget.html#a8d418165fb0480ad618e40c871e9e46c" title=" " alt="" coords="259,663,475,704"/>
+<area shape="rect" id="node20" href="$d0/dbb/classWaitPushUndoStack.html#a279fdca551f05e81111de92ea5b2145c" title=" " alt="" coords="271,729,462,755"/>
+<area shape="rect" id="node28" href="$dc/d3a/classConnectorItem.html#a9db3e9a8e9a67433a39b3c12aa8fe442" title=" " alt="" coords="256,197,477,239"/>
+<area shape="rect" id="node37" href="$d3/de8/classViewGeometry.html#ada2d98e4a6be92bd84acd810face3433" title=" " alt="" coords="283,779,451,806"/>
+<area shape="rect" id="node39" href="$d5/d9d/classViewLayer.html#a44b443b6ce5756595b7faaaac510c6ef" title=" " alt="" coords="279,830,454,857"/>
+<area shape="rect" id="node41" href="$d4/d4f/classItemBase.html#a8f16baa26ee92ac6cd8dda5c69d759d4" title=" " alt="" coords="280,881,453,907"/>
+<area shape="rect" id="node42" href="$d4/d4f/classItemBase.html#a3dd3d84b0fdadf869b2bbd87f42ec156" title=" " alt="" coords="253,931,481,958"/>
+<area shape="rect" id="node5" href="$d4/d4f/classItemBase.html#a27afd199a7ae3c3fd14e88ed0be14420" title=" " alt="" coords="601,37,705,63"/>
+<area shape="rect" id="node10" href="$d4/d72/classModelPart.html#af580863cf392f55be038e94d5189e368" title=" " alt="" coords="573,443,733,470"/>
+<area shape="rect" id="node13" href="$df/dbf/classPCBSketchWidget.html#ac4d58372dd3b2eea4fd2fcc278deacd0" title=" " alt="" coords="545,495,760,536"/>
+<area shape="rect" id="node14" href="$de/db8/classTextUtils.html#a53e674684a7ceb29e742cae16c5e246b" title=" " alt="" coords="557,561,749,587"/>
+<area shape="rect" id="node15" href="$de/db8/classTextUtils.html#a081f65f326bccb69ddec2919b692c479" title=" " alt="" coords="859,561,1038,587"/>
+<area shape="rect" id="node17" href="$d7/d64/classWire.html#a279a6f6496623e9da9f02234b2325af6" title=" " alt="" coords="597,611,708,638"/>
+<area shape="rect" id="node18" href="$d3/de8/classViewGeometry.html#af48546e414eab094f557068fa483aee3" title=" " alt="" coords="860,611,1037,638"/>
+<area shape="rect" id="node21" href="$d0/dbb/classWaitPushUndoStack.html#a2b0322812e333fec2b4d0d12b12e634c" title=" " alt="" coords="573,713,733,755"/>
+<area shape="rect" id="node22" href="$d8/d6e/classBaseCommand.html#a2d7619b36325bfec9111724045c24b8e" title=" " alt="" coords="833,666,1064,693"/>
+<area shape="rect" id="node25" href="$d8/d6e/classBaseCommand.html#af34b4e2829ad3b7b718499916fd87cbb" title=" " alt="" coords="866,717,1031,743"/>
+<area shape="rect" id="node26" href="$d8/d6e/classBaseCommand.html#ad7114bcb3cf27232facaf0cbcd7e3b58" title=" " alt="" coords="820,767,1077,794"/>
+<area shape="rect" id="node27" href="$d8/d6e/classBaseCommand.html#a2717e1d5a234ba427175907b2dc58c23" title=" " alt="" coords="839,818,1058,845"/>
+<area shape="rect" id="node23" href="$d8/d6e/classBaseCommand.html#aca69868889f793ce1399fd0c752cfa05" title=" " alt="" coords="1125,666,1355,693"/>
+<area shape="rect" id="node24" href="$d8/d37/classSketchWidget.html#a4319a31c3a619e166f0e7dac865e2ea3" title=" " alt="" coords="1403,666,1592,693"/>
+<area shape="rect" id="node29" href="$dc/d3a/classConnectorItem.html#aa279dff4c65b0bb8a48056347a1b2520" title=" " alt="" coords="533,357,772,399"/>
+<area shape="rect" id="node32" href="$dc/d09/classNonConnectorItem.html#a9a1e80518fb866bab2bd1fa7fe0965db" title=" " alt="" coords="548,139,757,180"/>
+<area shape="rect" id="node33" href="$d7/dfe/classGraphicsUtils.html#a720808c811cf100be0758d271ba2afce" title=" " alt="" coords="537,205,769,231"/>
+<area shape="rect" id="node34" href="$d4/d4f/classItemBase.html#a7565ba05974fedf75bb75923b18bca1a" title=" " alt="" coords="567,255,738,282"/>
+<area shape="rect" id="node36" href="$d7/d64/classWire.html#a45d0e341658a356ad227b1f5171cfa18" title=" " alt="" coords="573,306,733,333"/>
+<area shape="rect" id="node30" href="$d7/d2d/classSvgIdLayer.html#acdaf551c0efe7ce5b7197185c60f7b64" title=" " alt="" coords="885,365,1012,391"/>
+<area shape="rect" id="node31" href="$d1/d88/classPointRect.html#a35106398b82d6e7cacb0c7754cdfa9b8" title=" " alt="" coords="1169,365,1311,391"/>
+<area shape="rect" id="node35" href="$d3/de8/classViewGeometry.html#a11ca759a75de95be900ac023617a1858" title=" " alt="" coords="847,255,1051,282"/>
+<area shape="rect" id="node38" href="$d3/de8/classViewGeometry.html#aea2ab7d8389a1a1149d5682dd5bd7117" title=" " alt="" coords="580,779,725,806"/>
+<area shape="rect" id="node40" href="$d5/d9d/classViewLayer.html#acda6179880454250f27ee4ed167b6983" title=" " alt="" coords="563,830,742,857"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ItemBase::flipItem" name="ItemBase::flipItem">
+<area shape="rect" id="node1" title=" " alt="" coords="744,64,887,91"/>
+<area shape="rect" id="node2" href="$d3/d04/classPaletteItem.html#aa287b5913d49d107a2051a0296c7c15c" title=" " alt="" coords="503,5,657,32"/>
+<area shape="rect" id="node3" href="$de/de6/classSchematicSketchWidget.html#a70c0b9146d0f20c240415e7329b4cdcd" title=" " alt="" coords="464,57,696,98"/>
+<area shape="rect" id="node4" href="$d8/d37/classSketchWidget.html#a21e2eecc7c74a54281202b2608b000bd" title=" " alt="" coords="495,123,665,149"/>
+<area shape="rect" id="node5" href="$db/dc1/classFlipItemCommand.html#ac0d9c57987f088464e8412267b57ff4b" title=" " alt="" coords="236,123,416,149"/>
+<area shape="rect" id="node6" href="$db/dc1/classFlipItemCommand.html#ae059393af7b70287224df3ac4dedfcba" title=" " alt="" coords="5,123,188,149"/>
+</map>

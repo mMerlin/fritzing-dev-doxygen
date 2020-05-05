@@ -1,0 +1,20 @@
+<map id="ItemBase::collectExtraInfo" name="ItemBase::collectExtraInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,271,200,297"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#abd8a54aaf724a2713e9f8f22f1950df2" title=" " alt="" coords="281,169,459,196"/>
+<area shape="rect" id="node3" href="$d4/d4f/classItemBase.html#a2f0bd0e76df9bbdaa080933ebcc64cac" title=" " alt="" coords="577,52,712,79"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#a6728938e08a09a903e8ccc3bf62cedcb" title=" " alt="" coords="584,220,705,247"/>
+<area shape="rect" id="node10" href="$d4/d4f/classItemBase.html#a9d409870010f61f510a7b55e2075f6c3" title=" " alt="" coords="308,271,432,297"/>
+<area shape="rect" id="node11" href="$d4/d4f/classItemBase.html#ad918da34aaf1dbf779f5da439fc74e0f" title=" " alt="" coords="281,321,459,348"/>
+<area shape="rect" id="node13" href="$d4/d4f/classItemBase.html#a8e0038395129f2610d7327ac912d2764" title=" " alt="" coords="290,384,450,411"/>
+<area shape="rect" id="node18" href="$d4/d4f/classItemBase.html#a671b579361ebfaa683421261e4da4573" title=" " alt="" coords="248,435,492,461"/>
+<area shape="rect" id="node7" href="$de/db8/classTextUtils.html#a76aaffd8ac18c90c1d829e7bdde11556" title=" " alt="" coords="540,103,749,145"/>
+<area shape="rect" id="node9" href="$d9/dfa/itembase_8cpp.html#a6613b1cb650eccee58aad1798669bb98" title=" " alt="" coords="560,169,729,196"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#acc2f5bad42928e7178c28fa0771b1f60" title=" " alt="" coords="817,5,976,32"/>
+<area shape="rect" id="node5" href="$d4/d72/classModelPart.html#a21ecb2edba2b75d35f9c00636f1c3d30" title=" " alt="" coords="828,56,965,83"/>
+<area shape="rect" id="node8" href="$de/db8/classTextUtils.html#a6d3d27199572ef69fc3d13417c08cc5e" title=" " alt="" coords="797,111,996,137"/>
+<area shape="rect" id="node12" href="$dd/d63/classFolderUtils.html#aa0afba4b39516396731f263af04ede01" title=" " alt="" coords="551,271,738,297"/>
+<area shape="rect" id="node14" href="$d4/dd9/classFamilyPropertyComboBox.html#a7a864cf8d49e3bd83ad6c2ec850309ef" title=" " alt="" coords="549,322,740,363"/>
+<area shape="rect" id="node15" href="$d8/d86/classInfoGraphicsView.html#a606fdf5fe1049e99851ba1050a9516e6" title=" " alt="" coords="550,387,739,429"/>
+<area shape="rect" id="node16" href="$d8/d86/classInfoGraphicsView.html#a69d8fca95ba631222a5bee71b21e03fb" title=" " alt="" coords="556,453,733,480"/>
+<area shape="rect" id="node17" href="$d4/dd9/classFamilyPropertyComboBox.html#a0dcc77aba83f554f2883302b3280a9d3" title=" " alt="" coords="549,505,740,546"/>
+</map>

@@ -1,0 +1,70 @@
+<map id="items/partlabel.cpp" name="items/partlabel.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="4236,5,4384,32"/>
+<area shape="rect" id="node2" href="$da/d41/partlabel_8h.html" title=" " alt="" coords="2220,155,2312,181"/>
+<area shape="rect" id="node13" title=" " alt="" coords="387,229,455,256"/>
+<area shape="rect" id="node19" href="$d9/dbd/itembase_8h.html" title=" " alt="" coords="1709,155,1857,181"/>
+<area shape="rect" id="node27" href="$db/d39/viewgeometry_8h.html" title=" " alt="" coords="4754,229,4893,256"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2122,304,2215,331"/>
+<area shape="rect" id="node36" href="$df/db5/debugdialog_8h.html" title=" " alt="" coords="165,155,292,181"/>
+<area shape="rect" id="node41" href="$d2/d58/infographicsview_8h.html" title=" " alt="" coords="519,80,722,107"/>
+<area shape="rect" id="node44" href="$d7/db2/modelpart_8h.html" title=" " alt="" coords="2912,80,3071,107"/>
+<area shape="rect" id="node52" title=" " alt="" coords="3845,229,3973,256"/>
+<area shape="rect" id="node53" title=" " alt="" coords="4253,229,4367,256"/>
+<area shape="rect" id="node55" href="$dd/ddc/graphicsutils_8h.html" title=" " alt="" coords="4697,155,4859,181"/>
+<area shape="rect" id="node60" href="$dd/d5f/textutils_8h.html" title=" " alt="" coords="5464,229,5596,256"/>
+<area shape="rect" id="node64" href="$da/dff/installedfonts_8h.html" title=" " alt="" coords="4544,229,4679,256"/>
+<area shape="rect" id="node65" href="$d9/d5c/fsvgrenderer_8h.html" title=" " alt="" coords="4246,155,4374,181"/>
+<area shape="rect" id="node66" title=" " alt="" coords="4883,80,4988,107"/>
+<area shape="rect" id="node67" title=" " alt="" coords="5013,80,5119,107"/>
+<area shape="rect" id="node68" title=" " alt="" coords="5144,80,5204,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="1932,229,2075,256"/>
+<area shape="rect" id="node4" title=" " alt="" coords="4151,229,4229,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3626,229,3821,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2368,229,2447,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2917,229,3063,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3407,304,3525,331"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2099,229,2225,256"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2250,229,2343,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2523,229,2601,256"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1837,229,1908,256"/>
+<area shape="rect" id="node14" href="$da/d85/viewlayer_8h.html" title=" " alt="" coords="3290,229,3399,256"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3551,304,3621,331"/>
+<area shape="rect" id="node16" title=" " alt="" coords="3308,304,3381,331"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2771,304,2836,331"/>
+<area shape="rect" id="node18" title=" " alt="" coords="4102,304,4201,331"/>
+<area shape="rect" id="node20" title=" " alt="" coords="4680,304,4753,331"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1754,229,1813,256"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1068,304,1123,331"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1139,229,1343,256"/>
+<area shape="rect" id="node24" title=" " alt="" coords="879,229,930,256"/>
+<area shape="rect" id="node25" title=" " alt="" coords="955,229,1015,256"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1039,229,1114,256"/>
+<area shape="rect" id="node31" href="$d4/d08/misc_8h.html" title=" " alt="" coords="1469,229,1578,256"/>
+<area shape="rect" id="node28" title=" " alt="" coords="4855,304,4922,331"/>
+<area shape="rect" id="node29" title=" " alt="" coords="4971,304,5041,331"/>
+<area shape="rect" id="node30" title=" " alt="" coords="5481,304,5579,331"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1400,304,1473,331"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1498,304,1549,331"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1573,304,1629,331"/>
+<area shape="rect" id="node37" title=" " alt="" coords="193,229,267,256"/>
+<area shape="rect" id="node38" title=" " alt="" coords="291,229,361,256"/>
+<area shape="rect" id="node39" title=" " alt="" coords="5,229,89,256"/>
+<area shape="rect" id="node40" title=" " alt="" coords="113,229,168,256"/>
+<area shape="rect" id="node42" title=" " alt="" coords="531,229,652,256"/>
+<area shape="rect" id="node43" href="$dc/d67/zoomablegraphicsview_8h.html" title=" " alt="" coords="419,155,601,181"/>
+<area shape="rect" id="node45" title=" " alt="" coords="2336,155,2455,181"/>
+<area shape="rect" id="node46" title=" " alt="" coords="3997,229,4127,256"/>
+<area shape="rect" id="node47" title=" " alt="" coords="2530,155,2637,181"/>
+<area shape="rect" id="node48" title=" " alt="" coords="2661,155,2783,181"/>
+<area shape="rect" id="node49" href="$d2/d12/modelpartshared_8h.html" title=" " alt="" coords="2808,155,2953,181"/>
+<area shape="rect" id="node51" href="$d9/d07/connector_8h.html" title=" " alt="" coords="3247,155,3431,181"/>
+<area shape="rect" id="node54" href="$d4/d9b/bus_8h.html" title=" " alt="" coords="3079,155,3223,181"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2677,229,2740,256"/>
+<area shape="rect" id="node56" title=" " alt="" coords="5069,229,5151,256"/>
+<area shape="rect" id="node57" title=" " alt="" coords="5175,229,5280,256"/>
+<area shape="rect" id="node58" title=" " alt="" coords="5305,229,5361,256"/>
+<area shape="rect" id="node59" title=" " alt="" coords="5385,229,5440,256"/>
+<area shape="rect" id="node61" title=" " alt="" coords="4778,304,4831,331"/>
+<area shape="rect" id="node62" title=" " alt="" coords="5223,304,5298,331"/>
+<area shape="rect" id="node63" title=" " alt="" coords="5605,304,5756,331"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Board::Board" name="Board::Board">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,112,209"/>
+<area shape="rect" id="node2" href="$de/d23/classBoard.html#a6063939428d01920fefae3dd9b1f0b84" title=" " alt="" coords="209,5,326,32"/>
+<area shape="rect" id="node3" href="$d4/d4f/classItemBase.html#acc2f5bad42928e7178c28fa0771b1f60" title=" " alt="" coords="454,31,613,57"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#a353296ecaba8bac3acb8e36fc44b312d" title=" " alt="" coords="191,107,343,133"/>
+<area shape="rect" id="node5" href="$d4/d72/classModelPart.html#a47369e86cac97b2139fbed138cf3e6c2" title=" " alt="" coords="190,157,345,184"/>
+<area shape="rect" id="node6" href="$d4/d72/classModelPart.html#a1a3c3970a8a05587649f4e1b4a20fb5b" title=" " alt="" coords="164,208,371,235"/>
+<area shape="rect" id="node7" href="$d4/d72/classModelPart.html#a59262909e61b1889d251eadb4bf844db" title=" " alt="" coords="187,259,348,285"/>
+<area shape="rect" id="node8" href="$d4/d72/classModelPart.html#af99e77ea33c73511b7ffd3ba1bd9aa12" title=" " alt="" coords="178,309,357,336"/>
+<area shape="rect" id="node9" href="$d9/d6c/classModelPartShared.html#a8f417d3bc74bb287a34b8ec1bc2de94d" title=" " alt="" coords="160,360,375,387"/>
+<area shape="rect" id="node10" href="$d9/d6c/classModelPartShared.html#a291469a0e9d01ffef195d229f2b59f23" title=" " alt="" coords="423,360,644,387"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="MazeRouter::addJumperToUndo" name="MazeRouter::addJumperToUndo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,232,133"/>
+<area shape="rect" id="node2" href="$d6/d39/classJumperItem.html#a263ca53442fcee78f6711750da88737c" title=" " alt="" coords="307,5,481,32"/>
+<area shape="rect" id="node3" href="$d4/d4f/classItemBase.html#a8380ad795c557dd4a345b2c0113325dd" title=" " alt="" coords="289,56,499,83"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#a27afd199a7ae3c3fd14e88ed0be14420" title=" " alt="" coords="342,107,446,133"/>
+<area shape="rect" id="node5" href="$d6/d39/classJumperItem.html#a63f4ba3dfff30a15dfff9ee3a2443ceb" title=" " alt="" coords="301,157,487,184"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#a3dd3d84b0fdadf869b2bbd87f42ec156" title=" " alt="" coords="280,208,508,235"/>
+</map>

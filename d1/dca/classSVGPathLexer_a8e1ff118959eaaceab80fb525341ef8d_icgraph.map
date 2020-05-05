@@ -1,0 +1,6 @@
+<map id="SVGPathLexer::next" name="SVGPathLexer::next">
+<area shape="rect" id="node1" title="advance past the current token" alt="" coords="473,31,623,57"/>
+<area shape="rect" id="node2" href="$d1/dca/classSVGPathLexer.html#a70b0b25e65c0ac9dcf47df2358dc9c8c" title=" " alt="" coords="215,5,425,32"/>
+<area shape="rect" id="node3" href="$d1/dca/classSVGPathLexer.html#ace874f233ef492cf09228227e9d8c7ae" title="extract the next token from the current attribute source data" alt="" coords="250,56,390,83"/>
+<area shape="rect" id="node4" href="$da/d47/classSVGPathParser.html#a4946dd58b5b19a63b18af9c6c3a909a9" title=" " alt="" coords="5,56,167,83"/>
+</map>

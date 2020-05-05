@@ -1,0 +1,17 @@
+<map id="ConnectorItem::legID" name="ConnectorItem::legID">
+<area shape="rect" id="node1" title=" " alt="" coords="783,259,943,285"/>
+<area shape="rect" id="node2" href="$d7/de7/classPaletteItemBase.html#a8bb8b5ddf2d8cef3569b3ce4e07d7c6b" title=" " alt="" coords="523,259,735,285"/>
+<area shape="rect" id="node3" href="$d0/d5b/classGroundPlane.html#af3f18cccb0ee2971408fc380dd4fc6ad" title=" " alt="" coords="277,5,465,32"/>
+<area shape="rect" id="node4" href="$d6/d3e/classHole.html#a21d96f96ccfc0834092622d229b95025" title=" " alt="" coords="304,56,439,83"/>
+<area shape="rect" id="node5" href="$d6/d39/classJumperItem.html#a32e5bd4aa874ecbc416a94346d432482" title=" " alt="" coords="281,107,462,133"/>
+<area shape="rect" id="node6" href="$d9/d6b/classLED.html#af9c803d85e1e03748223191b4d362ed0" title=" " alt="" coords="306,157,437,184"/>
+<area shape="rect" id="node7" href="$de/d5e/classLogoItem.html#af196a393c31181884d475e1adad5df6b" title=" " alt="" coords="288,208,455,235"/>
+<area shape="rect" id="node8" href="$d8/d73/classMysteryPart.html#aebb339463ec0094de93a70f5eac20bb6" title=" " alt="" coords="280,259,463,285"/>
+<area shape="rect" id="node9" href="$dd/df8/classResistor.html#a6f8344a210907ea3ca1c4a0a8b1f2698" title=" " alt="" coords="292,309,451,336"/>
+<area shape="rect" id="node10" href="$d7/dde/classResizableBoard.html#ad842fbf882243665af184b395500a8af" title=" " alt="" coords="268,360,475,387"/>
+<area shape="rect" id="node13" href="$d7/d60/classRuler.html#a2004227bc5a6c2ab251d2636e6b0ec79" title=" " alt="" coords="302,411,441,437"/>
+<area shape="rect" id="node14" href="$d3/dee/classStripboard.html#a416eaddb84feb544dcef6c1c9fcfde7b" title=" " alt="" coords="285,461,457,488"/>
+<area shape="rect" id="node15" href="$d8/de8/classSymbolPaletteItem.html#a138382c66fea155cfea6ad114b7ea5ca" title=" " alt="" coords="294,513,449,554"/>
+<area shape="rect" id="node11" href="$d3/d78/classPad.html#a8d4dbae9de4bb36ba18a8b1bb3b680d1" title=" " alt="" coords="49,335,177,361"/>
+<area shape="rect" id="node12" href="$df/d59/classSchematicFrame.html#a409c4b18ed4dd03a7434d7a8fd53cc06" title=" " alt="" coords="5,385,220,412"/>
+</map>

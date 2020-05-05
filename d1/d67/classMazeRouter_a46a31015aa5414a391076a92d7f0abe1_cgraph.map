@@ -1,0 +1,8 @@
+<map id="MazeRouter::addViaToUndo" name="MazeRouter::addViaToUndo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,207,108"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#a8380ad795c557dd4a345b2c0113325dd" title=" " alt="" coords="263,5,474,32"/>
+<area shape="rect" id="node3" href="$d6/d3e/classHole.html#ae3c4c1ecc95816abb877f0c29f753b1b" title=" " alt="" coords="311,56,426,83"/>
+<area shape="rect" id="node5" href="$d4/d4f/classItemBase.html#a27afd199a7ae3c3fd14e88ed0be14420" title=" " alt="" coords="317,107,421,133"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#a3dd3d84b0fdadf869b2bbd87f42ec156" title=" " alt="" coords="255,157,483,184"/>
+<area shape="rect" id="node4" href="$d8/d7f/structHoleSettings.html#af5fae4065c3b694736c087a28ad43ca8" title=" " alt="" coords="531,56,699,83"/>
+</map>

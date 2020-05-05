@@ -1,0 +1,16 @@
+<map id="SketchWidget::stickyScoop" name="SketchWidget::stickyScoop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,219,201,246"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#af6c7fbb2289a3428662dda9e6371d9df" title=" " alt="" coords="269,169,423,195"/>
+<area shape="rect" id="node3" href="$d4/d4f/classItemBase.html#a27afd199a7ae3c3fd14e88ed0be14420" title=" " alt="" coords="547,43,651,70"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#a4c1e4bc606b9b374658bf40875cd8024" title=" " alt="" coords="512,173,687,199"/>
+<area shape="rect" id="node5" href="$d4/d4f/classItemBase.html#abf6d16e250a353043cd4953ddc049bd0" title=" " alt="" coords="509,94,689,121"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#ae213aaa03983226b59239bc0d12fd100" title=" " alt="" coords="249,43,443,70"/>
+<area shape="rect" id="node7" href="$d4/d4f/classItemBase.html#afe2eaccd6266f7c70092425055e9e726" title=" " alt="" coords="255,270,437,297"/>
+<area shape="rect" id="node11" href="$d2/de5/classCheckStickyCommand.html#a14429d5c8f44948e25709f57783cd830" title=" " alt="" coords="262,321,430,363"/>
+<area shape="rect" id="node13" href="$d4/d4f/classItemBase.html#a9a03e9de363664bdc214c077eae74987" title=" " alt="" coords="255,387,437,414"/>
+<area shape="rect" id="node14" href="$d4/d4f/classItemBase.html#ac3e0dbb2f0e3f1d5db69796011d1b813" title=" " alt="" coords="269,438,423,465"/>
+<area shape="rect" id="node8" href="$df/db0/classFSvgRenderer.html#abfa59a6da2875e59a5ab3112fd644ade" title=" " alt="" coords="499,225,700,251"/>
+<area shape="rect" id="node9" href="$d4/d4f/classItemBase.html#a783246d1e45a53efa9e044fca46d2c9f" title=" " alt="" coords="510,275,689,302"/>
+<area shape="rect" id="node10" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="756,275,911,302"/>
+<area shape="rect" id="node12" href="$d8/d6e/classBaseCommand.html#a65343dc68ae914e9c6a0ab8478d2ddd4" title=" " alt="" coords="491,329,708,355"/>
+</map>

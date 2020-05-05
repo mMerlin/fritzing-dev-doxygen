@@ -1,0 +1,8 @@
+<map id="ItemBase::killRubberBandLeg" name="ItemBase::killRubberBandLeg">
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,220,127"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#af8b5baf85b1febe04dbaccd09e90d58a" title=" " alt="" coords="275,5,479,47"/>
+<area shape="rect" id="node3" href="$d4/d4f/classItemBase.html#af04d5720eead42b15b100b923cd9a00d" title=" " alt="" coords="268,71,485,98"/>
+<area shape="rect" id="node4" href="$dc/d3a/classConnectorItem.html#ac47c1beccac09954a9f96236bcaacbbb" title=" " alt="" coords="281,123,473,164"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#ab1484692ebea9a39e103002ea06421ab" title=" " alt="" coords="273,188,480,229"/>
+<area shape="rect" id="node5" href="$dc/d3a/classConnectorItem.html#a314df358a4ab7a1d324d4b42192fb46f" title=" " alt="" coords="533,130,736,157"/>
+</map>

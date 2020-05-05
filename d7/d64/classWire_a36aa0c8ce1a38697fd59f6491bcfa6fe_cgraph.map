@@ -1,0 +1,19 @@
+<map id="Wire::mousePressConnectorEvent" name="Wire::mousePressConnectorEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,211,157"/>
+<area shape="rect" id="node2" href="$d7/d5f/misc_8cpp.html#a70fcfe23ee555487a409eefca43d3d20" title=" " alt="" coords="325,5,465,32"/>
+<area shape="rect" id="node3" href="$d8/d86/classInfoGraphicsView.html#a606fdf5fe1049e99851ba1050a9516e6" title=" " alt="" coords="301,57,490,98"/>
+<area shape="rect" id="node4" href="$d7/d64/classWire.html#a9370abffb648c5a1ac2fcb5578186ab0" title=" " alt="" coords="327,123,463,149"/>
+<area shape="rect" id="node16" href="$d8/d86/classInfoGraphicsView.html#a8a813241494bdbd7c445ca90d8076ded" title=" " alt="" coords="284,174,507,215"/>
+<area shape="rect" id="node17" href="$dc/d3a/classConnectorItem.html#ad05f3e268cca97f14cab451e8219ab85" title=" " alt="" coords="259,240,532,267"/>
+<area shape="rect" id="node5" href="$dc/d3a/classConnectorItem.html#a7ba84840027394963d82b3bb444bdbca" title=" " alt="" coords="580,47,757,73"/>
+<area shape="rect" id="node7" href="$d7/d64/classWire.html#a5b8e6e054e0296615f5f3b6ae6be7b0a" title=" " alt="" coords="591,97,747,124"/>
+<area shape="rect" id="node8" href="$d7/d64/classWire.html#aeeab152819f6e13d4f41614ba7e72761" title=" " alt="" coords="868,127,952,153"/>
+<area shape="rect" id="node9" href="$d7/d64/classWire.html#aaf43c433566d52977c3a1655a2f17c28" title=" " alt="" coords="591,203,747,229"/>
+<area shape="rect" id="node6" href="$dc/d09/classNonConnectorItem.html#a9a1e80518fb866bab2bd1fa7fe0965db" title=" " alt="" coords="805,39,1015,81"/>
+<area shape="rect" id="node10" href="$d3/de8/classViewGeometry.html#ab605ed2ca5e1cb4209b147a66596b1d0" title=" " alt="" coords="809,177,1011,204"/>
+<area shape="rect" id="node12" href="$d3/de8/classViewGeometry.html#a295c030cfa23e54b7815df05340cf713" title=" " alt="" coords="823,228,997,255"/>
+<area shape="rect" id="node14" href="$d3/de8/classViewGeometry.html#ada2d98e4a6be92bd84acd810face3433" title=" " alt="" coords="826,279,994,305"/>
+<area shape="rect" id="node15" href="$d3/de8/classViewGeometry.html#a909cee1c4f18d707469538e169da2668" title=" " alt="" coords="833,329,987,356"/>
+<area shape="rect" id="node11" href="$d3/de8/classViewGeometry.html#a72654cc7bb8e2519ceb5e1d8480d8a65" title=" " alt="" coords="1063,177,1244,204"/>
+<area shape="rect" id="node13" href="$d3/de8/classViewGeometry.html#aea2ab7d8389a1a1149d5682dd5bd7117" title=" " alt="" coords="1081,253,1226,280"/>
+</map>

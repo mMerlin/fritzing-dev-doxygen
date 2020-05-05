@@ -1,0 +1,35 @@
+<map id="PEMainWindow::relocateConnectorSvg" name="PEMainWindow::relocateConnectorSvg">
+<area shape="rect" id="node1" title=" " alt="" coords="5,483,277,510"/>
+<area shape="rect" id="node2" href="$dd/d1d/classPEToolView.html#a4ae6ed6af2208aee8307ec9857ed5d77" title=" " alt="" coords="345,5,559,47"/>
+<area shape="rect" id="node3" href="$d7/d0d/classPEGraphicsItem.html#a2a325095902115409fd685ef1b8527f6" title=" " alt="" coords="941,57,1127,83"/>
+<area shape="rect" id="node4" href="$de/db8/classTextUtils.html#a9c93bbc63a055b95d8f991efc2a58caa" title=" " alt="" coords="937,173,1131,215"/>
+<area shape="rect" id="node5" href="$d5/d9d/classViewLayer.html#a470453a5d22c624853fe76db7c41dbc4" title=" " alt="" coords="1198,265,1445,291"/>
+<area shape="rect" id="node7" href="$d5/d9d/classViewLayer.html#a455439dcb058256863e980efbe5573b0" title=" " alt="" coords="919,239,1149,266"/>
+<area shape="rect" id="node8" href="$d6/d9a/classPEMainWindow.html#a26302e829b7c74880531ccb03c8a64da" title=" " alt="" coords="339,458,565,485"/>
+<area shape="rect" id="node9" href="$d8/d37/classSketchWidget.html#aad6b7b43a75038116e316bb711c7d638" title=" " alt="" coords="667,377,831,403"/>
+<area shape="rect" id="node11" href="$d3/de2/pemainwindow_8cpp.html#afef4d5a0831b45885b05bbcbfb89f6a7" title=" " alt="" coords="401,509,503,535"/>
+<area shape="rect" id="node14" href="$d7/d0d/classPEGraphicsItem.html#ae3e6b29591dc762bff4ecc173cece981" title=" " alt="" coords="338,583,566,610"/>
+<area shape="rect" id="node16" href="$d6/d9a/classPEMainWindow.html#a0e1774486e545e8c106bdfa92580587b" title=" " alt="" coords="329,634,575,661"/>
+<area shape="rect" id="node20" href="$d7/d0d/classPEGraphicsItem.html#ab2be6aeb50714e18c4abd7ee3c499c3a" title=" " alt="" coords="340,709,564,735"/>
+<area shape="rect" id="node22" href="$d7/d0d/classPEGraphicsItem.html#a861cd76af69d98f42b89092407f582b9" title=" " alt="" coords="341,760,563,801"/>
+<area shape="rect" id="node23" href="$de/db8/classTextUtils.html#a05480fc2ca26b2281f39584aa470369f" title=" " alt="" coords="669,826,828,853"/>
+<area shape="rect" id="node25" href="$d6/d9a/classPEMainWindow.html#a58089bd783b4d2c94fb478ef61121a6d" title=" " alt="" coords="325,927,579,954"/>
+<area shape="rect" id="node26" href="$d6/d9a/classPEMainWindow.html#a8ffc6a4337bc9c5a1428ccbbc3794732" title=" " alt="" coords="335,123,569,164"/>
+<area shape="rect" id="node30" href="$d6/d9a/classPEMainWindow.html#a7d8fd39cf8a9568012a8dada7d6223e6" title=" " alt="" coords="341,392,563,433"/>
+<area shape="rect" id="node31" href="$d4/d4f/classItemBase.html#a39957519ed5ac922dead0466357d4644" title=" " alt="" coords="383,978,521,1005"/>
+<area shape="rect" id="node32" href="$d6/d9a/classPEMainWindow.html#a8e7b8c78597947284a4619c74cb4aecb" title=" " alt="" coords="358,877,546,903"/>
+<area shape="rect" id="node6" href="$d5/d9d/classViewLayer.html#a57be1826233bf84f60d912a8d49ecd43" title=" " alt="" coords="1493,265,1701,291"/>
+<area shape="rect" id="node10" href="$d5/d9d/classViewLayer.html#a65dd32e046c1533b4e8c11051c63f24b" title=" " alt="" coords="633,427,864,454"/>
+<area shape="rect" id="node12" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="671,529,826,555"/>
+<area shape="rect" id="node13" href="$d3/de2/pemainwindow_8cpp.html#a572fe75fd63b51eb56446728a01bfc42" title=" " alt="" coords="685,478,813,505"/>
+<area shape="rect" id="node15" href="$d7/d0d/classPEGraphicsItem.html#ae70d8f3914e03827d6ebcfecfee80eb0" title=" " alt="" coords="645,579,852,606"/>
+<area shape="rect" id="node17" href="$d9/db4/modelpartshared_8cpp.html#a83794b1bad8a09e58fa912a9e319f2c7" title=" " alt="" coords="717,697,780,723"/>
+<area shape="rect" id="node18" href="$d5/d9d/classViewLayer.html#a57a288e6d73ae234b8a739f20964e026" title=" " alt="" coords="633,631,864,672"/>
+<area shape="rect" id="node19" href="$d5/d9d/classViewLayer.html#acda6179880454250f27ee4ed167b6983" title=" " alt="" coords="945,638,1123,665"/>
+<area shape="rect" id="node21" href="$d7/d0d/classPEGraphicsItem.html#a1798aae675d878a2361943d427d9cf33" title=" " alt="" coords="627,747,871,774"/>
+<area shape="rect" id="node24" href="$dc/d19/textutils_8cpp.html#a7841ff5bb04e5990a6219e06987451bf" title=" " alt="" coords="1003,826,1065,853"/>
+<area shape="rect" id="node27" href="$dd/d1d/classPEToolView.html#a93aaaaeda5ca5c3b40c1efed3d1ab7a9" title=" " alt="" coords="651,123,847,164"/>
+<area shape="rect" id="node28" href="$dd/d1d/classPEToolView.html#acd2d09d8e257d17e23a6ee7653b0dcb3" title=" " alt="" coords="935,108,1133,149"/>
+<area shape="rect" id="node29" href="$dd/d1d/classPEToolView.html#af4126e8fc6996d2e711222cefc6338b1" title=" " alt="" coords="1197,115,1445,142"/>
+<area shape="rect" id="node33" href="$de/db8/classTextUtils.html#a0301b94dbede1f79d5518f7e21c65fb6" title=" " alt="" coords="675,877,823,903"/>
+</map>

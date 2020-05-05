@@ -1,0 +1,20 @@
+<map id="SketchWidget::hoverEnterConnectorItem" name="SketchWidget::hoverEnterConnectorItem">
+<area shape="rect" id="node1" title=" " alt="" coords="5,190,196,231"/>
+<area shape="rect" id="node2" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="1072,96,1295,123"/>
+<area shape="rect" id="node3" href="$dc/d09/classNonConnectorItem.html#a9a1e80518fb866bab2bd1fa7fe0965db" title=" " alt="" coords="541,67,751,109"/>
+<area shape="rect" id="node4" href="$dc/d3a/classConnectorItem.html#a7ba84840027394963d82b3bb444bdbca" title=" " alt="" coords="280,117,457,144"/>
+<area shape="rect" id="node5" href="$d8/d37/classSketchWidget.html#a9f0597221e341e88132e1d2a6f790ff5" title=" " alt="" coords="244,168,493,195"/>
+<area shape="rect" id="node7" href="$d8/d86/classInfoGraphicsView.html#a0ff1ca98583be3f8fa069a6430f631c4" title=" " alt="" coords="261,219,476,261"/>
+<area shape="rect" id="node16" href="$d8/d37/classSketchWidget.html#a12e9540289c27877ece1f9a320f85a95" title=" " alt="" coords="273,285,464,326"/>
+<area shape="rect" id="node17" href="$d8/d37/classSketchWidget.html#a41f4407ad1da5306783257c455bd6bac" title=" " alt="" coords="273,350,464,391"/>
+<area shape="rect" id="node18" href="$d8/d37/classSketchWidget.html#a204bc0f396d7d2d87c32ff57cef1e639" title=" " alt="" coords="260,416,477,443"/>
+<area shape="rect" id="node6" href="$db/d71/classHtmlInfoView.html#af08cb21754b85628e5cfdbc529f9a364" title=" " alt="" coords="549,133,743,160"/>
+<area shape="rect" id="node8" href="$db/d71/classHtmlInfoView.html#a0b57e09b7dddde61283e5d7547fe22f7" title=" " alt="" coords="551,235,741,277"/>
+<area shape="rect" id="node15" href="$d8/d86/classInfoGraphicsView.html#a27bf32a52e49bf5323ad3a663da0fe87" title=" " alt="" coords="543,301,749,342"/>
+<area shape="rect" id="node9" href="$db/d71/classHtmlInfoView.html#a50f307148c8f0c18c4db48b2937f0578" title=" " alt="" coords="799,235,1013,277"/>
+<area shape="rect" id="node10" href="$dc/d3a/classConnectorItem.html#a738aa71d441bbd17ed83157b29e8becb" title=" " alt="" coords="1081,147,1285,189"/>
+<area shape="rect" id="node11" href="$dc/d3a/classConnectorItem.html#af0a6058a57e91d11f927dafa61c363d4" title=" " alt="" coords="1088,213,1279,240"/>
+<area shape="rect" id="node12" href="$d9/d65/classConnector.html#a76cec73ddc070d6bf83e7a71bc392695" title=" " alt="" coords="1084,265,1283,306"/>
+<area shape="rect" id="node13" href="$d9/d65/classConnector.html#a1d0d0902e954165ffbacae5782fdc159" title=" " alt="" coords="1061,331,1305,357"/>
+<area shape="rect" id="node14" href="$d9/d65/classConnector.html#a5e4870f25a16517834aad537464c8040" title=" " alt="" coords="1088,381,1279,408"/>
+</map>

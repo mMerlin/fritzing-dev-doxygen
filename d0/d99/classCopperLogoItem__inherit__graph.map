@@ -1,0 +1,11 @@
+<map id="CopperLogoItem" name="CopperLogoItem">
+<area shape="rect" id="node1" title=" " alt="" coords="177,4520,343,4671"/>
+<area shape="rect" id="node2" href="$de/d5e/classLogoItem.html" title=" " alt="" coords="163,3984,357,4472"/>
+<area shape="rect" id="node3" href="$d7/dde/classResizableBoard.html" title=" " alt="" coords="159,3316,361,3936"/>
+<area shape="rect" id="node4" href="$de/d23/classBoard.html" title=" " alt="" coords="155,2751,365,3268"/>
+<area shape="rect" id="node5" href="$d3/d04/classPaletteItem.html" title=" " alt="" coords="153,1980,367,2703"/>
+<area shape="rect" id="node6" href="$d7/de7/classPaletteItemBase.html" title=" " alt="" coords="145,1444,375,1932"/>
+<area shape="rect" id="node7" href="$d4/d4f/classItemBase.html" title=" " alt="" coords="5,131,280,1396"/>
+<area shape="rect" id="node8" href="$df/da7/classQGraphicsSvgItem.html" title=" " alt="" coords="71,5,214,83"/>
+<area shape="rect" id="node9" href="$db/d0a/classCursorKeyListener.html" title=" " alt="" coords="305,725,453,802"/>
+</map>

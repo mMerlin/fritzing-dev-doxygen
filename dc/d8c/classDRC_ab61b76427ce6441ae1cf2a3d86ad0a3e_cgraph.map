@@ -1,0 +1,10 @@
+<map id="DRC::missingCopper" name="DRC::missingCopper">
+<area shape="rect" id="node1" title="collect connector items that are missing pcb copper layer graphics" alt="" coords="5,181,160,207"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#af8b5baf85b1febe04dbaccd09e90d58a" title=" " alt="" coords="208,5,412,47"/>
+<area shape="rect" id="node3" href="$dc/d3a/classConnectorItem.html#af0a6058a57e91d11f927dafa61c363d4" title=" " alt="" coords="215,71,405,98"/>
+<area shape="rect" id="node4" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="233,122,387,149"/>
+<area shape="rect" id="node5" href="$de/db8/classTextUtils.html#a9c93bbc63a055b95d8f991efc2a58caa" title=" " alt="" coords="213,173,407,215"/>
+<area shape="rect" id="node6" href="$d9/d65/classConnector.html#a5464f0672067790ea888b44f7aafb528" title=" " alt="" coords="229,239,391,266"/>
+<area shape="rect" id="node7" href="$d4/d4f/classItemBase.html#a27afd199a7ae3c3fd14e88ed0be14420" title=" " alt="" coords="258,290,362,317"/>
+<area shape="rect" id="node8" href="$d4/d4f/classItemBase.html#a39957519ed5ac922dead0466357d4644" title=" " alt="" coords="241,341,379,367"/>
+</map>

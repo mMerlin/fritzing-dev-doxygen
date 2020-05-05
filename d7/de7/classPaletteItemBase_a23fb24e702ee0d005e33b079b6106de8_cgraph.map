@@ -1,0 +1,13 @@
+<map id="PaletteItemBase::checkFreeRotation" name="PaletteItemBase::checkFreeRotation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,86,208,127"/>
+<area shape="rect" id="node2" href="$de/dba/classCursorMaster.html#a4b7b7d37f8b260200c6b280271231139" title=" " alt="" coords="267,9,449,36"/>
+<area shape="rect" id="node5" href="$d7/de7/classPaletteItemBase.html#a8849b898a447a8c2cd49054f69c913b2" title=" " alt="" coords="508,57,727,98"/>
+<area shape="rect" id="node8" href="$d7/de7/classPaletteItemBase.html#ad62933c0f25469a59393668a0f5699f8" title=" " alt="" coords="256,115,460,157"/>
+<area shape="rect" id="node11" href="$de/dba/classCursorMaster.html#a828b685cd457a3b0f6c908094eb26f35" title=" " alt="" coords="272,181,444,208"/>
+<area shape="rect" id="node3" href="$de/dba/classCursorMaster.html#a0f97a63c61fd8ccf6f6c30ad18c7fa76" title=" " alt="" coords="517,5,717,32"/>
+<area shape="rect" id="node4" href="$de/dba/classCursorMaster.html#a4592411b139069d6f90721f959956650" title=" " alt="" coords="775,5,985,32"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#a39957519ed5ac922dead0466357d4644" title=" " alt="" coords="811,60,949,87"/>
+<area shape="rect" id="node7" href="$d4/d4f/classItemBase.html#a0d05870c189698d03be57394af2e0356" title=" " alt="" coords="775,111,985,137"/>
+<area shape="rect" id="node9" href="$d7/de7/classPaletteItemBase.html#a41599213de68bbfe1a898d0f30cd9577" title=" " alt="" coords="519,122,716,163"/>
+<area shape="rect" id="node10" href="$d7/dfe/classGraphicsUtils.html#a08388a69142404dd7821c9dfa44fa452" title=" " alt="" coords="519,188,715,215"/>
+</map>

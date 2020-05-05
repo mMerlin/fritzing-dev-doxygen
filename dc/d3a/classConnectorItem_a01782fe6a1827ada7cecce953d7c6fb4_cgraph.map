@@ -1,0 +1,34 @@
+<map id="ConnectorItem::contextMenuEvent" name="ConnectorItem::contextMenuEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,474,216,515"/>
+<area shape="rect" id="node2" href="$dc/d3a/classConnectorItem.html#afe531034a6509b99092e1e06fae550f0" title=" " alt="" coords="579,233,785,260"/>
+<area shape="rect" id="node3" href="$d8/d3c/classBezier.html#aec0fe0ef3264fbc54ca7e5808470f1ac" title=" " alt="" coords="904,411,1028,437"/>
+<area shape="rect" id="node12" href="$d8/d86/classInfoGraphicsView.html#a606fdf5fe1049e99851ba1050a9516e6" title=" " alt="" coords="587,379,777,421"/>
+<area shape="rect" id="node13" href="$dc/d3a/classConnectorItem.html#a2cbd2651b376ea1b4906e58eaf5eabcf" title=" " alt="" coords="271,481,500,508"/>
+<area shape="rect" id="node29" href="$d8/d86/classInfoGraphicsView.html#a938ce70779fdba3054e05fa279d709e2" title=" " alt="" coords="288,533,483,574"/>
+<area shape="rect" id="node30" href="$dc/d3a/classConnectorItem.html#a8e4b14a3e8a143e2d65e7af6df226705" title=" " alt="" coords="264,599,507,625"/>
+<area shape="rect" id="node32" href="$d8/d86/classInfoGraphicsView.html#a44aa79e4e8cbc8f0024d737001a00a84" title=" " alt="" coords="283,650,487,691"/>
+<area shape="rect" id="node4" href="$d8/d3c/classBezier.html#a907f7ddda3f4d32009cee95a61a9973b" title=" " alt="" coords="917,360,1015,387"/>
+<area shape="rect" id="node5" href="$d8/d3c/classBezier.html#a332771a58decf335b861d6556a2f2ca0" title=" " alt="" coords="898,107,1034,133"/>
+<area shape="rect" id="node6" href="$d8/d3c/classBezier.html#a2414f8c161c4a4fed536113237cb35ec" title=" " alt="" coords="919,157,1013,184"/>
+<area shape="rect" id="node7" href="$d8/d3c/classBezier.html#ab31ae58e9814f75281175355a1b1abe1" title=" " alt="" coords="919,208,1013,235"/>
+<area shape="rect" id="node8" href="$d8/d3c/classBezier.html#a38ca0914e4f828d28a6a92feed535524" title=" " alt="" coords="898,259,1034,285"/>
+<area shape="rect" id="node9" href="$dc/d3a/classConnectorItem.html#ab56e4b282be8f23cbba342aa52373428" title=" " alt="" coords="881,5,1051,32"/>
+<area shape="rect" id="node10" href="$d7/dfe/classGraphicsUtils.html#a192187e812688be5f5e2cd02b860f26c" title=" " alt="" coords="857,56,1075,83"/>
+<area shape="rect" id="node11" href="$d7/dfe/classGraphicsUtils.html#a08388a69142404dd7821c9dfa44fa452" title=" " alt="" coords="1126,385,1322,412"/>
+<area shape="rect" id="node14" href="$dc/d3a/classConnectorItem.html#aca1129caef7472a09e0412fec209a90c" title=" " alt="" coords="555,496,809,523"/>
+<area shape="rect" id="node20" href="$d8/d86/classInfoGraphicsView.html#ab0b38b6bd4a3899df0d92bfe1db3a0ba" title=" " alt="" coords="585,547,779,589"/>
+<area shape="rect" id="node21" href="$dc/d3a/classConnectorItem.html#ae80559e104554bd66e3cc761749aac87" title=" " alt="" coords="561,715,803,741"/>
+<area shape="rect" id="node15" href="$d8/d3c/classBezier.html#a471c2ab7e34e061de38825685ec3b68f" title=" " alt="" coords="1173,537,1275,564"/>
+<area shape="rect" id="node16" href="$d8/d3c/classBezier.html#a3152ca2940ed500e564f8fd03bf41b77" title=" " alt="" coords="885,664,1047,691"/>
+<area shape="rect" id="node17" href="$d8/d3c/classBezier.html#a729d94317967559220576af5599619ac" title=" " alt="" coords="1173,613,1275,640"/>
+<area shape="rect" id="node18" href="$d8/d3c/classBezier.html#a863c5593d3fc288017abe5302dc8f92a" title=" " alt="" coords="904,461,1028,488"/>
+<area shape="rect" id="node19" href="$dc/d3a/classConnectorItem.html#a45870bff8f2760514ea3fcb05fb57087" title=" " alt="" coords="859,563,1073,589"/>
+<area shape="rect" id="node22" href="$d8/d3c/classBezier.html#a71529ad1a0644b73f2adc958614bafc1" title=" " alt="" coords="1123,834,1325,875"/>
+<area shape="rect" id="node26" href="$dc/d3a/classConnectorItem.html#a817fe76035f457721fcf1c1f3800280e" title=" " alt="" coords="887,816,1045,843"/>
+<area shape="rect" id="node27" href="$d4/d08/misc_8h.html#ae7cc352fa1dc81e57ff53ebbc762f27d" title=" " alt="" coords="937,715,995,741"/>
+<area shape="rect" id="node28" href="$d4/d08/misc_8h.html#aec6ff9c887dc8733e787bf81a01492fd" title=" " alt="" coords="939,765,993,792"/>
+<area shape="rect" id="node23" href="$d4/d4f/classItemBase.html#a1e72b3e4e4038345a39cf3ef2f664957" title=" " alt="" coords="1373,841,1472,868"/>
+<area shape="rect" id="node24" href="$d4/d4f/classItemBase.html#a8380ad795c557dd4a345b2c0113325dd" title=" " alt="" coords="1520,816,1731,843"/>
+<area shape="rect" id="node25" href="$d3/de8/classViewGeometry.html#a4e18f5bc63d72eb798b9206f76b6824b" title=" " alt="" coords="1559,867,1692,893"/>
+<area shape="rect" id="node31" href="$d8/d3c/classBezier.html#a1974a13047bc918a1e7dbea07acb156a" title=" " alt="" coords="635,445,729,472"/>
+</map>

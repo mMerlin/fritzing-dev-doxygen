@@ -1,0 +1,4 @@
+<map id="QuaZip::setZipName" name="QuaZip::setZipName">
+<area shape="rect" id="node1" title="Sets the name of the ZIP file." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node2" href="$d9/de5/classQuaZip.html#ae9652544f94ed1384632ef9b43e6ec92" title="Returns true if ZIP file is open, false otherwise." alt="" coords="211,5,333,32"/>
+</map>

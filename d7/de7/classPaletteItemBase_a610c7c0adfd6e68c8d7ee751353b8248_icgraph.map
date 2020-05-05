@@ -1,0 +1,13 @@
+<map id="PaletteItemBase::normalizeSvg" name="PaletteItemBase::normalizeSvg">
+<area shape="rect" id="node1" title=" " alt="" coords="523,183,749,209"/>
+<area shape="rect" id="node2" href="$d0/d5b/classGroundPlane.html#af3f18cccb0ee2971408fc380dd4fc6ad" title=" " alt="" coords="277,5,465,32"/>
+<area shape="rect" id="node3" href="$d6/d3e/classHole.html#a21d96f96ccfc0834092622d229b95025" title=" " alt="" coords="304,56,439,83"/>
+<area shape="rect" id="node4" href="$d6/d39/classJumperItem.html#a32e5bd4aa874ecbc416a94346d432482" title=" " alt="" coords="281,107,462,133"/>
+<area shape="rect" id="node5" href="$d9/d6b/classLED.html#af9c803d85e1e03748223191b4d362ed0" title=" " alt="" coords="306,157,437,184"/>
+<area shape="rect" id="node6" href="$dd/df8/classResistor.html#a6f8344a210907ea3ca1c4a0a8b1f2698" title=" " alt="" coords="292,208,451,235"/>
+<area shape="rect" id="node7" href="$d7/dde/classResizableBoard.html#ad842fbf882243665af184b395500a8af" title=" " alt="" coords="268,259,475,285"/>
+<area shape="rect" id="node10" href="$d7/d60/classRuler.html#a2004227bc5a6c2ab251d2636e6b0ec79" title=" " alt="" coords="302,309,441,336"/>
+<area shape="rect" id="node11" href="$df/d12/classNetLabel.html#ae5d2ddeb3be85cfc820058ce8fadc2d3" title=" " alt="" coords="290,360,453,387"/>
+<area shape="rect" id="node8" href="$d3/d78/classPad.html#a8d4dbae9de4bb36ba18a8b1bb3b680d1" title=" " alt="" coords="49,233,177,260"/>
+<area shape="rect" id="node9" href="$df/d59/classSchematicFrame.html#a409c4b18ed4dd03a7434d7a8fd53cc06" title=" " alt="" coords="5,284,220,311"/>
+</map>

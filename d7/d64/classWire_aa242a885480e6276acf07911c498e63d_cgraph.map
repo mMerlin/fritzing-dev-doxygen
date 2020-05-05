@@ -1,0 +1,9 @@
+<map id="Wire::connectedMoved" name="Wire::connectedMoved">
+<area shape="rect" id="node1" title=" " alt="" coords="5,42,176,69"/>
+<area shape="rect" id="node2" href="$dc/d3a/classConnectorItem.html#af2e14ebbdaa87a6c6dd301825fc83fc0" title=" " alt="" coords="236,5,429,47"/>
+<area shape="rect" id="node3" href="$d7/d64/classWire.html#a6e5b7e05c903fc03a6992672dc3c5d88" title=" " alt="" coords="224,71,441,98"/>
+<area shape="rect" id="node4" href="$dc/d3a/classConnectorItem.html#a018307285a957aee5ac0042d18a2ad87" title=" " alt="" coords="489,64,709,105"/>
+<area shape="rect" id="node5" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="757,46,980,73"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#a7565ba05974fedf75bb75923b18bca1a" title=" " alt="" coords="783,97,954,123"/>
+<area shape="rect" id="node7" href="$d3/de8/classViewGeometry.html#a11ca759a75de95be900ac023617a1858" title=" " alt="" coords="1028,97,1232,123"/>
+</map>

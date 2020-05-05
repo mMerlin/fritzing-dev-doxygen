@@ -1,0 +1,8 @@
+<map id="ConnectorItem::collectPart" name="ConnectorItem::collectPart">
+<area shape="rect" id="node1" title=" " alt="" coords="779,42,973,69"/>
+<area shape="rect" id="node2" href="$dc/d3a/classConnectorItem.html#a879786a2c470f7fbde747e8d68ea7d7a" title=" " alt="" coords="529,42,731,69"/>
+<area shape="rect" id="node3" href="$d8/d37/classSketchWidget.html#ada0a35a64d96a43534b6f62f16dd2b8c" title=" " alt="" coords="267,5,481,47"/>
+<area shape="rect" id="node4" href="$d8/d37/classSketchWidget.html#a340b59a24c570af110a1639867642040" title=" " alt="" coords="269,71,479,98"/>
+<area shape="rect" id="node5" href="$d1/d67/classMazeRouter.html#a0e1c56746b837fa3e83bd6b9e9fcd309" title=" " alt="" coords="43,46,181,73"/>
+<area shape="rect" id="node6" href="$d8/d37/classSketchWidget.html#aa3d13725ac3d468228253bf2e90a4583" title=" " alt="" coords="5,97,219,123"/>
+</map>

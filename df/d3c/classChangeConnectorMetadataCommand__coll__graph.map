@@ -1,0 +1,203 @@
+<map id="ChangeConnectorMetadataCommand" name="ChangeConnectorMetadataCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="15545,5755,15836,5876"/>
+<area shape="rect" id="node2" href="$d2/d7f/classPEBaseCommand.html" title=" " alt="" coords="15489,5599,15662,5705"/>
+<area shape="rect" id="node3" href="$d8/d6e/classBaseCommand.html" title=" " alt="" coords="14997,821,15162,1103"/>
+<area shape="rect" id="node96" href="$d2/d38/classSelectItemCommand.html" title=" " alt="" coords="15170,1628,15354,1911"/>
+<area shape="rect" id="node4" href="$d6/d40/classQUndoCommand.html" title=" " alt="" coords="15272,314,15405,391"/>
+<area shape="rect" id="node5" title=" " alt="" coords="14909,314,15104,391"/>
+<area shape="rect" id="node6" title=" " alt="" coords="15128,314,15248,391"/>
+<area shape="rect" id="node7" title=" " alt="" coords="12030,314,12068,391"/>
+<area shape="rect" id="node12" href="$d8/d37/classSketchWidget.html" title=" " alt="" coords="12428,3757,12662,4699"/>
+<area shape="rect" id="node13" href="$d8/d86/classInfoGraphicsView.html" title=" " alt="" coords="12900,3221,13097,3518"/>
+<area shape="rect" id="node14" href="$d1/dc8/classZoomableGraphicsView.html" title=" " alt="" coords="14518,843,14729,1081"/>
+<area shape="rect" id="node19" href="$db/d71/classHtmlInfoView.html" title=" " alt="" coords="12846,2413,13065,3107"/>
+<area shape="rect" id="node21" href="$d4/d72/classModelPart.html" title=" " alt="" coords="13434,1577,13682,1962"/>
+<area shape="rect" id="node34" href="$d4/d4f/classItemBase.html" title=" " alt="" coords="8058,1349,8333,2189"/>
+<area shape="rect" id="node59" href="$dc/d3a/classConnectorItem.html" title=" " alt="" coords="8818,711,9072,1213"/>
+<area shape="rect" id="node112" href="$d7/da6/structRoutingStatus.html" title=" " alt="" coords="12655,3323,12774,3415"/>
+<area shape="rect" id="node116" href="$d6/d9a/classPEMainWindow.html" title=" " alt="" coords="9560,4828,9794,5536"/>
+<area shape="rect" id="node117" href="$d6/d1a/classMainWindow.html" title=" " alt="" coords="4440,3749,4674,4707"/>
+<area shape="rect" id="node173" href="$db/d39/classPEConnectorsView.html" title=" " alt="" coords="9063,2626,9246,2894"/>
+<area shape="rect" id="node192" href="$d7/d0d/classPEGraphicsItem.html" title=" " alt="" coords="8516,2641,8680,2879"/>
+<area shape="rect" id="node200" href="$dd/d9e/structConnectorMetadata.html" title=" " alt="" coords="15583,923,15734,1001"/>
+<area shape="rect" id="node8" title=" " alt="" coords="12490,5,12541,83"/>
+<area shape="rect" id="node9" href="$df/d8b/classCommandProgress.html" title=" " alt="" coords="15429,285,15600,421"/>
+<area shape="rect" id="node46" href="$d3/de8/classViewGeometry.html" title=" " alt="" coords="10005,843,10160,1081"/>
+<area shape="rect" id="node60" href="$dc/d09/classNonConnectorItem.html" title=" " alt="" coords="7989,233,8192,472"/>
+<area shape="rect" id="node84" href="$d1/d3f/classFLineEdit.html" title=" " alt="" coords="13853,277,14024,428"/>
+<area shape="rect" id="node118" href="$d3/d1c/classFritzingWindow.html" title=" " alt="" coords="6580,3199,6790,3540"/>
+<area shape="rect" id="node126" href="$d7/df5/classFDockWidget.html" title=" " alt="" coords="4507,894,4642,1030"/>
+<area shape="rect" id="node157" href="$d7/d64/classWire.html" title=" " alt="" coords="3572,2516,3846,3004"/>
+<area shape="rect" id="node166" href="$d8/d3c/classBezier.html" title=" " alt="" coords="4260,835,4483,1089"/>
+<area shape="rect" id="node10" href="$d9/d5b/classQObject.html" title=" " alt="" coords="14394,5,14469,83"/>
+<area shape="rect" id="node11" title=" " alt="" coords="10561,314,10705,391"/>
+<area shape="rect" id="node91" href="$d0/dbb/classWaitPushUndoStack.html" title=" " alt="" coords="7739,2626,7927,2894"/>
+<area shape="rect" id="node15" href="$d4/dca/classQGraphicsView.html" title=" " alt="" coords="14311,314,14432,391"/>
+<area shape="rect" id="node16" title=" " alt="" coords="14456,314,14615,391"/>
+<area shape="rect" id="node17" title=" " alt="" coords="8325,5,8392,83"/>
+<area shape="rect" id="node18" title=" " alt="" coords="12719,2721,12822,2799"/>
+<area shape="rect" id="node20" href="$dc/d54/classQScrollArea.html" title=" " alt="" coords="11561,1731,11660,1808"/>
+<area shape="rect" id="node194" href="$d5/def/classPEMetadataView.html" title=" " alt="" coords="9776,2604,9944,2916"/>
+<area shape="rect" id="node22" title=" " alt="" coords="5492,314,5563,391"/>
+<area shape="rect" id="node38" href="$df/db0/classFSvgRenderer.html" title=" " alt="" coords="6195,718,6404,1206"/>
+<area shape="rect" id="node134" href="$db/d09/classWelcomeView.html" title=" " alt="" coords="5238,2553,5450,2967"/>
+<area shape="rect" id="node137" href="$d7/d8b/classBlogListWidget.html" title=" " alt="" coords="5096,1577,5285,1962"/>
+<area shape="rect" id="node153" href="$d5/d4f/classSwapTimer.html" title=" " alt="" coords="6806,2685,6926,2835"/>
+<area shape="rect" id="node23" title=" " alt="" coords="12298,916,12482,1008"/>
+<area shape="rect" id="node24" title=" " alt="" coords="12506,923,12618,1001"/>
+<area shape="rect" id="node25" title=" " alt="" coords="12642,923,12861,1001"/>
+<area shape="rect" id="node26" title=" " alt="" coords="12886,916,13060,1008"/>
+<area shape="rect" id="node27" title=" " alt="" coords="11844,923,11961,1001"/>
+<area shape="rect" id="node28" title=" " alt="" coords="13085,923,13168,1001"/>
+<area shape="rect" id="node29" title=" " alt="" coords="13192,923,13340,1001"/>
+<area shape="rect" id="node30" title=" " alt="" coords="13365,916,13557,1008"/>
+<area shape="rect" id="node31" title=" " alt="" coords="11769,923,11820,1001"/>
+<area shape="rect" id="node32" title=" " alt="" coords="5004,923,5097,1001"/>
+<area shape="rect" id="node33" title=" " alt="" coords="13581,916,13773,1008"/>
+<area shape="rect" id="node35" href="$df/da7/classQGraphicsSvgItem.html" title=" " alt="" coords="9686,923,9828,1001"/>
+<area shape="rect" id="node36" title=" " alt="" coords="7627,916,7826,1008"/>
+<area shape="rect" id="node37" title=" " alt="" coords="14156,5,14326,83"/>
+<area shape="rect" id="node39" href="$d6/d60/classQSvgRenderer.html" title=" " alt="" coords="6365,314,6480,391"/>
+<area shape="rect" id="node40" title=" " alt="" coords="6504,307,6706,399"/>
+<area shape="rect" id="node41" title=" " alt="" coords="6730,314,6797,391"/>
+<area shape="rect" id="node42" title=" " alt="" coords="6923,923,7002,1001"/>
+<area shape="rect" id="node43" title=" " alt="" coords="10850,923,10918,1001"/>
+<area shape="rect" id="node44" title=" " alt="" coords="9472,314,9664,391"/>
+<area shape="rect" id="node45" title=" " alt="" coords="9331,916,9466,1008"/>
+<area shape="rect" id="node47" title=" " alt="" coords="10820,314,10907,391"/>
+<area shape="rect" id="node48" title=" " alt="" coords="4301,314,4368,391"/>
+<area shape="rect" id="node49" title=" " alt="" coords="9759,314,9832,391"/>
+<area shape="rect" id="node50" title=" " alt="" coords="4392,314,4461,391"/>
+<area shape="rect" id="node51" title=" " alt="" coords="11126,314,11223,391"/>
+<area shape="rect" id="node52" title=" " alt="" coords="9490,916,9662,1008"/>
+<area shape="rect" id="node53" title=" " alt="" coords="10942,923,11175,1001"/>
+<area shape="rect" id="node54" title=" " alt="" coords="7136,923,7290,1001"/>
+<area shape="rect" id="node55" title=" " alt="" coords="7314,923,7482,1001"/>
+<area shape="rect" id="node56" title=" " alt="" coords="7506,923,7602,1001"/>
+<area shape="rect" id="node57" title=" " alt="" coords="5752,5,5858,83"/>
+<area shape="rect" id="node58" title=" " alt="" coords="7850,923,8008,1001"/>
+<area shape="rect" id="node129" href="$de/df2/classConnectorItemAction.html" title=" " alt="" coords="5408,3309,5592,3430"/>
+<area shape="rect" id="node61" href="$d1/d33/classQGraphicsRectItem.html" title=" " alt="" coords="5900,5,6048,83"/>
+<area shape="rect" id="node62" title=" " alt="" coords="6112,5,6202,83"/>
+<area shape="rect" id="node63" href="$db/d0a/classCursorKeyListener.html" title=" " alt="" coords="3920,314,4068,391"/>
+<area shape="rect" id="node64" title=" " alt="" coords="7056,314,7122,391"/>
+<area shape="rect" id="node65" title=" " alt="" coords="8650,314,8824,391"/>
+<area shape="rect" id="node66" title=" " alt="" coords="10330,307,10536,399"/>
+<area shape="rect" id="node67" title=" " alt="" coords="8849,314,9041,391"/>
+<area shape="rect" id="node68" title=" " alt="" coords="8534,314,8626,391"/>
+<area shape="rect" id="node69" title=" " alt="" coords="6822,314,7026,391"/>
+<area shape="rect" id="node70" title=" " alt="" coords="6653,923,6848,1001"/>
+<area shape="rect" id="node71" title=" " alt="" coords="10514,923,10618,1001"/>
+<area shape="rect" id="node72" title=" " alt="" coords="8033,923,8206,1001"/>
+<area shape="rect" id="node73" title=" " alt="" coords="8231,923,8376,1001"/>
+<area shape="rect" id="node74" title=" " alt="" coords="8400,923,8463,1001"/>
+<area shape="rect" id="node75" title=" " alt="" coords="8488,923,8597,1001"/>
+<area shape="rect" id="node76" title=" " alt="" coords="8622,916,8794,1008"/>
+<area shape="rect" id="node77" title=" " alt="" coords="12664,1731,12826,1808"/>
+<area shape="rect" id="node78" title=" " alt="" coords="12850,1731,12992,1808"/>
+<area shape="rect" id="node79" title=" " alt="" coords="13016,1731,13124,1808"/>
+<area shape="rect" id="node80" title=" " alt="" coords="10950,1731,11020,1808"/>
+<area shape="rect" id="node81" title=" " alt="" coords="5310,1731,5399,1808"/>
+<area shape="rect" id="node82" title=" " alt="" coords="13149,1731,13264,1808"/>
+<area shape="rect" id="node83" title=" " alt="" coords="7412,1731,7491,1808"/>
+<area shape="rect" id="node191" href="$d3/dac/classPESvgView.html" title=" " alt="" coords="9637,3301,9802,3437"/>
+<area shape="rect" id="node85" href="$d3/d15/classQLineEdit.html" title=" " alt="" coords="15874,5,15958,83"/>
+<area shape="rect" id="node86" title=" " alt="" coords="13288,1731,13410,1808"/>
+<area shape="rect" id="node87" title=" " alt="" coords="11452,1731,11536,1808"/>
+<area shape="rect" id="node88" title=" " alt="" coords="13269,3331,13434,3408"/>
+<area shape="rect" id="node89" title=" " alt="" coords="9269,3331,9408,3408"/>
+<area shape="rect" id="node90" title=" " alt="" coords="13459,3331,13663,3408"/>
+<area shape="rect" id="node92" title=" " alt="" coords="7684,1731,7787,1808"/>
+<area shape="rect" id="node93" title=" " alt="" coords="7811,1731,7866,1808"/>
+<area shape="rect" id="node94" title=" " alt="" coords="7516,1731,7660,1808"/>
+<area shape="rect" id="node95" title=" " alt="" coords="8436,1731,8510,1808"/>
+<area shape="rect" id="node97" title=" " alt="" coords="15237,923,15360,1001"/>
+<area shape="rect" id="node98" title=" " alt="" coords="15384,923,15498,1001"/>
+<area shape="rect" id="node99" title=" " alt="" coords="13790,3331,13991,3408"/>
+<area shape="rect" id="node100" title=" " alt="" coords="14016,3323,14210,3415"/>
+<area shape="rect" id="node101" title=" " alt="" coords="14234,3323,14458,3415"/>
+<area shape="rect" id="node102" title=" " alt="" coords="14483,3331,14642,3408"/>
+<area shape="rect" id="node103" title=" " alt="" coords="14666,3331,14717,3408"/>
+<area shape="rect" id="node104" title=" " alt="" coords="14742,3323,14938,3415"/>
+<area shape="rect" id="node105" title=" " alt="" coords="14962,3323,15186,3415"/>
+<area shape="rect" id="node106" title=" " alt="" coords="15211,3323,15386,3415"/>
+<area shape="rect" id="node107" title=" " alt="" coords="10886,3323,11079,3415"/>
+<area shape="rect" id="node108" title=" " alt="" coords="11104,3331,11261,3408"/>
+<area shape="rect" id="node109" title=" " alt="" coords="11286,3323,11495,3415"/>
+<area shape="rect" id="node110" title=" " alt="" coords="11519,3331,11702,3408"/>
+<area shape="rect" id="node111" title=" " alt="" coords="11726,3331,11919,3408"/>
+<area shape="rect" id="node113" title=" " alt="" coords="11944,3331,12173,3408"/>
+<area shape="rect" id="node114" title=" " alt="" coords="12198,3331,12263,3408"/>
+<area shape="rect" id="node115" title=" " alt="" coords="12287,3331,12478,3408"/>
+<area shape="rect" id="node119" href="$df/d90/classQMainWindow.html" title=" " alt="" coords="6160,2721,6276,2799"/>
+<area shape="rect" id="node120" href="$dd/d82/classBundler.html" title=" " alt="" coords="6300,2699,6475,2821"/>
+<area shape="rect" id="node121" title=" " alt="" coords="6500,2721,6606,2799"/>
+<area shape="rect" id="node122" title=" " alt="" coords="554,2721,638,2799"/>
+<area shape="rect" id="node123" title=" " alt="" coords="6630,2721,6681,2799"/>
+<area shape="rect" id="node124" title=" " alt="" coords="5616,3331,5698,3408"/>
+<area shape="rect" id="node125" title=" " alt="" coords="5722,3323,5931,3415"/>
+<area shape="rect" id="node127" href="$d2/d3c/classQDockWidget.html" title=" " alt="" coords="4486,314,4596,391"/>
+<area shape="rect" id="node128" title=" " alt="" coords="6006,3331,6116,3408"/>
+<area shape="rect" id="node130" href="$d7/d3d/classQAction.html" title=" " alt="" coords="4614,2721,4687,2799"/>
+<area shape="rect" id="node156" href="$d6/d47/classWireAction.html" title=" " alt="" coords="800,3309,919,3430"/>
+<area shape="rect" id="node131" title=" " alt="" coords="6140,3331,6323,3408"/>
+<area shape="rect" id="node132" title=" " alt="" coords="6348,3331,6556,3408"/>
+<area shape="rect" id="node133" title=" " alt="" coords="489,3331,548,3408"/>
+<area shape="rect" id="node135" href="$da/d79/classQFrame.html" title=" " alt="" coords="7280,1731,7354,1808"/>
+<area shape="rect" id="node178" href="$dd/d1d/classPEToolView.html" title=" " alt="" coords="8344,4028,8570,4428"/>
+<area shape="rect" id="node136" title=" " alt="" coords="5432,1731,5544,1808"/>
+<area shape="rect" id="node138" href="$d4/d72/classQListWidget.html" title=" " alt="" coords="5342,923,5444,1001"/>
+<area shape="rect" id="node139" title=" " alt="" coords="943,3331,1040,3408"/>
+<area shape="rect" id="node140" title=" " alt="" coords="1064,3331,1271,3408"/>
+<area shape="rect" id="node141" title=" " alt="" coords="1346,3331,1544,3408"/>
+<area shape="rect" id="node142" title=" " alt="" coords="1568,3331,1783,3408"/>
+<area shape="rect" id="node143" title=" " alt="" coords="1808,3323,1994,3415"/>
+<area shape="rect" id="node144" title=" " alt="" coords="238,3331,465,3408"/>
+<area shape="rect" id="node145" title=" " alt="" coords="2070,3331,2290,3408"/>
+<area shape="rect" id="node146" title=" " alt="" coords="2314,3331,2454,3408"/>
+<area shape="rect" id="node147" title=" " alt="" coords="2478,3331,2700,3408"/>
+<area shape="rect" id="node148" title=" " alt="" coords="2725,3331,2885,3408"/>
+<area shape="rect" id="node149" title=" " alt="" coords="2910,3331,3162,3408"/>
+<area shape="rect" id="node150" title=" " alt="" coords="3186,3331,3413,3408"/>
+<area shape="rect" id="node151" title=" " alt="" coords="7123,3331,7287,3408"/>
+<area shape="rect" id="node152" title=" " alt="" coords="3438,3323,3636,3415"/>
+<area shape="rect" id="node154" title=" " alt="" coords="3660,3331,3822,3408"/>
+<area shape="rect" id="node155" title=" " alt="" coords="7311,3331,7464,3408"/>
+<area shape="rect" id="node158" title=" " alt="" coords="2835,1723,3031,1815"/>
+<area shape="rect" id="node159" title=" " alt="" coords="3055,1731,3224,1808"/>
+<area shape="rect" id="node160" title=" " alt="" coords="3248,1731,3447,1808"/>
+<area shape="rect" id="node161" title=" " alt="" coords="3471,1731,3574,1808"/>
+<area shape="rect" id="node162" title=" " alt="" coords="3598,1731,3654,1808"/>
+<area shape="rect" id="node163" title=" " alt="" coords="3678,1731,3748,1808"/>
+<area shape="rect" id="node164" title=" " alt="" coords="3822,1723,3964,1815"/>
+<area shape="rect" id="node165" title=" " alt="" coords="2634,1731,2810,1808"/>
+<area shape="rect" id="node167" title=" " alt="" coords="3898,3323,4096,3415"/>
+<area shape="rect" id="node168" title=" " alt="" coords="4121,3323,4326,3415"/>
+<area shape="rect" id="node169" title=" " alt="" coords="4350,3323,4524,3415"/>
+<area shape="rect" id="node170" title=" " alt="" coords="4548,3331,4776,3408"/>
+<area shape="rect" id="node171" title=" " alt="" coords="4800,3331,4967,3408"/>
+<area shape="rect" id="node172" title=" " alt="" coords="4991,3331,5107,3408"/>
+<area shape="rect" id="node174" title=" " alt="" coords="8874,1731,8997,1808"/>
+<area shape="rect" id="node175" title=" " alt="" coords="9021,1731,9208,1808"/>
+<area shape="rect" id="node176" title=" " alt="" coords="9232,1731,9341,1808"/>
+<area shape="rect" id="node177" title=" " alt="" coords="9366,1731,9460,1808"/>
+<area shape="rect" id="node179" title=" " alt="" coords="7488,3331,7671,3408"/>
+<area shape="rect" id="node180" title=" " alt="" coords="7695,3331,7912,3408"/>
+<area shape="rect" id="node181" title=" " alt="" coords="7937,3323,8140,3415"/>
+<area shape="rect" id="node182" title=" " alt="" coords="8164,3331,8347,3408"/>
+<area shape="rect" id="node183" title=" " alt="" coords="8371,3331,8551,3408"/>
+<area shape="rect" id="node184" title=" " alt="" coords="8576,3331,8762,3408"/>
+<area shape="rect" id="node185" title=" " alt="" coords="9432,3331,9612,3408"/>
+<area shape="rect" id="node186" title=" " alt="" coords="8786,3331,8978,3408"/>
+<area shape="rect" id="node187" title=" " alt="" coords="9003,3331,9194,3408"/>
+<area shape="rect" id="node188" title=" " alt="" coords="9786,4189,10010,4267"/>
+<area shape="rect" id="node189" title=" " alt="" coords="10034,4189,10261,4267"/>
+<area shape="rect" id="node190" title=" " alt="" coords="10286,4182,10492,4274"/>
+<area shape="rect" id="node193" title=" " alt="" coords="8358,1731,8412,1808"/>
+<area shape="rect" id="node195" title=" " alt="" coords="9975,1731,10134,1808"/>
+<area shape="rect" id="node196" title=" " alt="" coords="10158,1731,10329,1808"/>
+<area shape="rect" id="node197" title=" " alt="" coords="9536,1731,9706,1808"/>
+<area shape="rect" id="node198" title=" " alt="" coords="9731,1723,9951,1815"/>
+<area shape="rect" id="node199" title=" " alt="" coords="12686,4189,12817,4267"/>
+<area shape="rect" id="node201" title=" " alt="" coords="15675,314,15794,391"/>
+</map>

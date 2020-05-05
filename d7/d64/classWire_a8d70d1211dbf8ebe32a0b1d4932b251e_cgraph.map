@@ -1,0 +1,17 @@
+<map id="Wire::getConnectedColor" name="Wire::getConnectedColor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,341,189,368"/>
+<area shape="rect" id="node2" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="239,5,462,32"/>
+<area shape="rect" id="node3" href="$dc/d09/classNonConnectorItem.html#a9a1e80518fb866bab2bd1fa7fe0965db" title=" " alt="" coords="246,57,455,98"/>
+<area shape="rect" id="node4" href="$dc/d3a/classConnectorItem.html#af2e14ebbdaa87a6c6dd301825fc83fc0" title=" " alt="" coords="254,122,447,163"/>
+<area shape="rect" id="node5" href="$dc/d3a/classConnectorItem.html#a738aa71d441bbd17ed83157b29e8becb" title=" " alt="" coords="249,187,453,229"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#a1937b4a59918540a312b0e76f147ecf8" title=" " alt="" coords="243,253,459,280"/>
+<area shape="rect" id="node7" href="$d8/d86/classInfoGraphicsView.html#a606fdf5fe1049e99851ba1050a9516e6" title=" " alt="" coords="256,305,445,346"/>
+<area shape="rect" id="node8" href="$d8/d86/classInfoGraphicsView.html#a5bcde257c0ae96ad2ab54c209537ff1b" title=" " alt="" coords="237,371,464,397"/>
+<area shape="rect" id="node9" href="$d8/d86/classInfoGraphicsView.html#a0489b00e813f0056d5b8994b63ad7fc8" title=" " alt="" coords="242,421,459,448"/>
+<area shape="rect" id="node10" href="$d7/d64/classWire.html#af18b21be89076a015bf909b1571e010a" title=" " alt="" coords="283,472,418,499"/>
+<area shape="rect" id="node13" href="$d7/d64/classWire.html#aaeaa3df303e96fd810b2abf8842b2b9c" title=" " alt="" coords="297,523,405,549"/>
+<area shape="rect" id="node14" href="$d7/d64/classWire.html#a7c94896def2db4e512c7635592f4044e" title=" " alt="" coords="309,573,393,600"/>
+<area shape="rect" id="node15" href="$dc/d3a/classConnectorItem.html#a8ccd0f02169f1c0ee2b604b28be5e826" title=" " alt="" coords="255,624,446,651"/>
+<area shape="rect" id="node11" href="$d7/d64/classWire.html#a279a6f6496623e9da9f02234b2325af6" title=" " alt="" coords="512,472,623,499"/>
+<area shape="rect" id="node12" href="$d3/de8/classViewGeometry.html#af48546e414eab094f557068fa483aee3" title=" " alt="" coords="671,472,848,499"/>
+</map>

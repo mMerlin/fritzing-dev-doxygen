@@ -1,0 +1,44 @@
+<map id="ScrewTerminal::swapEntry" name="ScrewTerminal::swapEntry">
+<area shape="rect" id="node1" title=" " alt="" coords="5,376,199,403"/>
+<area shape="rect" id="node2" href="$d3/d04/classPaletteItem.html#a017ba137404453d0cf96afd3577d3a9b" title=" " alt="" coords="277,148,476,175"/>
+<area shape="rect" id="node18" href="$db/d54/classScrewTerminal.html#a5d852dd8cb08189279ef4f449cb6bcf4" title=" " alt="" coords="289,275,464,301"/>
+<area shape="rect" id="node23" href="$db/d54/classScrewTerminal.html#aaf625edd4166d1c13fed54c38f983aad" title=" " alt="" coords="271,325,482,352"/>
+<area shape="rect" id="node24" href="$db/d54/classScrewTerminal.html#a4ab1f42a22f6a127638d056850554dfd" title=" " alt="" coords="247,595,507,621"/>
+<area shape="rect" id="node31" href="$db/d54/classScrewTerminal.html#a628e5d5a05c05863f5fe96e4a74abfa1" title=" " alt="" coords="559,376,767,403"/>
+<area shape="rect" id="node37" href="$db/d54/classScrewTerminal.html#aa4e3acbcbaa92a5459fa230e7f974c62" title=" " alt="" coords="250,805,503,832"/>
+<area shape="rect" id="node39" href="$d4/d4f/classItemBase.html#a8e0038395129f2610d7327ac912d2764" title=" " alt="" coords="297,1125,457,1152"/>
+<area shape="rect" id="node3" href="$d0/d85/classPartFactory.html#ad216af6b2b567a5736006e18a54a07ae" title=" " alt="" coords="571,173,754,200"/>
+<area shape="rect" id="node13" href="$d4/d4f/classItemBase.html#a97277bb1a43bcb78bcc5522290c63477" title=" " alt="" coords="585,123,740,149"/>
+<area shape="rect" id="node14" href="$d4/dd9/classFamilyPropertyComboBox.html#a7a864cf8d49e3bd83ad6c2ec850309ef" title=" " alt="" coords="567,529,758,570"/>
+<area shape="rect" id="node15" href="$d0/d85/classPartFactory.html#a021f1c2093ebbbc4b58f7acf0e8de0d2" title=" " alt="" coords="569,21,756,48"/>
+<area shape="rect" id="node17" href="$de/db8/classTextUtils.html#a0301b94dbede1f79d5518f7e21c65fb6" title=" " alt="" coords="589,72,737,99"/>
+<area shape="rect" id="node4" href="$d4/d08/misc_8h.html#af94921b1392f8ec18b3d575c2c762b94" title=" " alt="" coords="846,173,1005,200"/>
+<area shape="rect" id="node5" href="$d0/d85/classPartFactory.html#a41173233b11a5432235f5aa59ef90bad" title=" " alt="" coords="851,123,1000,149"/>
+<area shape="rect" id="node6" href="$dd/d63/classFolderUtils.html#a1d31fd7428720ce7c1480a9cf6dc15de" title=" " alt="" coords="836,57,1015,98"/>
+<area shape="rect" id="node7" href="$dd/d63/classFolderUtils.html#a1cfc928bc5e4767ee32d0e12fe3e14a8" title=" " alt="" coords="1815,107,1986,133"/>
+<area shape="rect" id="node8" href="$dd/d63/classFolderUtils.html#affe62da0f029c1f69d5fbc0fd1fc0c74" title=" " alt="" coords="1099,107,1278,149"/>
+<area shape="rect" id="node9" href="$dd/d63/classFolderUtils.html#a362640e33643f9f8049352fd7d947ea8" title=" " alt="" coords="1345,158,1524,199"/>
+<area shape="rect" id="node10" href="$dd/d63/classFolderUtils.html#ab9ac929b2f8ae09fb703d6e4fcc952e0" title=" " alt="" coords="1572,158,1767,199"/>
+<area shape="rect" id="node11" href="$dd/d63/classFolderUtils.html#ae36aca73d9a99c08603ca1f2b908dea0" title=" " alt="" coords="1815,158,1987,199"/>
+<area shape="rect" id="node12" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="2035,249,2189,276"/>
+<area shape="rect" id="node16" href="$d0/d85/classPartFactory.html#a7afcc368d63c5f1dc170eac3a84360fc" title=" " alt="" coords="848,5,1003,32"/>
+<area shape="rect" id="node19" href="$d3/d04/classPaletteItem.html#ab13a7a785e24a328a7b0e379ad884372" title=" " alt="" coords="585,275,740,301"/>
+<area shape="rect" id="node20" href="$d3/d04/classPaletteItem.html#a93a05803a3c67c318086a2390c233214" title=" " alt="" coords="555,224,771,251"/>
+<area shape="rect" id="node22" href="$db/d54/classScrewTerminal.html#ada604f2749a3237a12d75c422b145191" title=" " alt="" coords="561,325,765,352"/>
+<area shape="rect" id="node21" href="$d4/d4f/classItemBase.html#acc2f5bad42928e7178c28fa0771b1f60" title=" " alt="" coords="846,224,1005,251"/>
+<area shape="rect" id="node25" href="$de/db8/classTextUtils.html#a31919c349d6462cbcb8742f08d6e7c9c" title=" " alt="" coords="836,739,1015,781"/>
+<area shape="rect" id="node26" href="$de/db8/classTextUtils.html#ae42c2d8dd72d18b53a1edf87e6b6747d" title=" " alt="" coords="556,477,769,504"/>
+<area shape="rect" id="node27" href="$de/db8/classTextUtils.html#ad908775b15b7557b17705ed20e7d8a35" title=" " alt="" coords="819,470,1032,511"/>
+<area shape="rect" id="node28" href="$de/db8/classTextUtils.html#ac237cced8514f5457a974d9ca6d611be" title=" " alt="" coords="820,616,1031,643"/>
+<area shape="rect" id="node29" href="$de/db8/classTextUtils.html#a58843cfaf8e44ba98f07f4a412f7b388" title=" " alt="" coords="827,958,1024,999"/>
+<area shape="rect" id="node30" href="$de/db8/classTextUtils.html#a99d956c2a8102e284cd548761a50fee9" title=" " alt="" coords="827,857,1024,898"/>
+<area shape="rect" id="node32" href="$de/db8/classTextUtils.html#a53e674684a7ceb29e742cae16c5e246b" title=" " alt="" coords="829,405,1021,432"/>
+<area shape="rect" id="node34" href="$d3/d04/classPaletteItem.html#a65884959b5947e47d968e0f6d5391939" title=" " alt="" coords="830,339,1021,381"/>
+<area shape="rect" id="node33" href="$de/db8/classTextUtils.html#a081f65f326bccb69ddec2919b692c479" title=" " alt="" coords="1099,405,1278,432"/>
+<area shape="rect" id="node35" href="$d3/d04/classPaletteItem.html#a4b714318d8cc5dad3c5589e05efb89a9" title=" " alt="" coords="1080,347,1297,373"/>
+<area shape="rect" id="node36" href="$d4/d4f/classItemBase.html#a15ca8234e6d5e512e23031ca03e74d63" title=" " alt="" coords="1360,376,1509,403"/>
+<area shape="rect" id="node38" href="$db/d54/classScrewTerminal.html#ad6496bfcb96e49bddc227f2c493d030b" title=" " alt="" coords="555,798,771,839"/>
+<area shape="rect" id="node40" href="$d4/dd9/classFamilyPropertyComboBox.html#a0dcc77aba83f554f2883302b3280a9d3" title=" " alt="" coords="567,1118,758,1159"/>
+<area shape="rect" id="node41" href="$d8/d86/classInfoGraphicsView.html#a606fdf5fe1049e99851ba1050a9516e6" title=" " alt="" coords="568,1183,757,1225"/>
+<area shape="rect" id="node42" href="$d8/d86/classInfoGraphicsView.html#a69d8fca95ba631222a5bee71b21e03fb" title=" " alt="" coords="574,1249,751,1276"/>
+</map>

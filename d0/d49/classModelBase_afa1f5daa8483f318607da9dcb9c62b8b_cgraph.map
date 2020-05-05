@@ -1,0 +1,19 @@
+<map id="ModelBase::addModelPart" name="ModelBase::addModelPart">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,196,133"/>
+<area shape="rect" id="node2" href="$d4/d72/classModelPart.html#a1ec20473c5a9267a82a9c11193236258" title=" " alt="" coords="261,56,416,83"/>
+<area shape="rect" id="node6" href="$d4/d72/classModelPart.html#a6f52b9f62e7a043c5906cc5d256c322c" title=" " alt="" coords="253,107,424,133"/>
+<area shape="rect" id="node7" href="$d4/d72/classModelPart.html#a41eddfff486830d2a2d8e42767b594d2" title=" " alt="" coords="244,157,433,184"/>
+<area shape="rect" id="node3" href="$d4/d72/classModelPart.html#a3902099ca306a7924fd5d7418f8b4eee" title=" " alt="" coords="501,56,628,83"/>
+<area shape="rect" id="node4" href="$d4/d72/classModelPart.html#a5c46dd2d379fdc4a1385f4d3c512bf73" title=" " alt="" coords="722,5,877,32"/>
+<area shape="rect" id="node5" href="$d4/d72/classModelPart.html#a1a3c3970a8a05587649f4e1b4a20fb5b" title=" " alt="" coords="696,56,903,83"/>
+<area shape="rect" id="node8" href="$d4/d72/classModelPart.html#a2acf4e49c5485c018eafe728acae0229" title=" " alt="" coords="481,107,648,133"/>
+<area shape="rect" id="node10" href="$d7/d1b/classConnectorShared.html#a2ba3eb78fb417cdc98943d670426529c" title=" " alt="" coords="488,157,641,184"/>
+<area shape="rect" id="node11" href="$d4/d72/classModelPart.html#ade497815345c420bbd23e111aa96b87d" title=" " alt="" coords="487,208,642,235"/>
+<area shape="rect" id="node9" href="$d4/d72/classModelPart.html#ab3aad94e89c7415cfdcc8c269052c9a9" title=" " alt="" coords="740,107,859,133"/>
+<area shape="rect" id="node12" href="$d9/d65/classConnector.html#a24de03e134daab2d9efa441caaa42297" title=" " alt="" coords="697,157,902,184"/>
+<area shape="rect" id="node13" href="$d7/d1b/classConnectorShared.html#a287f4978e9742842d23ae0b1a00f46c2" title=" " alt="" coords="717,208,881,235"/>
+<area shape="rect" id="node14" href="$d5/d1b/classBusShared.html#aefd518b6892423933c79f4f0375a13d8" title=" " alt="" coords="744,259,855,285"/>
+<area shape="rect" id="node15" href="$d9/d65/classConnector.html#a1b9aaeb26c3135118b58aaecd1ef36f5" title=" " alt="" coords="729,309,869,336"/>
+<area shape="rect" id="node17" href="$d2/dfc/classBus.html#aee9b091c50d02e889b17a600d664e6eb" title=" " alt="" coords="727,360,871,387"/>
+<area shape="rect" id="node16" href="$d9/d65/classConnector.html#aa48281ac91fd7d99765da3bfc2a3cd75" title=" " alt="" coords="951,309,1069,336"/>
+</map>

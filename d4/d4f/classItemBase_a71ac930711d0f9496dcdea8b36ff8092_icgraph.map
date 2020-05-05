@@ -1,0 +1,10 @@
+<map id="ItemBase::hoverEnterConnectorItem" name="ItemBase::hoverEnterConnectorItem">
+<area shape="rect" id="node1" title=" " alt="" coords="1177,31,1436,57"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#aa40b464760852febe9c023cb57839b48" title=" " alt="" coords="871,5,1129,32"/>
+<area shape="rect" id="node3" href="$d7/d64/classWire.html#a0fc29146b0d6cade2d2eb15b2b745f9c" title=" " alt="" coords="887,56,1113,83"/>
+<area shape="rect" id="node4" href="$d6/d53/classClipableWire.html#afb615d39687c37b8d45ddb6de95bf2f3" title=" " alt="" coords="591,56,823,83"/>
+<area shape="rect" id="node5" href="$d6/d53/classClipableWire.html#a5f872988765fb14f385633920d23250b" title=" " alt="" coords="345,19,534,61"/>
+<area shape="rect" id="node6" href="$d6/d53/classClipableWire.html#a52c1db5b8d582e6d7eecea22fd3fe6e2" title=" " alt="" coords="336,85,543,112"/>
+<area shape="rect" id="node7" href="$d6/d53/classClipableWire.html#ab16df52a9c07ad563d727be75fab224c" title=" " alt="" coords="55,49,239,90"/>
+<area shape="rect" id="node8" href="$d6/d53/classClipableWire.html#a67ac8b8fb587b22039a1558ff41650a5" title=" " alt="" coords="5,115,288,141"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ConnectorItem::moveLegBendpoint" name="ConnectorItem::moveLegBendpoint">
+<area shape="rect" id="node1" title=" " alt="" coords="561,46,813,73"/>
+<area shape="rect" id="node2" href="$d8/d37/classSketchWidget.html#a7e9d117708fb33d1fb7fe4020622cbba" title=" " alt="" coords="268,46,513,73"/>
+<area shape="rect" id="node3" href="$de/d18/classMoveLegBendpointCommand.html#a149743c1a20ae9045766bcb1214ecd1c" title=" " alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node4" href="$de/d18/classMoveLegBendpointCommand.html#ac27761021bf96374c30cbeb54b6391f3" title=" " alt="" coords="5,71,220,112"/>
+</map>

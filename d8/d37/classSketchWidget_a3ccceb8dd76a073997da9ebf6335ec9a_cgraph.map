@@ -1,0 +1,14 @@
+<map id="SketchWidget::makeSwapWire" name="SketchWidget::makeSwapWire">
+<area shape="rect" id="node1" title=" " alt="" coords="5,207,225,233"/>
+<area shape="rect" id="node2" href="$dc/d09/classNonConnectorItem.html#a8bddbd1259c61a57ba95d83150d57eaf" title=" " alt="" coords="273,31,511,57"/>
+<area shape="rect" id="node5" href="$dc/d3a/classConnectorItem.html#aa255a20e50fe55ef1b3726abcd357991" title=" " alt="" coords="293,82,491,123"/>
+<area shape="rect" id="node6" href="$d9/d65/classConnector.html#ad73c2d3ee77e78a9dea4aa47385954d7" title=" " alt="" coords="283,148,501,175"/>
+<area shape="rect" id="node7" href="$dc/d3a/classConnectorItem.html#aa22ed310cdf87c914bfad84ce759d66b" title=" " alt="" coords="297,199,487,241"/>
+<area shape="rect" id="node8" href="$d4/d4f/classItemBase.html#ae000103e2c77f8ffe4e11f9e08e054da" title=" " alt="" coords="313,265,471,292"/>
+<area shape="rect" id="node10" href="$d5/d9d/classViewLayer.html#a44b443b6ce5756595b7faaaac510c6ef" title=" " alt="" coords="305,316,479,343"/>
+<area shape="rect" id="node12" href="$d4/d4f/classItemBase.html#a3dd3d84b0fdadf869b2bbd87f42ec156" title=" " alt="" coords="278,367,506,393"/>
+<area shape="rect" id="node3" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="559,5,781,32"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#a27afd199a7ae3c3fd14e88ed0be14420" title=" " alt="" coords="618,56,722,83"/>
+<area shape="rect" id="node9" href="$d4/d72/classModelPart.html#af580863cf392f55be038e94d5189e368" title=" " alt="" coords="590,265,750,292"/>
+<area shape="rect" id="node11" href="$d5/d9d/classViewLayer.html#acda6179880454250f27ee4ed167b6983" title=" " alt="" coords="581,316,759,343"/>
+</map>

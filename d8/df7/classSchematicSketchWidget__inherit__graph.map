@@ -1,0 +1,8 @@
+<map id="SchematicSketchWidget" name="SchematicSketchWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,2729,296,3217"/>
+<area shape="rect" id="node2" href="$df/dbf/classPCBSketchWidget.html" title=" " alt="" coords="5,1959,296,2681"/>
+<area shape="rect" id="node3" href="$d8/d37/classSketchWidget.html" title=" " alt="" coords="49,909,252,1911"/>
+<area shape="rect" id="node4" href="$d8/d86/classInfoGraphicsView.html" title=" " alt="" coords="35,505,266,861"/>
+<area shape="rect" id="node5" href="$d1/dc8/classZoomableGraphicsView.html" title=" " alt="" coords="45,131,256,457"/>
+<area shape="rect" id="node6" href="$d4/dca/classQGraphicsView.html" title=" " alt="" coords="90,5,211,83"/>
+</map>

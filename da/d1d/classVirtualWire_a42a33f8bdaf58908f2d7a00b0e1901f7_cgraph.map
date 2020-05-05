@@ -1,0 +1,7 @@
+<map id="VirtualWire::inactivateConnectors" name="VirtualWire::inactivateConnectors">
+<area shape="rect" id="node1" title=" " alt="" coords="5,42,247,69"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#af8b5baf85b1febe04dbaccd09e90d58a" title=" " alt="" coords="295,5,499,47"/>
+<area shape="rect" id="node3" href="$dc/d3a/classConnectorItem.html#a9819189649bbc81e81fa9413ad2ac9ca" title=" " alt="" coords="297,71,496,98"/>
+<area shape="rect" id="node4" href="$dc/d3a/classConnectorItem.html#aef0a982554423415b57d78e03d53060a" title=" " alt="" coords="547,64,739,105"/>
+<area shape="rect" id="node5" href="$dc/d09/classNonConnectorItem.html#a9a1e80518fb866bab2bd1fa7fe0965db" title=" " alt="" coords="787,64,996,105"/>
+</map>

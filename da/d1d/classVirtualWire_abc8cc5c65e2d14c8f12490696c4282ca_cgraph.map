@@ -1,0 +1,7 @@
+<map id="VirtualWire::hideConnectors" name="VirtualWire::hideConnectors">
+<area shape="rect" id="node1" title=" " alt="" coords="5,42,209,69"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#af8b5baf85b1febe04dbaccd09e90d58a" title=" " alt="" coords="257,5,461,47"/>
+<area shape="rect" id="node3" href="$dc/d3a/classConnectorItem.html#a033c593fd6c0b40402ece97e29e08bfd" title=" " alt="" coords="263,71,455,98"/>
+<area shape="rect" id="node4" href="$dc/d3a/classConnectorItem.html#aef0a982554423415b57d78e03d53060a" title=" " alt="" coords="509,64,701,105"/>
+<area shape="rect" id="node5" href="$dc/d09/classNonConnectorItem.html#a9a1e80518fb866bab2bd1fa7fe0965db" title=" " alt="" coords="749,64,959,105"/>
+</map>

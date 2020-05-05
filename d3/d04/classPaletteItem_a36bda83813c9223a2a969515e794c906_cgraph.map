@@ -1,0 +1,9 @@
+<map id="PaletteItem::resetConnectors" name="PaletteItem::resetConnectors">
+<area shape="rect" id="node1" title=" " alt="" coords="5,122,216,149"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#af8b5baf85b1febe04dbaccd09e90d58a" title=" " alt="" coords="264,5,468,47"/>
+<area shape="rect" id="node3" href="$dc/d3a/classConnectorItem.html#af0a6058a57e91d11f927dafa61c363d4" title=" " alt="" coords="271,71,461,98"/>
+<area shape="rect" id="node4" href="$df/db0/classFSvgRenderer.html#abfa59a6da2875e59a5ab3112fd644ade" title=" " alt="" coords="265,122,467,149"/>
+<area shape="rect" id="node5" href="$d4/d4f/classItemBase.html#a783246d1e45a53efa9e044fca46d2c9f" title=" " alt="" coords="277,173,455,199"/>
+<area shape="rect" id="node7" href="$d9/d65/classConnector.html#a5464f0672067790ea888b44f7aafb528" title=" " alt="" coords="285,223,447,250"/>
+<area shape="rect" id="node6" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="516,173,671,199"/>
+</map>

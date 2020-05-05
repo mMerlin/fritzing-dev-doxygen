@@ -1,0 +1,9 @@
+<map id="ItemBase::collectConnectors" name="ItemBase::collectConnectors">
+<area shape="rect" id="node1" title=" " alt="" coords="5,111,213,138"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#af8b5baf85b1febe04dbaccd09e90d58a" title=" " alt="" coords="269,5,473,47"/>
+<area shape="rect" id="node3" href="$dc/d3a/classConnectorItem.html#af2e14ebbdaa87a6c6dd301825fc83fc0" title=" " alt="" coords="274,71,467,112"/>
+<area shape="rect" id="node4" href="$dc/d3a/classConnectorItem.html#a560c1e8d67851141398c6923c12f1a49" title=" " alt="" coords="261,136,480,177"/>
+<area shape="rect" id="node7" href="$d4/d4f/classItemBase.html#acc2f5bad42928e7178c28fa0771b1f60" title=" " alt="" coords="291,202,450,229"/>
+<area shape="rect" id="node5" href="$dc/d3a/classConnectorItem.html#abdede51810abd3e7858b1020155f6b8e" title=" " alt="" coords="528,103,725,144"/>
+<area shape="rect" id="node6" href="$dc/d3a/classConnectorItem.html#aa255a20e50fe55ef1b3726abcd357991" title=" " alt="" coords="528,168,725,209"/>
+</map>

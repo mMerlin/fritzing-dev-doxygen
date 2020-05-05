@@ -1,0 +1,6 @@
+<map id="getCollidingName" name="getCollidingName">
+<area shape="rect" id="node1" title="get name of the part that collided with something" alt="" coords="5,56,144,83"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#a7e2aeaad0bf538b46ff5a3285521526a" title=" " alt="" coords="194,5,370,32"/>
+<area shape="rect" id="node3" href="$d4/d4f/classItemBase.html#abf6d16e250a353043cd4953ddc049bd0" title=" " alt="" coords="192,56,372,83"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#af0f5772f7bc3d09b1558119b5c7a898c" title=" " alt="" coords="223,107,341,133"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="PCBSketchWidget::excludeFromAutoroute" name="PCBSketchWidget::excludeFromAutoroute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,201,166"/>
+<area shape="rect" id="node2" href="$d7/d64/classWire.html#a5b8e6e054e0296615f5f3b6ae6be7b0a" title=" " alt="" coords="285,5,441,32"/>
+<area shape="rect" id="node3" href="$df/dbf/classPCBSketchWidget.html#afe1ab64e99e4f86546ae548a42f66f28" title=" " alt="" coords="249,56,477,83"/>
+<area shape="rect" id="node4" href="$d7/d64/classWire.html#af18b21be89076a015bf909b1571e010a" title=" " alt="" coords="296,107,431,133"/>
+<area shape="rect" id="node7" href="$d7/dc8/classVia.html#a90cc6963178915f3548e6a92ac780a66" title=" " alt="" coords="286,157,441,184"/>
+<area shape="rect" id="node10" href="$d6/d39/classJumperItem.html#a180e111a859990e3a697fe5ef5fc5e09" title=" " alt="" coords="258,208,469,235"/>
+<area shape="rect" id="node11" href="$d7/d64/classWire.html#aaaf0d4ccc1442ddfc3f3c719f27bddea" title=" " alt="" coords="281,259,445,285"/>
+<area shape="rect" id="node5" href="$d7/d64/classWire.html#a279a6f6496623e9da9f02234b2325af6" title=" " alt="" coords="585,107,696,133"/>
+<area shape="rect" id="node6" href="$d3/de8/classViewGeometry.html#af48546e414eab094f557068fa483aee3" title=" " alt="" coords="817,107,995,133"/>
+<area shape="rect" id="node8" href="$d3/de8/classViewGeometry.html#afc46ede8b188166207054154631c3b5d" title=" " alt="" coords="525,208,756,235"/>
+<area shape="rect" id="node9" href="$d3/de8/classViewGeometry.html#a48a7e6061ee8547a9e7736e0d1b51aa9" title=" " alt="" coords="804,208,1008,235"/>
+</map>

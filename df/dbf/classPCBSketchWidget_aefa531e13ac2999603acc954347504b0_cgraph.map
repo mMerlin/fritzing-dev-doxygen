@@ -1,0 +1,19 @@
+<map id="PCBSketchWidget::initWire" name="PCBSketchWidget::initWire">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,201,209"/>
+<area shape="rect" id="node2" href="$d7/d64/classWire.html#a45f4d43eb8d9c12df32f8431b22ae04a" title=" " alt="" coords="289,81,421,108"/>
+<area shape="rect" id="node3" href="$d4/d4f/classItemBase.html#a7565ba05974fedf75bb75923b18bca1a" title=" " alt="" coords="270,132,441,159"/>
+<area shape="rect" id="node5" href="$d7/d64/classWire.html#a9253149b1f7a9402fe7aa952447ab68d" title=" " alt="" coords="279,183,431,209"/>
+<area shape="rect" id="node13" href="$d7/d64/classWire.html#a7ad79fcd158550d60e1410df7a90b757" title=" " alt="" coords="284,309,427,336"/>
+<area shape="rect" id="node16" href="$df/dbf/classPCBSketchWidget.html#a523751d89feb76b305b33b406c559638" title=" " alt="" coords="249,396,461,423"/>
+<area shape="rect" id="node4" href="$d3/de8/classViewGeometry.html#a11ca759a75de95be900ac023617a1858" title=" " alt="" coords="523,5,727,32"/>
+<area shape="rect" id="node6" href="$d7/d64/classWire.html#ad1932b30b3173ea325a982af4d458125" title=" " alt="" coords="559,56,690,83"/>
+<area shape="rect" id="node7" href="$d1/db9/classRatsnestColors.html#a3054ef81f4552922e1941685dece5f3e" title=" " alt="" coords="529,107,720,133"/>
+<area shape="rect" id="node9" href="$d7/d64/classWire.html#aa5265472f5bc32c92483e88750b7bdb3" title=" " alt="" coords="567,157,682,184"/>
+<area shape="rect" id="node11" href="$d1/db9/classRatsnestColors.html#a4c3575dbc6a97d99c267c917125923f7" title=" " alt="" coords="519,208,731,235"/>
+<area shape="rect" id="node12" href="$d7/d64/classWire.html#af5b7ddb7f0b8317d061d7b21fc548b05" title=" " alt="" coords="542,259,707,285"/>
+<area shape="rect" id="node8" href="$d8/d88/classRatsnestColor.html#a52d99501ef1e33afa1256c4be2c4c264" title=" " alt="" coords="788,107,984,133"/>
+<area shape="rect" id="node10" href="$d7/d64/classWire.html#a82da123585fcc7357a4b13f5d7e73d83" title=" " alt="" coords="840,208,932,235"/>
+<area shape="rect" id="node14" href="$d7/d64/classWire.html#af3308e4a97fbc9f858c73f4438714a7d" title=" " alt="" coords="537,309,713,336"/>
+<area shape="rect" id="node15" href="$d8/d86/classInfoGraphicsView.html#a60c2752caec4f6673ae8863c4b8be16d" title=" " alt="" coords="509,361,740,402"/>
+<area shape="rect" id="node17" href="$dc/d3a/classConnectorItem.html#aa255a20e50fe55ef1b3726abcd357991" title=" " alt="" coords="526,426,723,467"/>
+</map>

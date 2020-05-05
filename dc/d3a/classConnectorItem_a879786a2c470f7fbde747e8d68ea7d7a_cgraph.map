@@ -1,0 +1,11 @@
+<map id="ConnectorItem::collectParts" name="ConnectorItem::collectParts">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,207,133"/>
+<area shape="rect" id="node2" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="255,5,477,32"/>
+<area shape="rect" id="node3" href="$dc/d3a/classConnectorItem.html#a0830c93f7c0d3254f16e700a96caaa09" title=" " alt="" coords="269,56,463,83"/>
+<area shape="rect" id="node7" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="289,107,443,133"/>
+<area shape="rect" id="node8" href="$dc/d3a/classConnectorItem.html#a8952c711f849ade106891b903dca07b6" title=" " alt="" coords="276,157,456,184"/>
+<area shape="rect" id="node9" href="$d4/d4f/classItemBase.html#a353296ecaba8bac3acb8e36fc44b312d" title=" " alt="" coords="290,208,442,235"/>
+<area shape="rect" id="node4" href="$dc/d3a/classConnectorItem.html#aa255a20e50fe55ef1b3726abcd357991" title=" " alt="" coords="792,19,989,61"/>
+<area shape="rect" id="node5" href="$dc/d3a/classConnectorItem.html#a560c1e8d67851141398c6923c12f1a49" title=" " alt="" coords="525,78,744,119"/>
+<area shape="rect" id="node6" href="$dc/d3a/classConnectorItem.html#abdede51810abd3e7858b1020155f6b8e" title=" " alt="" coords="792,85,989,126"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ItemBase::inRotation" name="ItemBase::inRotation">
+<area shape="rect" id="node1" title=" " alt="" coords="812,78,971,105"/>
+<area shape="rect" id="node2" href="$d8/d7f/classLayerKinPaletteItem.html#a24cb8683d92b3af0373c86b86a2cc87f" title=" " alt="" coords="570,5,725,47"/>
+<area shape="rect" id="node3" href="$d7/de7/classPaletteItemBase.html#a93c4f80148df079c8fee7dda62876f2a" title=" " alt="" coords="539,71,756,112"/>
+<area shape="rect" id="node6" href="$d7/de7/classPaletteItemBase.html#ae78c0e4df9c0668731b1013602172721" title=" " alt="" coords="531,168,764,209"/>
+<area shape="rect" id="node4" href="$d8/d7f/classLayerKinPaletteItem.html#a87752369732409019921a2221ec2a2c9" title=" " alt="" coords="292,5,447,47"/>
+<area shape="rect" id="node5" href="$d7/dde/classResizableBoard.html#a2a5d6e308014227afeeae2c04863990d" title=" " alt="" coords="264,71,475,112"/>
+<area shape="rect" id="node7" href="$d6/d39/classJumperItem.html#ac3305979e508e74a7b4a963449dbd052" title=" " alt="" coords="268,136,471,177"/>
+<area shape="rect" id="node9" href="$d8/d7f/classLayerKinPaletteItem.html#a4ff7169f6586222f6e010b5ec960b2ac" title=" " alt="" coords="288,201,451,243"/>
+<area shape="rect" id="node10" href="$d7/dde/classResizableBoard.html#a48ee73fa4ba774ba560c0ef849c75a0f" title=" " alt="" coords="256,267,483,308"/>
+<area shape="rect" id="node8" href="$d6/d39/classJumperItem.html#a1f37d15d8a1b3325b11079246e2b39f7" title=" " alt="" coords="5,136,208,177"/>
+</map>

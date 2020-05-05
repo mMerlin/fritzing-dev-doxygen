@@ -1,0 +1,6 @@
+<map id="Stripboard::makeInitialPath" name="Stripboard::makeInitialPath">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,204,105"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#af8b5baf85b1febe04dbaccd09e90d58a" title=" " alt="" coords="252,5,456,47"/>
+<area shape="rect" id="node3" href="$dc/d3a/classConnectorItem.html#aca52a788abdcadfbe5d61e3c15e9d369" title=" " alt="" coords="259,71,449,112"/>
+<area shape="rect" id="node4" href="$d6/d92/classPerfboard.html#a43ea74c6c656e7accdce71487a79829a" title=" " alt="" coords="289,137,419,163"/>
+</map>

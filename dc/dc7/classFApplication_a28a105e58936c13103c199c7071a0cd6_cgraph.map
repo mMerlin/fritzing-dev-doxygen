@@ -1,0 +1,55 @@
+<map id="FApplication::runGedaService" name="FApplication::runGedaService">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1193,217,1219"/>
+<area shape="rect" id="node2" href="$d9/dd1/classGedaElement2Svg.html#ad4582cffd6019205232532f4b06a558c" title=" " alt="" coords="265,602,464,629"/>
+<area shape="rect" id="node29" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="1645,1142,1800,1169"/>
+<area shape="rect" id="node53" href="$de/db8/classTextUtils.html#a0301b94dbede1f79d5518f7e21c65fb6" title=" " alt="" coords="291,1243,439,1270"/>
+<area shape="rect" id="node3" href="$d7/d2f/classX2Svg.html#a59d6af46888acae7d166a19be7e9d13e" title=" " alt="" coords="557,234,689,261"/>
+<area shape="rect" id="node4" href="$d6/da9/classGedaElementParser.html#a8a7b809f55be233feede2f8a1753c2ad" title=" " alt="" coords="544,285,703,327"/>
+<area shape="rect" id="node13" href="$de/db8/classTextUtils.html#a8d994e7eb0f3fb2487a66eb1bc876073" title=" " alt="" coords="808,579,983,620"/>
+<area shape="rect" id="node14" href="$de/db8/classTextUtils.html#a8330785617dee0cc6461a1b595d98c64" title=" " alt="" coords="816,527,975,554"/>
+<area shape="rect" id="node15" href="$d5/d45/classVersion.html#ac59b3742743cab6ee68640f44c58951d" title=" " alt="" coords="541,459,705,486"/>
+<area shape="rect" id="node16" href="$d6/da9/classGedaElementParser.html#a4a93d2646c46a8ef7187f4a8ca2285c5" title=" " alt="" coords="544,511,703,552"/>
+<area shape="rect" id="node17" href="$d9/dd1/classGedaElement2Svg.html#af05110cc2f7b11a58895b69b116b1016" title=" " alt="" coords="516,577,731,603"/>
+<area shape="rect" id="node18" href="$d9/dd1/classGedaElement2Svg.html#aafa778537d94e45eb7e63f8a68a1865d" title=" " alt="" coords="512,729,735,755"/>
+<area shape="rect" id="node20" href="$d7/d2f/classX2Svg.html#a6db3c582094dce1d148bd3c985ef4700" title=" " alt="" coords="1116,546,1240,573"/>
+<area shape="rect" id="node23" href="$d9/dd1/classGedaElement2Svg.html#a7476f141fec86862323e42a8e6f64226" title=" " alt="" coords="514,678,733,705"/>
+<area shape="rect" id="node24" href="$d9/dd1/classGedaElement2Svg.html#a338771de4e92836641fdbf90edfef4de" title=" " alt="" coords="513,779,733,806"/>
+<area shape="rect" id="node27" href="$d4/db5/classGedaElementLexer.html#a66f5585279d7a2851011ae283ebd7b3c" title=" " alt="" coords="512,830,735,857"/>
+<area shape="rect" id="node28" href="$d9/dd1/classGedaElement2Svg.html#a285335a8f8c9a1c8508fc4ced8972039" title=" " alt="" coords="1348,1142,1580,1169"/>
+<area shape="rect" id="node30" href="$d7/d2f/classX2Svg.html#af7e7f69d06cad1e127c185a7161d96cc" title=" " alt="" coords="557,898,689,925"/>
+<area shape="rect" id="node52" href="$de/db8/classTextUtils.html#a03d0e650ce39fc4d7a265d71c5b869d9" title=" " alt="" coords="525,183,722,210"/>
+<area shape="rect" id="node5" href="$d6/da9/classGedaElementParser.html#ab404aa422b30bb87ada59206a6d460a6" title=" " alt="" coords="816,332,975,373"/>
+<area shape="rect" id="node6" href="$d4/db5/classGedaElementLexer.html#a5d3177c2463a15bb3afd6972f8529873" title=" " alt="" coords="809,398,982,425"/>
+<area shape="rect" id="node8" href="$d4/dda/classGedaElementGrammar.html#a1f18cf0a9afa24eeb62786efa3f00706" title=" " alt="" coords="809,5,981,47"/>
+<area shape="rect" id="node9" href="$d4/db5/classGedaElementLexer.html#a71766d28489b83998d2d0c3ebc892212" title=" " alt="" coords="796,71,995,112"/>
+<area shape="rect" id="node10" href="$d4/db5/classGedaElementLexer.html#a4a3cb34344e3678a498c0646b5de7fb6" title=" " alt="" coords="796,136,995,177"/>
+<area shape="rect" id="node11" href="$d4/db5/classGedaElementLexer.html#abec5502ff177993089d6336366c1a8c9" title=" " alt="" coords="796,201,995,243"/>
+<area shape="rect" id="node12" href="$d4/dda/classGedaElementGrammar.html#ac3e03112a78e2ea9fc53f5770e7c7898" title=" " alt="" coords="809,267,981,308"/>
+<area shape="rect" id="node7" href="$d4/db5/classGedaElementLexer.html#a3717ea7b1abf517943cf69bd83dce4a4" title=" " alt="" coords="1087,398,1269,425"/>
+<area shape="rect" id="node19" href="$d9/dd1/classGedaElement2Svg.html#adf45a4226bbf3ae018471f9cbfee9231" title=" " alt="" coords="793,645,998,671"/>
+<area shape="rect" id="node21" href="$d7/d2f/classX2Svg.html#a316531cb3067bf8c016a226d0256192a" title=" " alt="" coords="820,746,971,773"/>
+<area shape="rect" id="node22" href="$d7/d2f/classX2Svg.html#a6a4c7a105bd250ed9362170d2115c942" title=" " alt="" coords="820,695,971,722"/>
+<area shape="rect" id="node25" href="$d9/dd1/classGedaElement2Svg.html#a0655ffef268e3c1db984ca0495d34ce4" title=" " alt="" coords="783,847,1008,874"/>
+<area shape="rect" id="node26" href="$d9/dd1/classGedaElement2Svg.html#a023df538422111b809442cc2cdbfa568" title=" " alt="" coords="795,797,995,823"/>
+<area shape="rect" id="node31" href="$d1/d4b/classSvgFileSplitter.html#a5a5ba831964623df3f3ffa2bcf939d86" title=" " alt="" coords="803,949,988,975"/>
+<area shape="rect" id="node48" href="$de/db8/classTextUtils.html#ab791cfa714e558bdb445a32a2fbcd568" title=" " alt="" coords="788,898,1003,925"/>
+<area shape="rect" id="node32" href="$d1/d4b/classSvgFileSplitter.html#ab39a4629d1734b657ac4f164d94c0e68" title=" " alt="" coords="1067,873,1289,899"/>
+<area shape="rect" id="node38" href="$d1/d4b/classSvgFileSplitter.html#aca16fec0b6d64c61bafd50447f97e000" title=" " alt="" coords="1073,974,1283,1001"/>
+<area shape="rect" id="node39" href="$d1/d4b/classSvgFileSplitter.html#a0153f513ce7023daddf6c2c626758288" title=" " alt="" coords="1056,923,1300,950"/>
+<area shape="rect" id="node41" href="$d1/d4b/classSvgFileSplitter.html#aeb5d8e3170e2011ff4d986c5885e7fe3" title=" " alt="" coords="1084,1033,1272,1059"/>
+<area shape="rect" id="node33" href="$de/db8/classTextUtils.html#a3f9e36ac33645d86282aa9f869918d78" title=" " alt="" coords="1365,822,1563,849"/>
+<area shape="rect" id="node36" href="$de/db8/classTextUtils.html#a3e50ace32e8e93b8776bb499c72a1dd2" title=" " alt="" coords="1365,873,1563,899"/>
+<area shape="rect" id="node34" href="$de/db8/classTextUtils.html#a6a59855c38f81231a84ec509d0f3395b" title=" " alt="" coords="1628,811,1817,852"/>
+<area shape="rect" id="node35" href="$de/db8/classTextUtils.html#aa46b1e7b5c786490c6d6a4f6e339a268" title=" " alt="" coords="1865,818,2079,845"/>
+<area shape="rect" id="node37" href="$de/db8/classTextUtils.html#a0c3397bb273f3079f92ad2a8d1c56ec3" title=" " alt="" coords="1647,877,1799,903"/>
+<area shape="rect" id="node40" href="$d1/d4b/classSvgFileSplitter.html#a06fc6f942d350610b0045f57d78cad89" title=" " alt="" coords="1359,923,1569,950"/>
+<area shape="rect" id="node42" href="$d1/d4b/classSvgFileSplitter.html#aeb1fbc02abd60931118bc5770c5f1a86" title="Parse content of path element d attribute into validated tokens." alt="" coords="1349,1041,1579,1067"/>
+<area shape="rect" id="node45" href="$d1/d4b/classSvgFileSplitter.html#a2d1a4f48b5c24bac0a326cc96481623b" title=" " alt="" coords="1377,975,1551,1016"/>
+<area shape="rect" id="node47" href="$dc/de6/classSVGPathRunner.html#a996870b35396b39e3cd5a74d2fb3e698" title=" " alt="" coords="1374,1091,1554,1118"/>
+<area shape="rect" id="node43" href="$da/d47/classSVGPathParser.html#a2c5d853293a18e0839300b61c0bb0e1a" title=" " alt="" coords="1642,1037,1803,1063"/>
+<area shape="rect" id="node44" href="$da/d47/classSVGPathParser.html#a757ce0881736ba8af4c8f2926033fad9" title=" " alt="" coords="1628,1087,1817,1114"/>
+<area shape="rect" id="node46" href="$d4/dd5/svgfilesplitter_8cpp.html#aaf2db73411941e56110813eaf7fcda67" title=" " alt="" coords="1675,982,1770,1009"/>
+<area shape="rect" id="node49" href="$de/db8/classTextUtils.html#a05480fc2ca26b2281f39584aa470369f" title=" " alt="" coords="1099,771,1257,798"/>
+<area shape="rect" id="node51" href="$dc/d19/textutils_8cpp.html#acb19bcc142fce11f39732f13258615e9" title=" " alt="" coords="1139,822,1217,849"/>
+<area shape="rect" id="node50" href="$dc/d19/textutils_8cpp.html#a7841ff5bb04e5990a6219e06987451bf" title=" " alt="" coords="1433,771,1495,798"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="splitSubs" name="splitSubs">
+<area shape="rect" id="node1" title="Split part connectors into net and not net elements." alt="" coords="5,300,87,327"/>
+<area shape="rect" id="node2" href="$df/da0/drc_8cpp.html#a66732ec512aae8565354790a5c3adf19" title="collect non&#45;net connector id attribute values from part" alt="" coords="135,132,372,159"/>
+<area shape="rect" id="node8" href="$df/da0/drc_8cpp.html#ad60cf803764a13f0bdf3053762e23e70" title="collect dom elements for connectors of part in the current net" alt="" coords="183,325,324,352"/>
+<area shape="rect" id="node11" href="$df/da0/drc_8cpp.html#a9b930a1435acd64d416e005e6cb8b34f" title="Split part copper into net and not net elements." alt="" coords="156,275,351,301"/>
+<area shape="rect" id="node12" href="$df/da0/drc_8cpp.html#abee0ecde90a6edc3e22e9860513f4050" title="link extra graphic elements to the associated connector" alt="" coords="155,376,351,403"/>
+<area shape="rect" id="node3" href="$d4/d4f/classItemBase.html#af8b5baf85b1febe04dbaccd09e90d58a" title=" " alt="" coords="420,209,624,250"/>
+<area shape="rect" id="node4" href="$dc/d3a/classConnectorItem.html#af0a6058a57e91d11f927dafa61c363d4" title=" " alt="" coords="427,5,617,32"/>
+<area shape="rect" id="node5" href="$d9/d65/classConnector.html#a5464f0672067790ea888b44f7aafb528" title=" " alt="" coords="441,56,603,83"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#a39957519ed5ac922dead0466357d4644" title=" " alt="" coords="453,107,591,133"/>
+<area shape="rect" id="node7" href="$d4/d4f/classItemBase.html#a8f16baa26ee92ac6cd8dda5c69d759d4" title=" " alt="" coords="435,157,609,184"/>
+<area shape="rect" id="node9" href="$df/da0/drc_8cpp.html#a5246491477d12b692f8c884a0696ca85" title="append all immediate children of a dom element to an existing list" alt="" coords="672,325,836,352"/>
+<area shape="rect" id="node10" href="$df/da0/drc_8cpp.html#a7d31d7180cb113a92ca6985dd0f4bde1" title="mark part (graphical) sub elements as belonging to net category" alt="" coords="479,376,565,403"/>
+<area shape="rect" id="node13" href="$df/da0/drc_8cpp.html#af09d8d2cfd025cae691502c4087528da" title="create svg text document string for a single part" alt="" coords="476,427,568,453"/>
+</map>

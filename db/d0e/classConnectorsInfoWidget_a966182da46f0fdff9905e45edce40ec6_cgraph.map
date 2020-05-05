@@ -1,0 +1,12 @@
+<map id="ConnectorsInfoWidget::removeSelectedConnector" name="ConnectorsInfoWidget::removeSelectedConnector">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,208,197"/>
+<area shape="rect" id="node2" href="$db/d0e/classConnectorsInfoWidget.html#a235a6f12e8c768cc5130c8292b8f531c" title=" " alt="" coords="256,155,423,197"/>
+<area shape="rect" id="node3" href="$db/d0e/classConnectorsInfoWidget.html#a72b1763bcbaf21a12cd51002f0007f2e" title=" " alt="" coords="513,90,683,131"/>
+<area shape="rect" id="node7" href="$db/d0e/classConnectorsInfoWidget.html#a668775120d963cc9765c3f9ac67413e0" title=" " alt="" coords="471,187,725,229"/>
+<area shape="rect" id="node4" href="$db/d0e/classConnectorsInfoWidget.html#a020e89052114a97cea2452a6c12ae9e3" title=" " alt="" coords="799,122,966,163"/>
+<area shape="rect" id="node5" href="$dc/db2/classSingleConnectorInfoWidget.html#ac3c087400a1c2cee18dc4febb226dd8c" title=" " alt="" coords="773,5,992,32"/>
+<area shape="rect" id="node6" href="$db/d0e/classConnectorsInfoWidget.html#a2367d57c890c7efbf796a779c1a54be9" title=" " alt="" coords="799,57,966,98"/>
+<area shape="rect" id="node8" href="$d3/d4a/classMismatchingConnectorWidget.html#a48c1196ddb407818b22c9560925fc7e3" title=" " alt="" coords="773,187,992,229"/>
+<area shape="rect" id="node9" href="$db/d0e/classConnectorsInfoWidget.html#a99ffca69599b751224c6989aa91b759f" title=" " alt="" coords="799,253,966,294"/>
+<area shape="rect" id="node10" href="$d3/d4a/classMismatchingConnectorWidget.html#ab0231c40ef46ca9d6789b20714fd6c20" title=" " alt="" coords="773,318,992,359"/>
+</map>

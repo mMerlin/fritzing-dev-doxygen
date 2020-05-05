@@ -1,0 +1,9 @@
+<map id="AutorouterSettingsDialog::getKeepoutString" name="AutorouterSettingsDialog::getKeepoutString">
+<area shape="rect" id="node1" title=" " alt="" coords="784,39,971,80"/>
+<area shape="rect" id="node2" href="$d6/def/classAutorouterSettingsDialog.html#a053375172e56436c51e3430b6e878bfb" title=" " alt="" coords="549,5,736,47"/>
+<area shape="rect" id="node4" href="$d6/def/classAutorouterSettingsDialog.html#ab395ce05458da707357f9a4b6d46e635" title=" " alt="" coords="549,71,736,112"/>
+<area shape="rect" id="node3" href="$d6/def/classAutorouterSettingsDialog.html#a2800b054dadde375bd4c4f0405a9653f" title=" " alt="" coords="297,5,492,47"/>
+<area shape="rect" id="node5" href="$df/dbf/classPCBSketchWidget.html#a648a6ecf55e3bcb078f29f799139cbe2" title=" " alt="" coords="288,71,501,112"/>
+<area shape="rect" id="node6" href="$df/dbf/classPCBSketchWidget.html#acb15f19907e6babb9a966342dcce57c1" title=" " alt="" coords="5,37,240,79"/>
+<area shape="rect" id="node7" href="$de/de6/classSchematicSketchWidget.html#a4cad919201df7fffc903298b96f4c455" title=" " alt="" coords="33,103,212,144"/>
+</map>

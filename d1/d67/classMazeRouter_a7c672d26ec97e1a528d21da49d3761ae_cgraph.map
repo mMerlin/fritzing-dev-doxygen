@@ -1,0 +1,12 @@
+<map id="MazeRouter::removeOffBoardAnd" name="MazeRouter::removeOffBoardAnd">
+<area shape="rect" id="node1" title=" " alt="" coords="5,213,245,240"/>
+<area shape="rect" id="node2" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="293,5,516,32"/>
+<area shape="rect" id="node3" href="$dc/d09/classNonConnectorItem.html#a9a1e80518fb866bab2bd1fa7fe0965db" title=" " alt="" coords="300,57,509,98"/>
+<area shape="rect" id="node4" href="$dc/d3a/classConnectorItem.html#aa255a20e50fe55ef1b3726abcd357991" title=" " alt="" coords="306,122,503,163"/>
+<area shape="rect" id="node5" href="$d7/dc8/classVia.html#a1efa6c970253019559b9b280b53e6d95" title=" " alt="" coords="327,188,483,215"/>
+<area shape="rect" id="node7" href="$d6/d39/classJumperItem.html#a126e6726ebc31edcf08385969f4b4e74" title=" " alt="" coords="299,239,510,265"/>
+<area shape="rect" id="node8" href="$d8/de8/classSymbolPaletteItem.html#a2bcea604bc8d8ca57601944530e5ab0e" title=" " alt="" coords="327,290,482,331"/>
+<area shape="rect" id="node9" href="$d8/de8/classSymbolPaletteItem.html#a2f22caff80dbd1c88e15c35b62c5dd40" title=" " alt="" coords="327,355,482,397"/>
+<area shape="rect" id="node10" href="$d4/d4f/classItemBase.html#abf6d16e250a353043cd4953ddc049bd0" title=" " alt="" coords="315,421,495,448"/>
+<area shape="rect" id="node6" href="$d3/de8/classViewGeometry.html#af689b52fc3d260a5cc237dcb760b8faa" title=" " alt="" coords="564,239,795,265"/>
+</map>

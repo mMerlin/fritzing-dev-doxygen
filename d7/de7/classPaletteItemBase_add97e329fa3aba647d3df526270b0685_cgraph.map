@@ -1,0 +1,7 @@
+<map id="PaletteItemBase::collectWireConnectees" name="PaletteItemBase::collectWireConnectees">
+<area shape="rect" id="node1" title=" " alt="" coords="5,90,185,131"/>
+<area shape="rect" id="node2" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="233,5,456,32"/>
+<area shape="rect" id="node3" href="$dc/d09/classNonConnectorItem.html#a9a1e80518fb866bab2bd1fa7fe0965db" title=" " alt="" coords="240,57,449,98"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#af8b5baf85b1febe04dbaccd09e90d58a" title=" " alt="" coords="243,122,447,163"/>
+<area shape="rect" id="node5" href="$dc/d3a/classConnectorItem.html#af2e14ebbdaa87a6c6dd301825fc83fc0" title=" " alt="" coords="248,187,441,229"/>
+</map>

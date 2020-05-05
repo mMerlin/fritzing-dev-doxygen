@@ -1,0 +1,11 @@
+<map id="MazeRouter::addConnectionToUndo" name="MazeRouter::addConnectionToUndo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,147,211,189"/>
+<area shape="rect" id="node2" href="$dc/d09/classNonConnectorItem.html#a8bddbd1259c61a57ba95d83150d57eaf" title=" " alt="" coords="259,31,496,57"/>
+<area shape="rect" id="node5" href="$dc/d3a/classConnectorItem.html#aa255a20e50fe55ef1b3726abcd357991" title=" " alt="" coords="279,82,476,123"/>
+<area shape="rect" id="node6" href="$dc/d3a/classConnectorItem.html#aa22ed310cdf87c914bfad84ce759d66b" title=" " alt="" coords="282,147,473,189"/>
+<area shape="rect" id="node7" href="$d9/dd9/classChangeConnectionCommand.html#af00b095a1f092d81746c2fe3195d4cfd" title=" " alt="" coords="272,213,483,254"/>
+<area shape="rect" id="node8" href="$d5/d9d/classViewLayer.html#a44b443b6ce5756595b7faaaac510c6ef" title=" " alt="" coords="290,279,465,305"/>
+<area shape="rect" id="node3" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="544,5,767,32"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#a27afd199a7ae3c3fd14e88ed0be14420" title=" " alt="" coords="603,56,707,83"/>
+<area shape="rect" id="node9" href="$d5/d9d/classViewLayer.html#acda6179880454250f27ee4ed167b6983" title=" " alt="" coords="566,279,745,305"/>
+</map>

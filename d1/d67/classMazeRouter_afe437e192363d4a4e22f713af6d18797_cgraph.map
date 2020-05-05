@@ -1,0 +1,23 @@
+<map id="MazeRouter::reducePoints" name="MazeRouter::reducePoints">
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,197,260"/>
+<area shape="rect" id="node2" href="$d8/d4a/structConnectionThing.html#aa5d202b60d8b1a2185b7f4b9b76a9056" title=" " alt="" coords="259,5,421,32"/>
+<area shape="rect" id="node3" href="$d7/d64/classWire.html#a45f4d43eb8d9c12df32f8431b22ae04a" title=" " alt="" coords="274,56,406,83"/>
+<area shape="rect" id="node4" href="$d7/d64/classWire.html#a866a8602d73cc8004d133cb8780048f3" title=" " alt="" coords="274,107,406,133"/>
+<area shape="rect" id="node5" href="$d4/d4f/classItemBase.html#acc2f5bad42928e7178c28fa0771b1f60" title=" " alt="" coords="261,157,419,184"/>
+<area shape="rect" id="node6" href="$d4/d08/misc_8h.html#ae7cc352fa1dc81e57ff53ebbc762f27d" title=" " alt="" coords="311,208,369,235"/>
+<area shape="rect" id="node7" href="$d4/d08/misc_8h.html#aec6ff9c887dc8733e787bf81a01492fd" title=" " alt="" coords="313,259,367,285"/>
+<area shape="rect" id="node8" href="$d8/d4a/structConnectionThing.html#a8ad32c0214ef714dc4bbf6f052bd05e4" title=" " alt="" coords="245,309,435,336"/>
+<area shape="rect" id="node9" href="$d7/d64/classWire.html#aaf43c433566d52977c3a1655a2f17c28" title=" " alt="" coords="262,360,418,387"/>
+<area shape="rect" id="node17" href="$d7/d64/classWire.html#a18ebebc1b4204bef0e4d2c460e24cf9b" title=" " alt="" coords="274,436,406,463"/>
+<area shape="rect" id="node21" href="$d8/d4a/structConnectionThing.html#aac88c36d75447c241016a803ad667ba1" title=" " alt="" coords="249,487,431,513"/>
+<area shape="rect" id="node10" href="$d3/de8/classViewGeometry.html#ab605ed2ca5e1cb4209b147a66596b1d0" title=" " alt="" coords="483,208,685,235"/>
+<area shape="rect" id="node12" href="$d3/de8/classViewGeometry.html#a295c030cfa23e54b7815df05340cf713" title=" " alt="" coords="497,259,671,285"/>
+<area shape="rect" id="node14" href="$d7/d64/classWire.html#aeeab152819f6e13d4f41614ba7e72761" title=" " alt="" coords="795,457,879,484"/>
+<area shape="rect" id="node15" href="$d3/de8/classViewGeometry.html#ada2d98e4a6be92bd84acd810face3433" title=" " alt="" coords="500,309,668,336"/>
+<area shape="rect" id="node16" href="$d3/de8/classViewGeometry.html#a909cee1c4f18d707469538e169da2668" title=" " alt="" coords="507,411,661,437"/>
+<area shape="rect" id="node11" href="$d3/de8/classViewGeometry.html#a72654cc7bb8e2519ceb5e1d8480d8a65" title=" " alt="" coords="746,208,927,235"/>
+<area shape="rect" id="node13" href="$d3/de8/classViewGeometry.html#aea2ab7d8389a1a1149d5682dd5bd7117" title=" " alt="" coords="764,284,909,311"/>
+<area shape="rect" id="node18" href="$d7/d64/classWire.html#a05b5f7ebb0ee82dc75ca8913d7ddf07a" title=" " alt="" coords="531,512,637,539"/>
+<area shape="rect" id="node20" href="$d7/d64/classWire.html#abc61eb96d8830c10eb55b280a447ae90" title=" " alt="" coords="493,461,675,488"/>
+<area shape="rect" id="node19" href="$d4/d4f/classItemBase.html#ab1484692ebea9a39e103002ea06421ab" title=" " alt="" coords="733,509,940,550"/>
+</map>

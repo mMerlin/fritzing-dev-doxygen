@@ -1,0 +1,11 @@
+<map id="MainWindow::enableAddBendpointAct" name="MainWindow::enableAddBendpointAct">
+<area shape="rect" id="node1" title=" " alt="" coords="5,148,275,175"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#a7565ba05974fedf75bb75923b18bca1a" title=" " alt="" coords="342,5,513,32"/>
+<area shape="rect" id="node4" href="$d7/d64/classWire.html#adb2317b77f3bbb2426498d9deccc0584" title=" " alt="" coords="369,56,486,83"/>
+<area shape="rect" id="node6" href="$d3/d7d/classFGraphicsScene.html#a83fc345f0f6d312a666633993c3a65c8" title=" " alt="" coords="323,107,532,149"/>
+<area shape="rect" id="node7" href="$da/ddc/classBendpointAction.html#aa45175afce053af4a09d1b95c1c598a3" title=" " alt="" coords="332,173,523,214"/>
+<area shape="rect" id="node8" href="$da/ddc/classBendpointAction.html#a3c691193e168a00c4a7b175d874a0432" title=" " alt="" coords="335,238,519,279"/>
+<area shape="rect" id="node9" href="$da/ddc/classBendpointAction.html#ab4bb9c883f8dca1e071a987e6ecab4a3" title=" " alt="" coords="335,303,519,345"/>
+<area shape="rect" id="node3" href="$d3/de8/classViewGeometry.html#a11ca759a75de95be900ac023617a1858" title=" " alt="" coords="580,5,784,32"/>
+<area shape="rect" id="node5" href="$d8/d3c/classBezier.html#aec0fe0ef3264fbc54ca7e5808470f1ac" title=" " alt="" coords="620,56,744,83"/>
+</map>

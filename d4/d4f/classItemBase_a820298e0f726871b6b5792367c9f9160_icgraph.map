@@ -1,0 +1,11 @@
+<map id="ItemBase::paintHover" name="ItemBase::paintHover">
+<area shape="rect" id="node1" title=" " alt="" coords="673,107,837,133"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#a3cf41afb3f2420df3b9998bad0400880" title=" " alt="" coords="458,56,583,83"/>
+<area shape="rect" id="node6" href="$d6/d39/classJumperItem.html#a8281982020ac9062ebaca8bc0acd7c44" title=" " alt="" coords="189,107,368,133"/>
+<area shape="rect" id="node7" href="$d7/de7/classPaletteItemBase.html#ac74c9cafd2f525201346e26a3651bc32" title=" " alt="" coords="416,157,625,184"/>
+<area shape="rect" id="node3" href="$d7/de7/classPaletteItemBase.html#a550bdb0af8763a30b89be8aaf601432f" title=" " alt="" coords="193,5,364,32"/>
+<area shape="rect" id="node4" href="$d7/d64/classWire.html#a89108ed4648177cfcc16c8a57745db26" title=" " alt="" coords="232,56,325,83"/>
+<area shape="rect" id="node5" href="$da/d1d/classVirtualWire.html#acd455a7a810950f5c071b5560e718b43" title=" " alt="" coords="5,56,141,83"/>
+<area shape="rect" id="node8" href="$de/d5e/classLogoItem.html#a030da8816675673c855fd75d2e554c04" title=" " alt="" coords="197,157,360,184"/>
+<area shape="rect" id="node9" href="$d3/d78/classPad.html#ab09c7620592fd7abc6a9647d3a1ebc1b" title=" " alt="" coords="216,208,341,235"/>
+</map>

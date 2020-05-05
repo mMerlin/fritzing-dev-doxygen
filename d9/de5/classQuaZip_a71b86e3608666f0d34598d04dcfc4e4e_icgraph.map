@@ -1,0 +1,8 @@
+<map id="QuaZip::getMode" name="QuaZip::getMode">
+<area shape="rect" id="node1" title="Returns the mode in which ZIP file was opened." alt="" coords="397,81,532,108"/>
+<area shape="rect" id="node2" href="$da/da8/classQuaZipFile.html#aed75bace51f2bb4c3e4f656ab4493aac" title="Opens a file for reading." alt="" coords="199,5,331,32"/>
+<area shape="rect" id="node3" href="$da/da8/classQuaZipFile.html#a9d63f6358a84b86593f1715e142f27dd" title="Returns compressed file size." alt="" coords="198,56,331,83"/>
+<area shape="rect" id="node5" href="$da/da8/classQuaZipFile.html#ae49a4c2b07359d6e1801e13cc92b55e2" title="Returns uncompressed file size." alt="" coords="197,107,332,133"/>
+<area shape="rect" id="node6" href="$da/da8/classQuaZipFile.html#ad3f5807329321be21b12c1ba5798b359" title="Gets information about current file." alt="" coords="180,157,349,184"/>
+<area shape="rect" id="node4" href="$da/da8/classQuaZipFile.html#a97c0c68e726993fbd7719048ba8678a5" title="Returns file size." alt="" coords="5,81,132,108"/>
+</map>

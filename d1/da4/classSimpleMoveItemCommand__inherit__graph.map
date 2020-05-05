@@ -1,0 +1,5 @@
+<map id="SimpleMoveItemCommand" name="SimpleMoveItemCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="5,593,231,744"/>
+<area shape="rect" id="node2" href="$d8/d6e/classBaseCommand.html" title=" " alt="" coords="29,131,207,545"/>
+<area shape="rect" id="node3" href="$d6/d40/classQUndoCommand.html" title=" " alt="" coords="51,5,185,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Wire::moveItem" name="Wire::moveItem">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,132,83"/>
+<area shape="rect" id="node2" href="$d3/de8/classViewGeometry.html#a83904f333d0beeef1ed110dcb93fd800" title=" " alt="" coords="180,5,331,32"/>
+<area shape="rect" id="node3" href="$d3/de8/classViewGeometry.html#aea2ab7d8389a1a1149d5682dd5bd7117" title=" " alt="" coords="183,56,328,83"/>
+<area shape="rect" id="node4" href="$d7/d64/classWire.html#a05b5f7ebb0ee82dc75ca8913d7ddf07a" title=" " alt="" coords="202,107,309,133"/>
+<area shape="rect" id="node5" href="$d7/d64/classWire.html#aeeab152819f6e13d4f41614ba7e72761" title=" " alt="" coords="440,77,524,104"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#ab1484692ebea9a39e103002ea06421ab" title=" " alt="" coords="379,129,585,170"/>
+</map>

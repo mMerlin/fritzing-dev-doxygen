@@ -1,0 +1,182 @@
+<map id="partseditor/pemainwindow.cpp" name="partseditor/pemainwindow.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="8002,5,8225,32"/>
+<area shape="rect" id="node2" href="$d7/d55/pemainwindow_8h.html" title=" " alt="" coords="6563,155,6695,181"/>
+<area shape="rect" id="node25" title=" " alt="" coords="4733,468,4848,495"/>
+<area shape="rect" id="node41" href="$d2/d36/sketchareawidget_8h.html" title=" " alt="" coords="4377,319,4527,345"/>
+<area shape="rect" id="node61" title=" " alt="" coords="3847,543,3897,569"/>
+<area shape="rect" id="node95" href="$d4/d9b/bus_8h.html" title=" " alt="" coords="4315,617,4459,644"/>
+<area shape="rect" id="node96" href="$d3/d73/cursormaster_8h.html" title=" " alt="" coords="2843,468,3005,495"/>
+<area shape="rect" id="node97" href="$dc/d7b/referencemodel_8h.html" title=" " alt="" coords="3537,319,3793,345"/>
+<area shape="rect" id="node106" href="$d5/d35/peconnectorsview_8h.html" title=" " alt="" coords="3247,237,3398,263"/>
+<area shape="rect" id="node119" href="$d5/d6c/connectoritem_8h.html" title=" " alt="" coords="2338,319,2553,345"/>
+<area shape="rect" id="node125" href="$d2/de6/pemetadataview_8h.html" title=" " alt="" coords="2621,237,2763,263"/>
+<area shape="rect" id="node126" href="$d4/dee/pecommands_8h.html" title=" " alt="" coords="5165,237,5288,263"/>
+<area shape="rect" id="node128" href="$db/ddf/petoolview_8h.html" title=" " alt="" coords="837,237,942,263"/>
+<area shape="rect" id="node132" href="$de/d2a/pesvgview_8h.html" title=" " alt="" coords="650,237,753,263"/>
+<area shape="rect" id="node134" href="$d0/d8e/pegraphicsitem_8h.html" title=" " alt="" coords="1755,468,1890,495"/>
+<area shape="rect" id="node136" href="$d6/d9d/kicadmoduledialog_8h.html" title=" " alt="" coords="4602,319,4761,345"/>
+<area shape="rect" id="node138" href="$df/db5/debugdialog_8h.html" title=" " alt="" coords="8101,319,8227,345"/>
+<area shape="rect" id="node140" href="$d9/dd2/breadboardsketchwidget_8h.html" title=" " alt="" coords="7537,155,7789,181"/>
+<area shape="rect" id="node141" href="$de/d2b/schematicsketchwidget_8h.html" title=" " alt="" coords="8540,80,8785,107"/>
+<area shape="rect" id="node142" href="$d3/de6/pcbsketchwidget_8h.html" title=" " alt="" coords="8591,155,8734,181"/>
+<area shape="rect" id="node146" href="$dd/ddc/graphicsutils_8h.html" title=" " alt="" coords="8553,393,8714,420"/>
+<area shape="rect" id="node148" href="$dd/d5f/textutils_8h.html" title=" " alt="" coords="8725,543,8857,569"/>
+<area shape="rect" id="node150" href="$d8/d3a/folderutils_8h.html" title=" " alt="" coords="8669,468,8813,495"/>
+<area shape="rect" id="node152" href="$da/da6/s2s_8h.html" title=" " alt="" coords="8881,543,8981,569"/>
+<area shape="rect" id="node154" href="$de/d78/fdockwidget_8h.html" title=" " alt="" coords="8151,237,8364,263"/>
+<area shape="rect" id="node156" href="$d9/d5c/fsvgrenderer_8h.html" title=" " alt="" coords="8360,617,8488,644"/>
+<area shape="rect" id="node157" href="$d2/dc2/binmanager_8h.html" title=" " alt="" coords="3859,229,4056,271"/>
+<area shape="rect" id="node158" href="$da/d84/gedaelement2svg_8h.html" title=" " alt="" coords="9614,617,9805,644"/>
+<area shape="rect" id="node160" href="$dc/d49/kicadmodule2svg_8h.html" title=" " alt="" coords="9394,543,9582,569"/>
+<area shape="rect" id="node162" href="$d2/d72/kicadschematic2svg_8h.html" title=" " alt="" coords="9163,543,9370,569"/>
+<area shape="rect" id="node163" href="$db/dff/sketchtoolbutton_8h.html" title=" " alt="" coords="6805,155,6960,181"/>
+<area shape="rect" id="node166" href="$db/de4/virtualwire_8h.html" title=" " alt="" coords="2225,155,2383,181"/>
+<area shape="rect" id="node168" href="$da/dff/installedfonts_8h.html" title=" " alt="" coords="9005,543,9139,569"/>
+<area shape="rect" id="node169" href="$d6/d5a/layerpalette_8h.html" title=" " alt="" coords="1347,237,1507,263"/>
+<area shape="rect" id="node171" href="$d3/d76/htmlinfoview_8h.html" title=" " alt="" coords="1981,237,2171,263"/>
+<area shape="rect" id="node172" title=" " alt="" coords="9294,80,9373,107"/>
+<area shape="rect" id="node173" title=" " alt="" coords="9397,80,9504,107"/>
+<area shape="rect" id="node174" title=" " alt="" coords="9529,80,9634,107"/>
+<area shape="rect" id="node175" title=" " alt="" coords="9658,80,9779,107"/>
+<area shape="rect" id="node176" title=" " alt="" coords="9804,80,9895,107"/>
+<area shape="rect" id="node177" title=" " alt="" coords="9919,80,10060,107"/>
+<area shape="rect" id="node178" title=" " alt="" coords="10085,80,10155,107"/>
+<area shape="rect" id="node179" title=" " alt="" coords="10179,80,10274,107"/>
+<area shape="rect" id="node180" title=" " alt="" coords="10299,80,10357,107"/>
+<area shape="rect" id="node3" href="$d9/d53/mainwindow_8h.html" title=" " alt="" coords="5363,237,5578,263"/>
+<area shape="rect" id="node74" href="$d2/d12/modelpartshared_8h.html" title=" " alt="" coords="5959,617,6161,644"/>
+<area shape="rect" id="node76" href="$d5/d69/sketchwidget_8h.html" title=" " alt="" coords="7287,237,7465,263"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5649,319,5748,345"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5773,319,5878,345"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3273,393,3385,420"/>
+<area shape="rect" id="node7" title=" " alt="" coords="6018,393,6102,420"/>
+<area shape="rect" id="node8" title=" " alt="" coords="6491,319,6592,345"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1181,393,1288,420"/>
+<area shape="rect" id="node10" title=" " alt="" coords="4021,319,4150,345"/>
+<area shape="rect" id="node11" title=" " alt="" coords="5902,319,5989,345"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3737,692,3815,719"/>
+<area shape="rect" id="node13" title=" " alt="" coords="5396,393,5479,420"/>
+<area shape="rect" id="node14" title=" " alt="" coords="6667,319,6778,345"/>
+<area shape="rect" id="node15" title=" " alt="" coords="4249,692,4394,719"/>
+<area shape="rect" id="node16" title=" " alt="" coords="6013,319,6094,345"/>
+<area shape="rect" id="node17" title=" " alt="" coords="6118,319,6221,345"/>
+<area shape="rect" id="node18" title=" " alt="" coords="5274,319,5339,345"/>
+<area shape="rect" id="node19" title=" " alt="" coords="5415,319,5526,345"/>
+<area shape="rect" id="node20" title=" " alt="" coords="5551,319,5625,345"/>
+<area shape="rect" id="node21" href="$d7/d41/fritzingwindow_8h.html" title=" " alt="" coords="5711,393,5841,420"/>
+<area shape="rect" id="node44" href="$da/d85/viewlayer_8h.html" title=" " alt="" coords="5761,692,5871,719"/>
+<area shape="rect" id="node47" href="$da/d96/programwindow_8h.html" title=" " alt="" coords="4887,319,5097,345"/>
+<area shape="rect" id="node62" href="$d0/d72/svg2gerber_8h.html" title=" " alt="" coords="6734,543,6879,569"/>
+<area shape="rect" id="node64" href="$d5/d2f/routingstatus_8h.html" title=" " alt="" coords="5503,393,5635,420"/>
+<area shape="rect" id="node22" title=" " alt="" coords="4991,468,5107,495"/>
+<area shape="rect" id="node23" title=" " alt="" coords="7185,617,7236,644"/>
+<area shape="rect" id="node24" title=" " alt="" coords="4873,468,4967,495"/>
+<area shape="rect" id="node26" href="$d7/d1b/waitpushundostack_8h.html" title=" " alt="" coords="5183,468,5355,495"/>
+<area shape="rect" id="node31" href="$d4/d08/misc_8h.html" title=" " alt="" coords="7509,543,7619,569"/>
+<area shape="rect" id="node40" href="$d5/d13/bundler_8h.html" title=" " alt="" coords="5379,468,5506,495"/>
+<area shape="rect" id="node27" title=" " alt="" coords="5578,543,5681,569"/>
+<area shape="rect" id="node28" title=" " alt="" coords="3061,543,3131,569"/>
+<area shape="rect" id="node29" title=" " alt="" coords="5081,543,5154,569"/>
+<area shape="rect" id="node30" title=" " alt="" coords="5178,543,5233,569"/>
+<area shape="rect" id="node32" title=" " alt="" coords="5545,767,5610,793"/>
+<area shape="rect" id="node33" title=" " alt="" coords="8118,617,8191,644"/>
+<area shape="rect" id="node34" title=" " alt="" coords="8159,767,8230,793"/>
+<area shape="rect" id="node35" title=" " alt="" coords="6641,767,6759,793"/>
+<area shape="rect" id="node36" title=" " alt="" coords="8087,692,8180,719"/>
+<area shape="rect" id="node37" title=" " alt="" coords="7460,617,7516,644"/>
+<area shape="rect" id="node38" title=" " alt="" coords="5895,692,5950,719"/>
+<area shape="rect" id="node39" title=" " alt="" coords="7261,617,7334,644"/>
+<area shape="rect" id="node42" title=" " alt="" coords="2258,393,2331,420"/>
+<area shape="rect" id="node43" title=" " alt="" coords="3970,393,4081,420"/>
+<area shape="rect" id="node45" title=" " alt="" coords="5779,767,5853,793"/>
+<area shape="rect" id="node46" title=" " alt="" coords="7116,767,7215,793"/>
+<area shape="rect" id="node48" title=" " alt="" coords="4973,543,5057,569"/>
+<area shape="rect" id="node49" title=" " alt="" coords="4386,393,4486,420"/>
+<area shape="rect" id="node50" title=" " alt="" coords="4207,393,4310,420"/>
+<area shape="rect" id="node51" title=" " alt="" coords="4924,393,5036,420"/>
+<area shape="rect" id="node52" title=" " alt="" coords="5060,393,5271,420"/>
+<area shape="rect" id="node53" title=" " alt="" coords="4713,393,4900,420"/>
+<area shape="rect" id="node54" href="$de/d03/platform_8h.html" title=" " alt="" coords="4416,468,4507,495"/>
+<area shape="rect" id="node55" href="$d5/d46/syntaxer_8h.html" title=" " alt="" coords="4417,543,4506,569"/>
+<area shape="rect" id="node57" title=" " alt="" coords="4848,617,4923,644"/>
+<area shape="rect" id="node60" title=" " alt="" coords="4786,543,4846,569"/>
+<area shape="rect" id="node56" title=" " alt="" coords="3840,692,3971,719"/>
+<area shape="rect" id="node58" href="$d8/dbf/trienode_8h.html" title=" " alt="" coords="4533,617,4621,644"/>
+<area shape="rect" id="node59" title=" " alt="" coords="4622,692,4685,719"/>
+<area shape="rect" id="node63" title=" " alt="" coords="8204,692,8279,719"/>
+<area shape="rect" id="node65" href="$d9/dbd/itembase_8h.html" title=" " alt="" coords="3741,468,3877,495"/>
+<area shape="rect" id="node66" title=" " alt="" coords="5061,617,5120,644"/>
+<area shape="rect" id="node67" title=" " alt="" coords="2127,543,2331,569"/>
+<area shape="rect" id="node68" title=" " alt="" coords="5359,543,5502,569"/>
+<area shape="rect" id="node69" title=" " alt="" coords="2961,543,3036,569"/>
+<area shape="rect" id="node70" href="$db/d39/viewgeometry_8h.html" title=" " alt="" coords="6973,543,7112,569"/>
+<area shape="rect" id="node71" title=" " alt="" coords="5716,617,5783,644"/>
+<area shape="rect" id="node72" title=" " alt="" coords="8216,617,8285,644"/>
+<area shape="rect" id="node73" title=" " alt="" coords="7997,617,8094,644"/>
+<area shape="rect" id="node75" title=" " alt="" coords="6029,692,6091,719"/>
+<area shape="rect" id="node77" title=" " alt="" coords="7161,543,7282,569"/>
+<area shape="rect" id="node78" title=" " alt="" coords="6941,617,7059,644"/>
+<area shape="rect" id="node79" title=" " alt="" coords="7241,319,7351,345"/>
+<area shape="rect" id="node80" title=" " alt="" coords="7376,319,7539,345"/>
+<area shape="rect" id="node81" title=" " alt="" coords="8563,617,8616,644"/>
+<area shape="rect" id="node82" href="$da/d2e/paletteitem_8h.html" title=" " alt="" coords="7664,319,7827,345"/>
+<area shape="rect" id="node100" href="$d7/d42/sketchmodel_8h.html" title=" " alt="" coords="7241,393,7415,420"/>
+<area shape="rect" id="node101" href="$d2/d58/infographicsview_8h.html" title=" " alt="" coords="6905,393,7049,420"/>
+<area shape="rect" id="node104" href="$d5/d90/commands_8h.html" title=" " alt="" coords="6347,319,6466,345"/>
+<area shape="rect" id="node83" title=" " alt="" coords="7745,468,7850,495"/>
+<area shape="rect" id="node84" title=" " alt="" coords="8230,468,8311,495"/>
+<area shape="rect" id="node85" title=" " alt="" coords="8354,692,8433,719"/>
+<area shape="rect" id="node86" title=" " alt="" coords="7643,393,7779,420"/>
+<area shape="rect" id="node87" href="$da/d28/paletteitembase_8h.html" title=" " alt="" coords="6639,393,6780,420"/>
+<area shape="rect" id="node88" title=" " alt="" coords="3952,468,4160,495"/>
+<area shape="rect" id="node89" href="$d7/db2/modelpart_8h.html" title=" " alt="" coords="5858,543,6017,569"/>
+<area shape="rect" id="node90" title=" " alt="" coords="9104,617,9211,644"/>
+<area shape="rect" id="node91" title=" " alt="" coords="6337,617,6460,644"/>
+<area shape="rect" id="node92" href="$d9/d07/connector_8h.html" title=" " alt="" coords="3955,617,4139,644"/>
+<area shape="rect" id="node93" title=" " alt="" coords="4096,692,4224,719"/>
+<area shape="rect" id="node94" title=" " alt="" coords="7948,692,8063,719"/>
+<area shape="rect" id="node98" href="$d1/de6/palettemodel_8h.html" title=" " alt="" coords="3615,393,3793,420"/>
+<area shape="rect" id="node99" href="$d2/dbc/modelbase_8h.html" title=" " alt="" coords="5531,468,5637,495"/>
+<area shape="rect" id="node102" title=" " alt="" coords="6041,543,6109,569"/>
+<area shape="rect" id="node103" href="$dc/d67/zoomablegraphicsview_8h.html" title=" " alt="" coords="6811,468,6994,495"/>
+<area shape="rect" id="node105" title=" " alt="" coords="6127,393,6260,420"/>
+<area shape="rect" id="node107" title=" " alt="" coords="2831,319,2897,345"/>
+<area shape="rect" id="node108" title=" " alt="" coords="2164,319,2263,345"/>
+<area shape="rect" id="node109" title=" " alt="" coords="2922,319,3025,345"/>
+<area shape="rect" id="node110" title=" " alt="" coords="3100,319,3209,345"/>
+<area shape="rect" id="node111" title=" " alt="" coords="1465,319,1575,345"/>
+<area shape="rect" id="node112" title=" " alt="" coords="1599,319,1697,345"/>
+<area shape="rect" id="node113" href="$d9/d9b/wire_8h.html" title=" " alt="" coords="3084,393,3199,420"/>
+<area shape="rect" id="node114" title=" " alt="" coords="2621,468,2768,495"/>
+<area shape="rect" id="node115" title=" " alt="" coords="6117,468,6229,495"/>
+<area shape="rect" id="node116" title=" " alt="" coords="7541,468,7619,495"/>
+<area shape="rect" id="node117" title=" " alt="" coords="7069,468,7264,495"/>
+<area shape="rect" id="node118" title=" " alt="" coords="3283,468,3362,495"/>
+<area shape="rect" id="node120" href="$d2/d6e/nonconnectoritem_8h.html" title=" " alt="" coords="1980,393,2132,420"/>
+<area shape="rect" id="node124" title=" " alt="" coords="2407,393,2484,420"/>
+<area shape="rect" id="node121" title=" " alt="" coords="1861,543,2009,569"/>
+<area shape="rect" id="node122" title=" " alt="" coords="4184,468,4240,495"/>
+<area shape="rect" id="node123" title=" " alt="" coords="2033,543,2103,569"/>
+<area shape="rect" id="node127" href="$d3/d75/peutils_8h.html" title=" " alt="" coords="3461,393,3539,420"/>
+<area shape="rect" id="node129" title=" " alt="" coords="653,319,749,345"/>
+<area shape="rect" id="node130" title=" " alt="" coords="473,319,578,345"/>
+<area shape="rect" id="node131" title=" " alt="" coords="824,319,955,345"/>
+<area shape="rect" id="node133" title=" " alt="" coords="144,319,245,345"/>
+<area shape="rect" id="node135" title=" " alt="" coords="1669,543,1734,569"/>
+<area shape="rect" id="node137" title=" " alt="" coords="8403,393,8477,420"/>
+<area shape="rect" id="node139" title=" " alt="" coords="8309,393,8379,420"/>
+<area shape="rect" id="node143" href="$da/da9/quotedialog_8h.html" title=" " alt="" coords="8638,237,8813,263"/>
+<area shape="rect" id="node145" title=" " alt="" coords="8490,237,8614,263"/>
+<area shape="rect" id="node144" title=" " alt="" coords="8651,319,8763,345"/>
+<area shape="rect" id="node147" title=" " alt="" coords="8590,468,8645,495"/>
+<area shape="rect" id="node149" title=" " alt="" coords="8457,692,8607,719"/>
+<area shape="rect" id="node151" title=" " alt="" coords="8399,543,8497,569"/>
+<area shape="rect" id="node153" title=" " alt="" coords="8894,617,9029,644"/>
+<area shape="rect" id="node155" title=" " alt="" coords="8440,319,8525,345"/>
+<area shape="rect" id="node159" href="$dd/d0a/x2svg_8h.html" title=" " alt="" coords="9451,692,9525,719"/>
+<area shape="rect" id="node161" href="$d4/d68/kicad2svg_8h.html" title=" " alt="" coords="9438,617,9538,644"/>
+<area shape="rect" id="node164" href="$df/dea/abstractstatesbutton_8h.html" title=" " alt="" coords="6782,237,6983,263"/>
+<area shape="rect" id="node165" title=" " alt="" coords="6853,319,6912,345"/>
+<area shape="rect" id="node167" href="$de/df6/clipablewire_8h.html" title=" " alt="" coords="1925,319,2038,345"/>
+<area shape="rect" id="node170" title=" " alt="" coords="1232,319,1339,345"/>
+</map>

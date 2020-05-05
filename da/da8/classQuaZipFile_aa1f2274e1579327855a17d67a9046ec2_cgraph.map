@@ -1,0 +1,7 @@
+<map id="QuaZipFile::readData" name="QuaZipFile::readData">
+<area shape="rect" id="node1" title="Implementation of the QIODevice::readData()." alt="" coords="5,56,165,83"/>
+<area shape="rect" id="node2" href="$d9/de5/classQuaZip.html#a3b78a652f296ff4a678a791e8294e642" title="Returns unzFile handle." alt="" coords="226,5,373,32"/>
+<area shape="rect" id="node3" href="$da/da8/classQuaZipFile.html#a755afddd4815f099bb1a55b1820fc069" title=" " alt="" coords="213,56,385,83"/>
+<area shape="rect" id="node4" href="$d6/da7/unzip_8c.html#a782029e380dc5ab5dab00361c9c14f58" title=" " alt="" coords="225,107,374,133"/>
+<area shape="rect" id="node5" href="$d2/db7/ioapi_8h.html#a50e9e9d5c30e481de822ad68fe537986" title=" " alt="" coords="433,107,495,133"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="PCBSketchWidget::requestQuoteNow" name="PCBSketchWidget::requestQuoteNow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,327,200,369"/>
+<area shape="rect" id="node2" href="$df/dbf/classPCBSketchWidget.html#a69f66789490c17dd70c709e0a6799d25" title=" " alt="" coords="248,327,443,369"/>
+<area shape="rect" id="node3" href="$df/dbf/classPCBSketchWidget.html#aab05a1b04c9c52634ad4bd8f999d490d" title=" " alt="" coords="491,157,729,184"/>
+<area shape="rect" id="node7" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="1317,157,1471,184"/>
+<area shape="rect" id="node13" href="$d3/d1c/classQuoteDialog.html#aa2f5dcd2ae1212f6cbe27c51a040f62f" title=" " alt="" coords="522,259,698,285"/>
+<area shape="rect" id="node15" href="$d8/d37/classSketchWidget.html#abdc23265e3a494ad46f7d63cd65c93e7" title=" " alt="" coords="517,309,703,336"/>
+<area shape="rect" id="node16" href="$df/dbf/classPCBSketchWidget.html#ad6bbd79a5b246063783f5310267fb393" title=" " alt="" coords="497,360,723,387"/>
+<area shape="rect" id="node18" href="$d3/d1c/classQuoteDialog.html#a1220bce33d66d8a24ca0812c6b3b6131" title=" " alt="" coords="777,360,1017,387"/>
+<area shape="rect" id="node19" href="$d5/d45/classVersion.html#a0832d149e63697596d117fdef473cbed" title=" " alt="" coords="503,505,717,546"/>
+<area shape="rect" id="node31" href="$d3/d1c/classQuoteDialog.html#a4a3c60b15c784f496c842b0abd65a0fe" title=" " alt="" coords="529,571,691,597"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#afe2eaccd6266f7c70092425055e9e726" title=" " alt="" coords="807,157,988,184"/>
+<area shape="rect" id="node8" href="$df/dbf/classPCBSketchWidget.html#ab4e47040fe50dd8aa573652ce0411c68" title=" " alt="" coords="794,56,1001,83"/>
+<area shape="rect" id="node12" href="$d7/dfe/classGraphicsUtils.html#a091697d7263c84850f4df0d18391fa72" title=" " alt="" coords="803,107,992,133"/>
+<area shape="rect" id="node5" href="$df/db0/classFSvgRenderer.html#abfa59a6da2875e59a5ab3112fd644ade" title=" " alt="" coords="1065,157,1267,184"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#a783246d1e45a53efa9e044fca46d2c9f" title=" " alt="" coords="1077,107,1255,133"/>
+<area shape="rect" id="node9" href="$de/d23/classBoard.html#a6063939428d01920fefae3dd9b1f0b84" title=" " alt="" coords="1107,56,1225,83"/>
+<area shape="rect" id="node11" href="$d4/d4f/classItemBase.html#abf6d16e250a353043cd4953ddc049bd0" title=" " alt="" coords="1076,5,1256,32"/>
+<area shape="rect" id="node10" href="$d4/d4f/classItemBase.html#acc2f5bad42928e7178c28fa0771b1f60" title=" " alt="" coords="1315,56,1473,83"/>
+<area shape="rect" id="node14" href="$d3/d1c/classQuoteDialog.html#ad56786c81ab9669e95a34699d8f67a84" title=" " alt="" coords="809,259,986,285"/>
+<area shape="rect" id="node17" href="$d3/d1c/classQuoteDialog.html#a1a62f85aec2905675a909f0cbaca9571" title=" " alt="" coords="798,309,997,336"/>
+<area shape="rect" id="node20" href="$de/db8/classTextUtils.html#ad35d662d2ca478c32b715c6d276de55e" title=" " alt="" coords="813,411,981,437"/>
+<area shape="rect" id="node21" href="$d5/d45/classVersion.html#ac59b3742743cab6ee68640f44c58951d" title=" " alt="" coords="815,461,979,488"/>
+<area shape="rect" id="node22" href="$d2/d6b/classQtSystemInfo.html#abf088df27d75d8bf710aaaec31b6c141" title=" " alt="" coords="794,512,1001,539"/>
+<area shape="rect" id="node24" href="$d2/d6b/classQtSystemInfo.html#a7e6486ef0b7c061adfb1007bb1c93b96" title=" " alt="" coords="790,563,1005,589"/>
+<area shape="rect" id="node26" href="$d2/d6b/classQtSystemInfo.html#a82eda4248f8908deac58bc8486427390" title=" " alt="" coords="798,613,997,640"/>
+<area shape="rect" id="node28" href="$d2/d6b/classQtSystemInfo.html#a6ac00f4bc92cec5a6cb641f37fff5c55" title=" " alt="" coords="794,664,1001,691"/>
+<area shape="rect" id="node30" href="$d2/d6b/classQtSystemInfo.html#accab136cfa85d894deb1467abedd68c5" title=" " alt="" coords="779,715,1015,741"/>
+<area shape="rect" id="node23" href="$d6/d1e/classQtSystemInfoPrivate.html#aea308f6dc239593ccfed7c9862feb061" title=" " alt="" coords="1087,482,1245,523"/>
+<area shape="rect" id="node25" href="$d6/d1e/classQtSystemInfoPrivate.html#aec127e4854d36a8daa903145ba77a4ab" title=" " alt="" coords="1087,547,1245,589"/>
+<area shape="rect" id="node27" href="$d6/d1e/classQtSystemInfoPrivate.html#af5282c1ce95efec3efe61e808745cc0c" title=" " alt="" coords="1087,613,1245,654"/>
+<area shape="rect" id="node29" href="$d6/d1e/classQtSystemInfoPrivate.html#ab2458ee09004d7e69a7da0c594933a94" title=" " alt="" coords="1087,678,1245,719"/>
+</map>

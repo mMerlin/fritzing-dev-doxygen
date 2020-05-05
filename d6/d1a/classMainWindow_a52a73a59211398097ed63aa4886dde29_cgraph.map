@@ -1,0 +1,31 @@
+<map id="MainWindow::selectAllIncludedTraces" name="MainWindow::selectAllIncludedTraces">
+<area shape="rect" id="node1" title=" " alt="" coords="5,347,229,389"/>
+<area shape="rect" id="node2" href="$df/dbf/classPCBSketchWidget.html#a34e1b8f888b0fd0a2b5b71f0b9d6c6bd" title=" " alt="" coords="277,347,479,389"/>
+<area shape="rect" id="node3" href="$df/dbf/classPCBSketchWidget.html#a915a45b7915137b7608bd044ef7bdd68" title=" " alt="" coords="527,267,728,309"/>
+<area shape="rect" id="node9" href="$df/dbf/classPCBSketchWidget.html#acf6173fb2ee2d571b0da0d5e2068c61c" title=" " alt="" coords="786,457,994,498"/>
+<area shape="rect" id="node4" href="$df/dbf/classPCBSketchWidget.html#a30f24a5e31577875914d452eb0e7b2a7" title=" " alt="" coords="777,173,1003,214"/>
+<area shape="rect" id="node10" href="$d7/d64/classWire.html#af18b21be89076a015bf909b1571e010a" title=" " alt="" coords="823,405,957,432"/>
+<area shape="rect" id="node13" href="$df/dbf/classPCBSketchWidget.html#afe1ab64e99e4f86546ae548a42f66f28" title=" " alt="" coords="776,5,1004,32"/>
+<area shape="rect" id="node14" href="$d7/d64/classWire.html#a344d3f7e6f146f364b81d595d7792b3e" title=" " alt="" coords="807,56,973,83"/>
+<area shape="rect" id="node16" href="$d8/d37/classSketchWidget.html#afe26a565be45229a07833c6f4ab6e9b6" title=" " alt="" coords="783,238,997,279"/>
+<area shape="rect" id="node20" href="$d4/d4f/classItemBase.html#a27afd199a7ae3c3fd14e88ed0be14420" title=" " alt="" coords="1115,304,1219,331"/>
+<area shape="rect" id="node21" href="$d0/dbb/classWaitPushUndoStack.html#a279fdca551f05e81111de92ea5b2145c" title=" " alt="" coords="1072,355,1263,381"/>
+<area shape="rect" id="node29" href="$d2/d38/classSelectItemCommand.html#af5f579079660a8d49b256cc47c37a9f8" title=" " alt="" coords="807,107,973,149"/>
+<area shape="rect" id="node5" href="$df/dbf/classPCBSketchWidget.html#ab4e47040fe50dd8aa573652ce0411c68" title=" " alt="" coords="1064,121,1271,148"/>
+<area shape="rect" id="node6" href="$de/d23/classBoard.html#a6063939428d01920fefae3dd9b1f0b84" title=" " alt="" coords="1361,79,1478,105"/>
+<area shape="rect" id="node8" href="$d4/d4f/classItemBase.html#abf6d16e250a353043cd4953ddc049bd0" title=" " alt="" coords="1595,155,1775,181"/>
+<area shape="rect" id="node7" href="$d4/d4f/classItemBase.html#acc2f5bad42928e7178c28fa0771b1f60" title=" " alt="" coords="1605,79,1764,105"/>
+<area shape="rect" id="node11" href="$d7/d64/classWire.html#a279a6f6496623e9da9f02234b2325af6" title=" " alt="" coords="1112,407,1223,433"/>
+<area shape="rect" id="node12" href="$d3/de8/classViewGeometry.html#af48546e414eab094f557068fa483aee3" title=" " alt="" coords="1331,411,1508,437"/>
+<area shape="rect" id="node15" href="$d3/de8/classViewGeometry.html#af689b52fc3d260a5cc237dcb760b8faa" title=" " alt="" coords="1052,56,1283,83"/>
+<area shape="rect" id="node17" href="$d4/d4f/classItemBase.html#abbe779a3f21ec2a9ed8de3fd2a586b14" title=" " alt="" coords="1070,173,1265,214"/>
+<area shape="rect" id="node19" href="$d2/d38/classSelectItemCommand.html#a3397bfea7b40cc14dba541e857b044fa" title=" " alt="" coords="1084,238,1251,279"/>
+<area shape="rect" id="node18" href="$d4/d4f/classItemBase.html#aee43e2ce5dbdaac292cb6398ce43f766" title=" " alt="" coords="1345,180,1493,207"/>
+<area shape="rect" id="node22" href="$d0/dbb/classWaitPushUndoStack.html#a2b0322812e333fec2b4d0d12b12e634c" title=" " alt="" coords="1339,345,1499,386"/>
+<area shape="rect" id="node23" href="$d8/d6e/classBaseCommand.html#a2d7619b36325bfec9111724045c24b8e" title=" " alt="" coords="1569,377,1800,404"/>
+<area shape="rect" id="node26" href="$d8/d6e/classBaseCommand.html#af34b4e2829ad3b7b718499916fd87cbb" title=" " alt="" coords="1602,428,1767,455"/>
+<area shape="rect" id="node27" href="$d8/d6e/classBaseCommand.html#ad7114bcb3cf27232facaf0cbcd7e3b58" title=" " alt="" coords="1556,276,1813,303"/>
+<area shape="rect" id="node28" href="$d8/d6e/classBaseCommand.html#a2717e1d5a234ba427175907b2dc58c23" title=" " alt="" coords="1575,327,1794,353"/>
+<area shape="rect" id="node24" href="$d8/d6e/classBaseCommand.html#aca69868889f793ce1399fd0c752cfa05" title=" " alt="" coords="1861,377,2091,404"/>
+<area shape="rect" id="node25" href="$d8/d37/classSketchWidget.html#a4319a31c3a619e166f0e7dac865e2ea3" title=" " alt="" coords="2139,377,2328,404"/>
+</map>

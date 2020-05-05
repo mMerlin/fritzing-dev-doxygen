@@ -1,0 +1,6 @@
+<map id="PCBSketchWidget::hasNeighbor" name="PCBSketchWidget::hasNeighbor">
+<area shape="rect" id="node1" title=" " alt="" coords="851,5,1077,32"/>
+<area shape="rect" id="node2" href="$df/dbf/classPCBSketchWidget.html#a25d5284b93de35f568a37799852d8a88" title="canConnectSeed Check if we can connect a seed without getting to close to another part Also checks if..." alt="" coords="549,5,803,32"/>
+<area shape="rect" id="node3" href="$df/dbf/classPCBSketchWidget.html#a582ac421949a4c295bb2ae73f785287c" title=" " alt="" coords="263,5,501,32"/>
+<area shape="rect" id="node4" href="$df/dbf/classPCBSketchWidget.html#a4e805d3449198677f63a796fd9f8ae22" title=" " alt="" coords="5,5,215,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="PCBSketchWidget::hasNeighbor" name="PCBSketchWidget::hasNeighbor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,173,232,200"/>
+<area shape="rect" id="node2" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="289,5,512,32"/>
+<area shape="rect" id="node3" href="$dc/d3a/classConnectorItem.html#aa255a20e50fe55ef1b3726abcd357991" title=" " alt="" coords="302,57,499,98"/>
+<area shape="rect" id="node4" href="$df/dbf/classPCBSketchWidget.html#afe1ab64e99e4f86546ae548a42f66f28" title=" " alt="" coords="287,123,515,149"/>
+<area shape="rect" id="node5" href="$d4/d4f/classItemBase.html#a599dd1a560ca2426bf6b97d0d0afc88c" title=" " alt="" coords="313,173,489,200"/>
+<area shape="rect" id="node6" href="$d7/d64/classWire.html#af18b21be89076a015bf909b1571e010a" title=" " alt="" coords="333,224,468,251"/>
+<area shape="rect" id="node9" href="$df/dbf/classPCBSketchWidget.html#a581b404d8cd06fe304a6315f9a070514" title=" " alt="" coords="280,275,521,317"/>
+<area shape="rect" id="node10" href="$d4/d4f/classItemBase.html#a8f16baa26ee92ac6cd8dda5c69d759d4" title=" " alt="" coords="314,341,487,368"/>
+<area shape="rect" id="node7" href="$d7/d64/classWire.html#a279a6f6496623e9da9f02234b2325af6" title=" " alt="" coords="569,224,680,251"/>
+<area shape="rect" id="node8" href="$d3/de8/classViewGeometry.html#af48546e414eab094f557068fa483aee3" title=" " alt="" coords="728,224,905,251"/>
+</map>

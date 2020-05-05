@@ -1,0 +1,32 @@
+<map id="Connector::connectorType" name="Connector::connectorType">
+<area shape="rect" id="node1" title=" " alt="" coords="1544,303,1735,330"/>
+<area shape="rect" id="node2" href="$d9/d65/classConnector.html#a8f42cc7d7ff1caa14af7508f1552407f" title=" " alt="" coords="1263,114,1494,141"/>
+<area shape="rect" id="node3" href="$db/d71/classHtmlInfoView.html#a50f307148c8f0c18c4db48b2937f0578" title=" " alt="" coords="1271,165,1486,207"/>
+<area shape="rect" id="node15" href="$d7/de7/classPaletteItemBase.html#a3e98559e042b48e1ad1d04f1d573e42c" title=" " alt="" coords="1261,231,1496,272"/>
+<area shape="rect" id="node16" href="$db/d0e/classConnectorsInfoWidget.html#af97d1931c10f3b2d1d50f0cad6c39ebd" title=" " alt="" coords="1295,296,1462,337"/>
+<area shape="rect" id="node18" href="$dc/db2/classSingleConnectorInfoWidget.html#a9631b2154d0b49ab003be2ea5f4aef08" title=" " alt="" coords="1275,361,1482,403"/>
+<area shape="rect" id="node19" href="$d8/d0a/classSqliteReferenceModel.html#a4c510590082048632f0192cd9d1774d4" title=" " alt="" coords="1296,427,1461,468"/>
+<area shape="rect" id="node28" href="$d8/d37/classSketchWidget.html#ad1d7d2e89fc351289186dde7b9461d6f" title=" " alt="" coords="1267,493,1491,519"/>
+<area shape="rect" id="node4" href="$db/d71/classHtmlInfoView.html#a0b57e09b7dddde61283e5d7547fe22f7" title=" " alt="" coords="989,85,1178,127"/>
+<area shape="rect" id="node8" href="$db/d71/classHtmlInfoView.html#a173a2e0e0c9f70e7dba168e66e7cacdb" title=" " alt="" coords="986,165,1181,207"/>
+<area shape="rect" id="node12" href="$db/d71/classHtmlInfoView.html#aa34531aa11def3a6b9c4f576de034abb" title=" " alt="" coords="976,238,1191,265"/>
+<area shape="rect" id="node5" href="$d8/d86/classInfoGraphicsView.html#a0ff1ca98583be3f8fa069a6430f631c4" title=" " alt="" coords="689,71,903,112"/>
+<area shape="rect" id="node6" href="$dc/d3a/classConnectorItem.html#a2dbe7da47c8dc1aef218c87ddafa3b61" title=" " alt="" coords="437,5,634,47"/>
+<area shape="rect" id="node7" href="$d8/d37/classSketchWidget.html#a4bc087939ab412c6d4d31ba5fe35fdf4" title=" " alt="" coords="440,71,631,112"/>
+<area shape="rect" id="node9" href="$d8/d86/classInfoGraphicsView.html#aa53e151a45e707f387982ef8d3ef3a96" title=" " alt="" coords="687,165,905,207"/>
+<area shape="rect" id="node10" href="$dc/d3a/classConnectorItem.html#aa35aa0dc25b778a95cdc6d1bc2e493c9" title=" " alt="" coords="434,136,637,177"/>
+<area shape="rect" id="node11" href="$d8/d37/classSketchWidget.html#a64d029841c4f9e3c57435c78b14bb955" title=" " alt="" coords="438,201,633,243"/>
+<area shape="rect" id="node13" href="$db/d71/classHtmlInfoView.html#a55e312abad38351736ffcb5d453f3a62" title=" " alt="" coords="701,253,891,279"/>
+<area shape="rect" id="node14" href="$db/d71/classHtmlInfoView.html#a692c7ff4ce8b8d1a44306219d7ecc1f0" title=" " alt="" coords="432,267,639,294"/>
+<area shape="rect" id="node17" href="$db/d0e/classConnectorsInfoWidget.html#a969bd2f4e4f354da9ff6c03abd97d93e" title=" " alt="" coords="1000,296,1167,337"/>
+<area shape="rect" id="node20" href="$d8/d0a/classSqliteReferenceModel.html#ab483166fc443a1d319b5b97032c47335" title=" " alt="" coords="1001,427,1166,468"/>
+<area shape="rect" id="node21" href="$d8/d0a/classSqliteReferenceModel.html#afeee7099590c32d0617167e548ef7e0a" title=" " alt="" coords="713,427,879,468"/>
+<area shape="rect" id="node22" href="$d8/d0a/classSqliteReferenceModel.html#abc9adafe41e252f96e24ad1dca67e1b1" title=" " alt="" coords="453,365,618,407"/>
+<area shape="rect" id="node24" href="$d8/d0a/classSqliteReferenceModel.html#ae97517169faa56f9b07b361e93020fb6" title=" " alt="" coords="219,428,384,469"/>
+<area shape="rect" id="node26" href="$d8/d0a/classSqliteReferenceModel.html#a51f200ea90a21478b0116eba822e800f" title=" " alt="" coords="453,485,618,527"/>
+<area shape="rect" id="node23" href="$d8/d0a/classSqliteReferenceModel.html#a495378ed31683dd343bd56441005a7f1" title=" " alt="" coords="219,363,384,404"/>
+<area shape="rect" id="node25" href="$d8/d0a/classSqliteReferenceModel.html#ae998db3e9160ab3b9e0cfc7774b7c802" title=" " alt="" coords="5,428,171,469"/>
+<area shape="rect" id="node27" href="$d8/d0a/classSqliteReferenceModel.html#aa1da56fc5df4ca446b9671595750f31b" title=" " alt="" coords="219,493,384,535"/>
+<area shape="rect" id="node29" href="$d8/d37/classSketchWidget.html#aa86618aaab81694c0bfb9a51574e2bea" title=" " alt="" coords="953,493,1213,519"/>
+<area shape="rect" id="node30" href="$d8/d37/classSketchWidget.html#a04f5b79a07774750b07b3affc52ac9e5" title=" " alt="" coords="700,493,892,519"/>
+</map>

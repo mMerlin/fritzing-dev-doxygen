@@ -1,0 +1,12 @@
+<map id="ConnectorItem::calcConnectorEnd" name="ConnectorItem::calcConnectorEnd">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,248,159"/>
+<area shape="rect" id="node2" href="$d8/d3c/classBezier.html#a71529ad1a0644b73f2adc958614bafc1" title=" " alt="" coords="507,23,709,65"/>
+<area shape="rect" id="node6" href="$dc/d3a/classConnectorItem.html#a817fe76035f457721fcf1c1f3800280e" title=" " alt="" coords="298,56,457,83"/>
+<area shape="rect" id="node7" href="$d8/d3c/classBezier.html#aec0fe0ef3264fbc54ca7e5808470f1ac" title=" " alt="" coords="315,107,439,133"/>
+<area shape="rect" id="node8" href="$d4/d08/misc_8h.html#ae7cc352fa1dc81e57ff53ebbc762f27d" title=" " alt="" coords="348,157,407,184"/>
+<area shape="rect" id="node9" href="$d4/d08/misc_8h.html#aec6ff9c887dc8733e787bf81a01492fd" title=" " alt="" coords="350,208,405,235"/>
+<area shape="rect" id="node10" href="$d8/d3c/classBezier.html#a3152ca2940ed500e564f8fd03bf41b77" title=" " alt="" coords="296,259,459,285"/>
+<area shape="rect" id="node3" href="$d4/d4f/classItemBase.html#a1e72b3e4e4038345a39cf3ef2f664957" title=" " alt="" coords="757,31,856,57"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#a8380ad795c557dd4a345b2c0113325dd" title=" " alt="" coords="904,5,1115,32"/>
+<area shape="rect" id="node5" href="$d3/de8/classViewGeometry.html#a4e18f5bc63d72eb798b9206f76b6824b" title=" " alt="" coords="943,56,1076,83"/>
+</map>

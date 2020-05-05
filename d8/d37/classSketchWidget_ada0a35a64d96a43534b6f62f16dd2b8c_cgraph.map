@@ -1,0 +1,53 @@
+<map id="SketchWidget::updateRoutingStatus" name="SketchWidget::updateRoutingStatus">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1542,220,1583"/>
+<area shape="rect" id="node2" href="$dc/d09/classNonConnectorItem.html#a1452f3637c83b50fbd089f9c4b4518b6" title=" " alt="" coords="1097,529,1320,556"/>
+<area shape="rect" id="node3" href="$d8/d37/classSketchWidget.html#a54811d54e7da5cda4164dc7afcfeee27" title=" " alt="" coords="277,1542,481,1583"/>
+<area shape="rect" id="node4" href="$dc/d3a/classConnectorItem.html#a02954ee252e381b1d6b15aae4a6e787d" title="collect all the connectors at the same potential" alt="" coords="277,1048,482,1090"/>
+<area shape="rect" id="node36" href="$dc/d3a/classConnectorItem.html#a879786a2c470f7fbde747e8d68ea7d7a" title=" " alt="" coords="279,266,480,293"/>
+<area shape="rect" id="node40" href="$dc/d3a/classConnectorItem.html#a738aa71d441bbd17ed83157b29e8becb" title=" " alt="" coords="277,1607,481,1648"/>
+<area shape="rect" id="node41" href="$d7/d64/classWire.html#a45f4d43eb8d9c12df32f8431b22ae04a" title=" " alt="" coords="313,1673,445,1700"/>
+<area shape="rect" id="node42" href="$d7/d64/classWire.html#a866a8602d73cc8004d133cb8780048f3" title=" " alt="" coords="313,1724,445,1750"/>
+<area shape="rect" id="node43" href="$d8/d37/classSketchWidget.html#af71d0b339c0214ea1a9a9b9b03c845af" title=" " alt="" coords="278,1774,481,1801"/>
+<area shape="rect" id="node44" href="$d8/d37/classSketchWidget.html#aa19ae4a87dbccbecb704e79cffc8e2f8" title=" " alt="" coords="268,1825,491,1852"/>
+<area shape="rect" id="node45" href="$d4/d4f/classItemBase.html#a599dd1a560ca2426bf6b97d0d0afc88c" title=" " alt="" coords="559,1781,735,1808"/>
+<area shape="rect" id="node46" href="$df/d8b/classGraphUtils.html#ab64d30b49249b2cd149b061eaaeec2fa" title=" " alt="" coords="288,1440,471,1466"/>
+<area shape="rect" id="node5" href="$dc/d09/classNonConnectorItem.html#a9a1e80518fb866bab2bd1fa7fe0965db" title=" " alt="" coords="1104,998,1313,1039"/>
+<area shape="rect" id="node6" href="$dc/d3a/classConnectorItem.html#a24e45c00dc37853b9572d41695c55716" title=" " alt="" coords="848,1157,997,1184"/>
+<area shape="rect" id="node7" href="$d4/d4f/classItemBase.html#a7cece89edad097a1a5b7c628adcb588e" title=" " alt="" coords="813,1376,1032,1402"/>
+<area shape="rect" id="node12" href="$dc/d3a/classConnectorItem.html#af2e14ebbdaa87a6c6dd301825fc83fc0" title=" " alt="" coords="826,1520,1019,1562"/>
+<area shape="rect" id="node13" href="$dc/d3a/classConnectorItem.html#ad5b897de337e8c9046ce2b6bad8a0340" title=" " alt="" coords="552,672,743,698"/>
+<area shape="rect" id="node33" href="$dc/d3a/classConnectorItem.html#a560c1e8d67851141398c6923c12f1a49" title=" " alt="" coords="813,1310,1032,1351"/>
+<area shape="rect" id="node34" href="$d7/d64/classWire.html#addcf128be463b3abf17e8660dfce2562" title=" " alt="" coords="579,1005,715,1032"/>
+<area shape="rect" id="node8" href="$dc/d3a/classConnectorItem.html#abdede51810abd3e7858b1020155f6b8e" title=" " alt="" coords="1110,1310,1307,1351"/>
+<area shape="rect" id="node9" href="$d2/dfc/classBus.html#a8dbaa9d1a859ba79d698d7f6cbf666c1" title=" " alt="" coords="1146,1376,1271,1402"/>
+<area shape="rect" id="node10" href="$d2/dfc/classBus.html#adbe5168ebfc614fdf662918946d13fef" title=" " alt="" coords="1137,1426,1280,1453"/>
+<area shape="rect" id="node11" href="$d9/d65/classConnector.html#ab5a1d2ebc1327913c561c2e1ab4e3758" title=" " alt="" coords="1127,1477,1291,1504"/>
+<area shape="rect" id="node14" href="$dc/d09/classNonConnectorItem.html#a8bddbd1259c61a57ba95d83150d57eaf" title=" " alt="" coords="804,229,1041,256"/>
+<area shape="rect" id="node16" href="$dc/d09/classNonConnectorItem.html#a544869b09d389adb5a8f8fd0c8968635" title=" " alt="" coords="818,280,1027,322"/>
+<area shape="rect" id="node18" href="$dc/d09/classNonConnectorItem.html#add22aea9a0fe8aa2f3f5415c975a35e0" title=" " alt="" coords="818,748,1027,790"/>
+<area shape="rect" id="node20" href="$dc/d3a/classConnectorItem.html#aa255a20e50fe55ef1b3726abcd357991" title=" " alt="" coords="1110,1244,1307,1286"/>
+<area shape="rect" id="node21" href="$dc/d3a/classConnectorItem.html#a42dbcf5999c35018405f884275c8a0c1" title=" " alt="" coords="824,398,1021,439"/>
+<area shape="rect" id="node22" href="$dc/d3a/classConnectorItem.html#aa22ed310cdf87c914bfad84ce759d66b" title=" " alt="" coords="827,463,1018,504"/>
+<area shape="rect" id="node23" href="$dc/d3a/classConnectorItem.html#aca52a788abdcadfbe5d61e3c15e9d369" title=" " alt="" coords="827,580,1018,622"/>
+<area shape="rect" id="node24" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="845,178,1000,205"/>
+<area shape="rect" id="node25" href="$dc/d3a/classConnectorItem.html#a9db3e9a8e9a67433a39b3c12aa8fe442" title=" " alt="" coords="812,838,1033,879"/>
+<area shape="rect" id="node15" href="$d4/d4f/classItemBase.html#a27afd199a7ae3c3fd14e88ed0be14420" title=" " alt="" coords="1157,229,1261,256"/>
+<area shape="rect" id="node17" href="$d4/d4f/classItemBase.html#a7e2aeaad0bf538b46ff5a3285521526a" title=" " alt="" coords="1121,288,1297,314"/>
+<area shape="rect" id="node19" href="$d4/d4f/classItemBase.html#af0f5772f7bc3d09b1558119b5c7a898c" title=" " alt="" coords="1149,728,1268,754"/>
+<area shape="rect" id="node26" href="$dc/d3a/classConnectorItem.html#aa279dff4c65b0bb8a48056347a1b2520" title=" " alt="" coords="1089,880,1328,922"/>
+<area shape="rect" id="node29" href="$d7/dfe/classGraphicsUtils.html#a720808c811cf100be0758d271ba2afce" title=" " alt="" coords="1093,946,1325,973"/>
+<area shape="rect" id="node30" href="$d4/d4f/classItemBase.html#a7565ba05974fedf75bb75923b18bca1a" title=" " alt="" coords="1123,778,1294,805"/>
+<area shape="rect" id="node32" href="$d7/d64/classWire.html#a45d0e341658a356ad227b1f5171cfa18" title=" " alt="" coords="1129,829,1289,856"/>
+<area shape="rect" id="node27" href="$d7/d2d/classSvgIdLayer.html#acdaf551c0efe7ce5b7197185c60f7b64" title=" " alt="" coords="1415,888,1541,914"/>
+<area shape="rect" id="node28" href="$d1/d88/classPointRect.html#a35106398b82d6e7cacb0c7754cdfa9b8" title=" " alt="" coords="1628,888,1771,914"/>
+<area shape="rect" id="node31" href="$d3/de8/classViewGeometry.html#a11ca759a75de95be900ac023617a1858" title=" " alt="" coords="1376,778,1580,805"/>
+<area shape="rect" id="node35" href="$d3/de8/classViewGeometry.html#a8f246c8baf2bd7e90d045cdf46ed31d5" title=" " alt="" coords="821,1106,1024,1133"/>
+<area shape="rect" id="node37" href="$dc/d3a/classConnectorItem.html#a0830c93f7c0d3254f16e700a96caaa09" title=" " alt="" coords="550,1258,745,1285"/>
+<area shape="rect" id="node38" href="$dc/d3a/classConnectorItem.html#a8952c711f849ade106891b903dca07b6" title=" " alt="" coords="557,292,737,318"/>
+<area shape="rect" id="node39" href="$d4/d4f/classItemBase.html#a353296ecaba8bac3acb8e36fc44b312d" title=" " alt="" coords="571,241,723,268"/>
+<area shape="rect" id="node47" href="$df/d8b/classGraphUtils.html#a5e2e8bc8f01d4404cc1d3da060a92353" title=" " alt="" coords="539,1410,756,1437"/>
+<area shape="rect" id="node48" href="$d7/d64/classWire.html#a5b8e6e054e0296615f5f3b6ae6be7b0a" title=" " alt="" coords="569,1730,725,1757"/>
+<area shape="rect" id="node49" href="$d4/d4f/classItemBase.html#a8380ad795c557dd4a345b2c0113325dd" title=" " alt="" coords="542,1578,753,1605"/>
+<area shape="rect" id="node50" href="$dc/d3a/classConnectorItem.html#ac0964f8ffd886c29f738f93bbd32713b" title=" " alt="" coords="543,1462,752,1503"/>
+<area shape="rect" id="node51" href="$d3/de8/classViewGeometry.html#ac42dfbfe227f5c4ee09f56b52bd24742" title=" " alt="" coords="553,1680,742,1706"/>
+</map>

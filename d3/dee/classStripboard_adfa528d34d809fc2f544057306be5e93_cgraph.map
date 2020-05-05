@@ -1,0 +1,8 @@
+<map id="Stripboard::nextBus" name="Stripboard::nextBus">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,156,83"/>
+<area shape="rect" id="node2" href="$d5/d1b/classBusShared.html#a74a158161f8b1cd6981064a3740b7710" title=" " alt="" coords="204,5,439,32"/>
+<area shape="rect" id="node5" href="$dc/d3a/classConnectorItem.html#af0a6058a57e91d11f927dafa61c363d4" title=" " alt="" coords="226,56,417,83"/>
+<area shape="rect" id="node6" href="$d9/d65/classConnector.html#a24de03e134daab2d9efa441caaa42297" title=" " alt="" coords="219,107,424,133"/>
+<area shape="rect" id="node3" href="$d7/d1b/classConnectorShared.html#ab4b294cafbaf1e22fe0bf9ba20d16c56" title=" " alt="" coords="487,5,672,32"/>
+<area shape="rect" id="node4" href="$d7/d1b/classConnectorShared.html#a287f4978e9742842d23ae0b1a00f46c2" title=" " alt="" coords="720,5,884,32"/>
+</map>

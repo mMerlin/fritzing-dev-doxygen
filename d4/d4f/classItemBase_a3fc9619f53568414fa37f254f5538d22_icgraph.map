@@ -1,0 +1,9 @@
+<map id="ItemBase::setItemPos" name="ItemBase::setItemPos">
+<area shape="rect" id="node1" title=" " alt="" coords="531,78,696,105"/>
+<area shape="rect" id="node2" href="$d3/d04/classPaletteItem.html#ace5e7038a933add865675984a9c02e5f" title=" " alt="" coords="279,27,457,54"/>
+<area shape="rect" id="node3" href="$d8/d37/classSketchWidget.html#aee5e318a0766b9908ba8ba2275793ef1" title=" " alt="" coords="253,78,483,105"/>
+<area shape="rect" id="node6" href="$d8/d37/classSketchWidget.html#ae65caeecb34de48aae0f7a768f242b31" title=" " alt="" coords="277,133,459,159"/>
+<area shape="rect" id="node4" href="$d4/da0/classSimpleMoveItemCommand.html#afcbcd5c3c2550f44330a25b40c6881e6" title=" " alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node5" href="$d4/da0/classSimpleMoveItemCommand.html#a5b36c1c0162579108794cc0dd6e11442" title=" " alt="" coords="5,71,205,112"/>
+<area shape="rect" id="node7" href="$d8/d37/classSketchWidget.html#a42cd409885b659b570d16f5726956027" title=" " alt="" coords="13,137,198,163"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="ChangeZCommand::undo" name="ChangeZCommand::undo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,192,192"/>
+<area shape="rect" id="node2" href="$d8/d37/classSketchWidget.html#a5dcbbd74d7ffb96dd9cdeb18186f54fc" title=" " alt="" coords="243,107,417,133"/>
+<area shape="rect" id="node8" href="$d2/dd2/classChangeZCommand.html#adda4565f0e4213747986ab4539ac342b" title=" " alt="" coords="240,165,420,192"/>
+<area shape="rect" id="node9" href="$d8/d6e/classBaseCommand.html#ac2747a4ea6258544b1721c742dc3d4db" title=" " alt="" coords="249,224,411,251"/>
+<area shape="rect" id="node3" href="$d4/d4f/classItemBase.html#a27afd199a7ae3c3fd14e88ed0be14420" title=" " alt="" coords="525,5,629,32"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#a8f16baa26ee92ac6cd8dda5c69d759d4" title=" " alt="" coords="490,56,663,83"/>
+<area shape="rect" id="node5" href="$d5/d9d/classViewLayer.html#a56ef226a700efc58ce154dc95e9a8e56" title=" " alt="" coords="476,107,677,133"/>
+<area shape="rect" id="node7" href="$d1/dc8/classZoomableGraphicsView.html#a9b467816601554dc93de010124273021" title=" " alt="" coords="488,158,665,199"/>
+<area shape="rect" id="node6" href="$d5/d9d/classViewLayer.html#a951ff536b39c68ddabeaadd5b35c47be" title=" " alt="" coords="733,107,903,133"/>
+<area shape="rect" id="node10" href="$df/d8b/classCommandProgress.html#aebf23a39ab6caf18a3e7b3351ad4f49d" title=" " alt="" coords="480,224,673,251"/>
+<area shape="rect" id="node11" href="$df/d8b/classCommandProgress.html#aaed608918684247a483fd5466be7b551" title=" " alt="" coords="468,275,685,301"/>
+</map>

@@ -1,0 +1,145 @@
+<map id="uLong" name="uLong">
+<area shape="rect" id="node1" title=" " alt="" coords="6101,858,6163,885"/>
+<area shape="rect" id="node2" href="$d5/d84/ioapi_8c.html#a8413758028f1cc3444993fb8be822696" title=" " alt="" coords="5887,655,6006,682"/>
+<area shape="rect" id="node4" href="$d6/da7/unzip_8c.html#a899fa69e894354e48aab8869e13fd396" title=" " alt="" coords="5146,655,5233,682"/>
+<area shape="rect" id="node92" href="$d0/d5f/zip_8c.html#a1e81b9e717c86e8c7ef8914534cd83e1" title=" " alt="" coords="5398,833,5481,859"/>
+<area shape="rect" id="node94" href="$d5/d84/ioapi_8c.html#a1a5a1c0c57e77a7a8d2fb00a4f5a9a19" title=" " alt="" coords="5886,706,6007,733"/>
+<area shape="rect" id="node95" href="$da/da8/classQuaZipFile.html#a2429ea59c77371d7af56d739db130b18" title="Opens a file for writing." alt="" coords="4885,1289,5017,1315"/>
+<area shape="rect" id="node96" href="$d6/da7/unzip_8c.html#a6e42c868757990ea103d34619e3f5fa2" title=" " alt="" coords="5877,402,6016,429"/>
+<area shape="rect" id="node97" href="$d6/da7/unzip_8c.html#a604f8ca20c251b1ae520a40cd1a688ad" title=" " alt="" coords="5587,344,5789,385"/>
+<area shape="rect" id="node107" href="$d6/da7/unzip_8c.html#a22730edef5a8a98b367bb30a0d619608" title=" " alt="" coords="5134,301,5245,327"/>
+<area shape="rect" id="node114" href="$d6/da7/unzip_8c.html#a2bcb543c18d44ff234d01f725d7a54ee" title=" " alt="" coords="5591,488,5785,529"/>
+<area shape="rect" id="node115" href="$d6/da7/unzip_8c.html#a5eb86267fb9a5e4f52a123df606b2af5" title=" " alt="" coords="5360,503,5519,530"/>
+<area shape="rect" id="node119" href="$d6/da7/unzip_8c.html#adf85ae30e9d93b75f7980750f9696a9a" title=" " alt="" coords="5879,503,6014,530"/>
+<area shape="rect" id="node120" href="$d6/da7/unzip_8c.html#a284d31610ee61ca6680d154d6e64949e" title=" " alt="" coords="5343,757,5536,783"/>
+<area shape="rect" id="node121" href="$d6/da7/unzip_8c.html#a2adf50ee682fe99e90f76e3b5c5aff19" title=" " alt="" coords="5840,351,6053,378"/>
+<area shape="rect" id="node122" href="$d6/da7/unzip_8c.html#a782029e380dc5ab5dab00361c9c14f58" title=" " alt="" coords="5872,1365,6021,1391"/>
+<area shape="rect" id="node124" href="$d6/da7/unzip_8c.html#a012cad9a0262291930ec7e34cd7c5bea" title=" " alt="" coords="5865,1415,6029,1442"/>
+<area shape="rect" id="node125" href="$d6/da7/unzip_8c.html#adc36ff0866254ca420c9cd9d7dccfa99" title=" " alt="" coords="5859,1466,6034,1493"/>
+<area shape="rect" id="node127" href="$d0/d5f/zip_8c.html#a36feaf8a1065df30f930867493e85719" title=" " alt="" coords="5879,1061,6015,1087"/>
+<area shape="rect" id="node128" href="$d0/d5f/zip_8c.html#a6b17cc2fa173054a156218befe2b31f5" title=" " alt="" coords="5105,1213,5273,1239"/>
+<area shape="rect" id="node131" href="$d0/d5f/zip_8c.html#a43fe6f36cef62c7f34c0fdb4c8288b87" title=" " alt="" coords="5607,1111,5769,1138"/>
+<area shape="rect" id="node135" href="$d0/d5f/zip_8c.html#a4fda7a41fa2f57d105ffc7d1cbcf53cc" title=" " alt="" coords="5151,985,5228,1011"/>
+<area shape="rect" id="node138" href="$d0/d5f/zip_8c.html#a2ef8de94c1be65e7fcf1ada8ddd1256f" title=" " alt="" coords="5584,1213,5792,1239"/>
+<area shape="rect" id="node139" href="$d0/d5f/zip_8c.html#a667c1905a3e3f7e5f1ce1cfaa57f3f80" title=" " alt="" coords="5621,959,5755,986"/>
+<area shape="rect" id="node140" href="$d0/d5f/zip_8c.html#a7224e414f49d927fbd8f27b66b60ec09" title=" " alt="" coords="5623,807,5753,834"/>
+<area shape="rect" id="node141" href="$d0/d5f/zip_8c.html#a4ea4b4773490a189bde2b156e8f670a4" title=" " alt="" coords="5593,858,5783,885"/>
+<area shape="rect" id="node142" href="$d0/d5f/zip_8c.html#aaffa2f0481089a2d4ddcef60132687ae" title=" " alt="" coords="5875,1517,6019,1543"/>
+<area shape="rect" id="node3" href="$d5/d84/ioapi_8c.html#ab44f1d585b26ce7f9447a91ada432727" title=" " alt="" coords="5619,706,5757,733"/>
+<area shape="rect" id="node5" href="$d9/de5/classQuaZip.html#abfa4e6018b2964a3d10a4c54e5ab3962" title="Opens ZIP file." alt="" coords="4897,655,5006,682"/>
+<area shape="rect" id="node91" href="$d6/da7/unzip_8c.html#a614a4ee72e9055e5657d28487c2a7936" title=" " alt="" coords="4912,605,4991,631"/>
+<area shape="rect" id="node6" href="$da/da8/classQuaZipFile.html#aed75bace51f2bb4c3e4f656ab4493aac" title="Opens a file for reading." alt="" coords="4641,459,4773,486"/>
+<area shape="rect" id="node7" href="$dd/d63/classFolderUtils.html#a00dc42e63e4e691371265ec1c6f6ac27" title=" " alt="" coords="4360,748,4547,789"/>
+<area shape="rect" id="node68" href="$dd/d63/classFolderUtils.html#af4e1e991ce3737526143e119595b266c" title=" " alt="" coords="4379,402,4528,429"/>
+<area shape="rect" id="node8" href="$dc/dc7/classFApplication.html#a703e792d3335aaf24f7b12eba01f4df7" title=" " alt="" coords="1047,938,1239,965"/>
+<area shape="rect" id="node13" href="$d6/d1a/classMainWindow.html#a5abe537dbaab4162e7592992a3450a66" title=" " alt="" coords="4089,755,4312,782"/>
+<area shape="rect" id="node62" href="$d6/d1a/classMainWindow.html#a9e66201baeb89a0d9b8ed251a38f9bbc" title=" " alt="" coords="2455,533,2678,575"/>
+<area shape="rect" id="node9" href="$dc/dc7/classFApplication.html#acb7df7a8722ed82a934ac839dff03d4a" title=" " alt="" coords="783,938,992,965"/>
+<area shape="rect" id="node10" href="$dc/dc7/classFApplication.html#a8469e5277a43051681664cee04507808" title=" " alt="" coords="535,938,707,965"/>
+<area shape="rect" id="node11" href="$dc/dc7/classFApplication.html#a4fe7926588db6a2edc8c638ec81ad0ed" title=" " alt="" coords="272,938,467,965"/>
+<area shape="rect" id="node12" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="87,938,142,965"/>
+<area shape="rect" id="node14" href="$d6/d1a/classMainWindow.html#aee4332061e28b49b957f4055b4d9dec8" title=" " alt="" coords="3827,748,4041,789"/>
+<area shape="rect" id="node15" href="$d6/d1a/classMainWindow.html#a62cd8712fb41a754298f6f60eead2cb0" title=" " alt="" coords="3568,838,3771,865"/>
+<area shape="rect" id="node16" href="$d6/d1a/classMainWindow.html#ab15809fe98998fe084f11c87936a9935" title=" " alt="" coords="3324,838,3501,865"/>
+<area shape="rect" id="node17" href="$d6/d1a/classMainWindow.html#abc01a30d4fa9f11be3d6c4942e0f9c1d" title=" " alt="" coords="3073,838,3207,865"/>
+<area shape="rect" id="node18" href="$d6/d1a/classMainWindow.html#aea3deea4c442d5dec63a7bf1d3e4c16a" title=" " alt="" coords="2743,919,2967,946"/>
+<area shape="rect" id="node55" href="$d6/d1a/classMainWindow.html#a536428eb25670b650405ddd1ed424e17" title=" " alt="" coords="2751,651,2958,692"/>
+<area shape="rect" id="node19" href="$dc/dc7/classFApplication.html#ab98a71ba99044392e92580493f8ae2f0" title=" " alt="" coords="1610,779,1803,820"/>
+<area shape="rect" id="node23" href="$dc/dc7/classFApplication.html#ac5e0b62634df1a581eee3c3a36980754" title=" " alt="" coords="520,778,723,805"/>
+<area shape="rect" id="node33" href="$dc/dc7/classFApplication.html#a90b49b52f8ce542355cbe7e422cbab20" title=" " alt="" coords="1327,1090,1493,1117"/>
+<area shape="rect" id="node37" href="$dc/dc7/classFApplication.html#aa295d721bc33fcc241d15251c00d0830" title=" " alt="" coords="1307,1039,1513,1066"/>
+<area shape="rect" id="node39" href="$dc/dc7/classFApplication.html#aa357345b41a6609652263fe9fb901678" title=" " alt="" coords="1311,1141,1509,1183"/>
+<area shape="rect" id="node40" href="$dc/dc7/classFApplication.html#ae4187b15f0ed04d7875c0d38d02f5a23" title=" " alt="" coords="1893,915,2105,942"/>
+<area shape="rect" id="node41" href="$d6/d1a/classMainWindow.html#a79998b8abda212c626e7d5fb8272d0fe" title=" " alt="" coords="2465,869,2668,895"/>
+<area shape="rect" id="node46" href="$d6/d1a/classMainWindow.html#a5764daeb83aac4c2788f8f97b96e70c6" title=" " alt="" coords="1321,1359,1499,1386"/>
+<area shape="rect" id="node53" href="$d6/d1a/classMainWindow.html#a9309eb8df0acf917463702a337f349eb" title=" " alt="" coords="1307,720,1513,761"/>
+<area shape="rect" id="node54" href="$d6/d1a/classMainWindow.html#aa889ec95712e91e6bec055db80b5e8c0" title=" " alt="" coords="1593,1426,1820,1453"/>
+<area shape="rect" id="node20" href="$d1/dec/classPanelizer.html#ab4283243a33f5808e59cc57cc33cd2e4" title=" " alt="" coords="1320,837,1500,863"/>
+<area shape="rect" id="node24" href="$d1/dec/classPanelizer.html#a746666008f0498b0b2d533eb542538a2" title=" " alt="" coords="1321,603,1499,630"/>
+<area shape="rect" id="node27" href="$dc/dc7/classFApplication.html#a45d64513b26dde0b45885f0a0cbf1fc5" title=" " alt="" coords="1287,938,1533,965"/>
+<area shape="rect" id="node29" href="$dc/dc7/classFApplication.html#ab2c3e51b8fd3896a83b4550d64432db9" title=" " alt="" coords="1297,887,1523,914"/>
+<area shape="rect" id="node31" href="$dc/dc7/classFApplication.html#ad221f960da2ad821517d29ef4d91eb67" title=" " alt="" coords="1307,786,1513,813"/>
+<area shape="rect" id="node32" href="$dc/dc7/classFApplication.html#a0455361ca72c560951029a37f55646c8" title=" " alt="" coords="1317,655,1503,696"/>
+<area shape="rect" id="node21" href="$d1/dec/classPanelizer.html#a20413e93309e7c25278c14bbd953de26" title=" " alt="" coords="1071,782,1215,809"/>
+<area shape="rect" id="node22" href="$dc/dc7/classFApplication.html#ade4b2813f0a6b5af98013570a7b5d9c0" title=" " alt="" coords="793,771,982,812"/>
+<area shape="rect" id="node25" href="$d1/dec/classPanelizer.html#a17e70d92a6673b55cbe831bf41f51764" title=" " alt="" coords="1073,607,1213,634"/>
+<area shape="rect" id="node26" href="$dc/dc7/classFApplication.html#acf8b4e0eaaa72bb5ac8da5ac4350a8a4" title=" " alt="" coords="788,628,987,669"/>
+<area shape="rect" id="node28" href="$dc/dc7/classFApplication.html#af22acf51c81e4192061619681149f8f1" title=" " alt="" coords="776,887,999,914"/>
+<area shape="rect" id="node30" href="$dc/dc7/classFApplication.html#afba3846fa54972cfff5fc12b4b13e347" title=" " alt="" coords="786,837,989,863"/>
+<area shape="rect" id="node34" href="$dc/dc7/classFApplication.html#a87dcc39a795ed22cf9b58b6c95500e4e" title=" " alt="" coords="1069,1090,1216,1117"/>
+<area shape="rect" id="node36" href="$dc/dc7/classFApplication.html#a1c1e918764d54d6ce29076264d114ec4" title=" " alt="" coords="1061,989,1224,1015"/>
+<area shape="rect" id="node35" href="$dc/dc7/classFApplication.html#a2ba26718877e92e154fb6bac3fe4cb04" title=" " alt="" coords="798,1090,977,1117"/>
+<area shape="rect" id="node38" href="$dc/dc7/classFApplication.html#a89349e60ea5512570b4fa2474507ab36" title=" " alt="" coords="292,1014,447,1041"/>
+<area shape="rect" id="node42" href="$d6/d1a/classMainWindow.html#ae7b97e68c51358f6f36be3c40b89c01c" title=" " alt="" coords="2189,869,2367,895"/>
+<area shape="rect" id="node43" href="$d6/d1a/classMainWindow.html#ab6621aecc8a4cf74aba50b43a4c07a00" title=" " alt="" coords="2189,970,2367,997"/>
+<area shape="rect" id="node44" href="$d6/d1a/classMainWindow.html#a4c1103af344c86bcc59c731f6cc815e1" title=" " alt="" coords="1880,865,2117,891"/>
+<area shape="rect" id="node45" href="$d6/d1a/classMainWindow.html#a529586769a7b66afdbba1e046ead819c" title=" " alt="" coords="1616,877,1797,903"/>
+<area shape="rect" id="node49" href="$d6/d1a/classMainWindow.html#ac58f8af9016bb8ec15b0fc560adeae2e" title=" " alt="" coords="515,1369,728,1411"/>
+<area shape="rect" id="node51" href="$d6/d9a/classPEMainWindow.html#a75b29809288068ade92be923ab97d0b1" title=" " alt="" coords="5,1271,224,1298"/>
+<area shape="rect" id="node47" href="$d6/d1a/classMainWindow.html#a29cf7bd0dd9c5ab61fe788a54953cc63" title=" " alt="" coords="1063,1410,1223,1437"/>
+<area shape="rect" id="node52" href="$d6/d1a/classMainWindow.html#aaf6a5838f6cef30ec522dbb6e7833c3f" title=" " alt="" coords="1067,1359,1219,1386"/>
+<area shape="rect" id="node48" href="$d6/d1a/classMainWindow.html#af738ff136bb25dd36cedc45275b92917" title=" " alt="" coords="789,1395,985,1436"/>
+<area shape="rect" id="node50" href="$d6/d9a/classPEMainWindow.html#addd5ae0274b7c1259befe176d027f58b" title=" " alt="" coords="273,1344,466,1385"/>
+<area shape="rect" id="node56" href="$d6/d1a/classMainWindow.html#ae65999300b8cec11bbdfb35f4617c525" title=" " alt="" coords="2465,651,2669,692"/>
+<area shape="rect" id="node61" href="$d6/d1a/classMainWindow.html#acb1a38330d29e1aab6f0b793930e2ff4" title=" " alt="" coords="2439,599,2695,626"/>
+<area shape="rect" id="node57" href="$d3/d50/classBinManager.html#aed5e3c1281e81536e378499df78807e8" title=" " alt="" coords="2183,487,2373,528"/>
+<area shape="rect" id="node58" href="$d3/d50/classBinManager.html#a74da2ad024cdc948c221c82d1b21edfe" title=" " alt="" coords="1889,461,2108,487"/>
+<area shape="rect" id="node59" href="$d3/d50/classBinManager.html#a5c081f39071fd8cfc7b0d76bc7e0bb84" title=" " alt="" coords="1581,377,1832,403"/>
+<area shape="rect" id="node60" href="$d3/d50/classBinManager.html#a2d5d445330cf9de93768d92ea7ce8d5a" title=" " alt="" coords="1303,377,1517,403"/>
+<area shape="rect" id="node63" href="$d6/d1a/classMainWindow.html#a0a78bf5a421048b8be80e8e52bc0bb91" title=" " alt="" coords="2165,654,2391,681"/>
+<area shape="rect" id="node66" href="$de/d4e/classPartsBinPaletteWidget.html#ad535fc79f3b71ba6e4299c34a28864c5" title=" " alt="" coords="2195,369,2361,411"/>
+<area shape="rect" id="node64" href="$d6/d1a/classMainWindow.html#abd44ab87e3742479fa0ce67c7b11ad3b" title=" " alt="" coords="1893,611,2104,638"/>
+<area shape="rect" id="node65" href="$d6/d1a/classMainWindow.html#a0eda35190b6d84497ae45f800d1417e2" title=" " alt="" coords="1614,611,1799,638"/>
+<area shape="rect" id="node67" href="$d3/d50/classBinManager.html#a7b8811f9c233cede51906a2eb3176da0" title=" " alt="" coords="1892,377,2105,403"/>
+<area shape="rect" id="node69" href="$d6/d1a/classMainWindow.html#aac6966324845a055d111c1276738fe2c" title=" " alt="" coords="4091,293,4311,335"/>
+<area shape="rect" id="node88" href="$d6/d1a/classMainWindow.html#ad124e6cacaea17afc0272a7d405c5750" title=" " alt="" coords="3560,402,3779,429"/>
+<area shape="rect" id="node70" href="$de/d4e/classPartsBinPaletteWidget.html#a639a2fef2288de9d847976da5d3d81c8" title=" " alt="" coords="3851,251,4017,292"/>
+<area shape="rect" id="node71" href="$d3/d50/classBinManager.html#afc14f415cc0d760eddd342cdea779f5d" title=" " alt="" coords="3583,173,3756,199"/>
+<area shape="rect" id="node72" href="$d3/d50/classBinManager.html#abb4428a6888d62abb97157f18e5ee60c" title=" " alt="" coords="3313,173,3512,199"/>
+<area shape="rect" id="node84" href="$d3/d50/classBinManager.html#a32006d8b928a03103babf268a2ec782c" title=" " alt="" coords="3332,89,3493,115"/>
+<area shape="rect" id="node86" href="$d3/d50/classBinManager.html#a2d9ef85a41aecb6bacd17b19289f4d3b" title=" " alt="" coords="2769,318,2941,345"/>
+<area shape="rect" id="node87" href="$de/d4e/classPartsBinPaletteWidget.html#af30433fbe82fe3d9ae373b082ceb7761" title=" " alt="" coords="3329,5,3496,47"/>
+<area shape="rect" id="node73" href="$d3/d50/classBinManager.html#aaccd5835b3682b3e22d9b106f79506e3" title=" " alt="" coords="3015,147,3265,174"/>
+<area shape="rect" id="node77" href="$d3/d50/classBinManager.html#a9fe34d7451b2841258b3ca0c28e51118" title=" " alt="" coords="3019,97,3261,123"/>
+<area shape="rect" id="node82" href="$d3/d50/classBinManager.html#a1bece8b3f44dfefe2c3824c053ca3c5d" title=" " alt="" coords="3023,198,3257,225"/>
+<area shape="rect" id="node83" href="$d3/d50/classBinManager.html#a1c416320d43308fb1dedfd7373868259" title=" " alt="" coords="3045,300,3235,341"/>
+<area shape="rect" id="node74" href="$d3/d50/classBinManager.html#af6ffd6b423aa7e1a3093e5a855c8cfe0" title=" " alt="" coords="2761,206,2948,233"/>
+<area shape="rect" id="node75" href="$d3/d50/classBinManager.html#abf417e9df45dacb191424c9c6e2d9dcd" title=" " alt="" coords="2759,105,2951,131"/>
+<area shape="rect" id="node76" href="$d3/d50/classBinManager.html#a48fcd52391e11dd8df90437f318a78d0" title=" " alt="" coords="2755,155,2954,182"/>
+<area shape="rect" id="node78" href="$d3/d50/classBinManager.html#a4a19150070924847fa48546117c68860" title=" " alt="" coords="2779,54,2930,81"/>
+<area shape="rect" id="node79" href="$de/d4e/classPartsBinPaletteWidget.html#adfaebf7818593d2210d457572054f04b" title=" " alt="" coords="2483,47,2650,88"/>
+<area shape="rect" id="node80" href="$de/d4e/classPartsBinPaletteWidget.html#a7f150e3d1e0a41af7ebffbc9aa664941" title=" " alt="" coords="2195,47,2361,88"/>
+<area shape="rect" id="node81" href="$de/d4e/classPartsBinPaletteWidget.html#ae89a19e1aed252826037a32886643cd4" title=" " alt="" coords="1911,17,2086,59"/>
+<area shape="rect" id="node85" href="$d3/d50/classBinManager.html#a5fa7574872d2c3c36154f10cfdb2cda2" title=" " alt="" coords="3072,46,3208,73"/>
+<area shape="rect" id="node89" href="$d3/d50/classBinManager.html#a4889fee4176c8bd941fe82b33bd52ca0" title=" " alt="" coords="3325,373,3501,399"/>
+<area shape="rect" id="node90" href="$d3/d50/classBinManager.html#ad643542d2e2f6b846e43f95100e7247a" title=" " alt="" coords="3045,365,3235,407"/>
+<area shape="rect" id="node93" href="$d0/d5f/zip_8c.html#a0fdf7997a92da1a0e3e0ec4fc270494c" title=" " alt="" coords="5152,782,5227,809"/>
+<area shape="rect" id="node98" href="$d6/da7/unzip_8c.html#ac99166540260b60340f4787af0a90029" title=" " alt="" coords="5357,199,5521,226"/>
+<area shape="rect" id="node108" href="$d6/da7/unzip_8c.html#a54821c0b6da683800164a56f2ae14f33" title=" " alt="" coords="5375,301,5503,327"/>
+<area shape="rect" id="node110" href="$d6/da7/unzip_8c.html#acb457ebeaee7cb850c11a4a3d4b58201" title=" " alt="" coords="5374,453,5505,479"/>
+<area shape="rect" id="node112" href="$d2/d5c/unzip_8h.html#a67559097ba938e4e85257da3fc6d827d" title=" " alt="" coords="5378,402,5501,429"/>
+<area shape="rect" id="node113" href="$d2/d5c/unzip_8h.html#a12c4062aa3dae4cddf7527c3caf8c519" title=" " alt="" coords="5387,351,5492,378"/>
+<area shape="rect" id="node99" href="$d9/de5/classQuaZip.html#ad79caa4c8a3262f7fcf52c6262b1dc25" title="Retrieves information about the current file." alt="" coords="5092,98,5287,125"/>
+<area shape="rect" id="node101" href="$d9/de5/classQuaZip.html#a9cfdbc86f4b2cc13c4246a8d438003b1" title="Returns the current file name." alt="" coords="5085,250,5293,277"/>
+<area shape="rect" id="node104" href="$da/da8/classQuaZipFile.html#a9d63f6358a84b86593f1715e142f27dd" title="Returns compressed file size." alt="" coords="5123,149,5256,175"/>
+<area shape="rect" id="node106" href="$da/da8/classQuaZipFile.html#ae49a4c2b07359d6e1801e13cc92b55e2" title="Returns uncompressed file size." alt="" coords="5122,199,5257,226"/>
+<area shape="rect" id="node100" href="$da/da8/classQuaZipFile.html#ad3f5807329321be21b12c1ba5798b359" title="Gets information about current file." alt="" coords="4867,98,5036,125"/>
+<area shape="rect" id="node102" href="$d9/de5/classQuaZip.html#a6c657bfcfccb59d728e0da24c677d899" title="Sets current file by its name." alt="" coords="4867,351,5035,378"/>
+<area shape="rect" id="node103" href="$da/da8/classQuaZipFile.html#a4c8d14a81a9f8293b558c6a5df7ad6ad" title="Returns the actual file name in the archive." alt="" coords="4595,250,4819,277"/>
+<area shape="rect" id="node105" href="$da/da8/classQuaZipFile.html#a97c0c68e726993fbd7719048ba8678a5" title="Returns file size." alt="" coords="4888,199,5015,226"/>
+<area shape="rect" id="node109" href="$d9/de5/classQuaZip.html#a745488f9177bcec3cdb858587584e033" title="Sets the current file to the first file in the archive." alt="" coords="5110,351,5269,378"/>
+<area shape="rect" id="node111" href="$d9/de5/classQuaZip.html#aee6779b6cd338420c2e8c5655fa8ba97" title="Sets the current file to the next file in the archive." alt="" coords="5109,402,5270,429"/>
+<area shape="rect" id="node116" href="$d6/da7/unzip_8c.html#a65deebb4ecb3ba110c343c21a4cd9a75" title=" " alt="" coords="5114,605,5265,631"/>
+<area shape="rect" id="node117" href="$d6/da7/unzip_8c.html#a0c26b010e6cf7e58cd558426f280fa98" title=" " alt="" coords="5084,503,5295,530"/>
+<area shape="rect" id="node118" href="$d6/da7/unzip_8c.html#a5881cddc4d4941ff604508ee4a564c25" title=" " alt="" coords="5110,554,5269,581"/>
+<area shape="rect" id="node123" href="$da/da8/classQuaZipFile.html#aa1f2274e1579327855a17d67a9046ec2" title="Implementation of the QIODevice::readData()." alt="" coords="5608,1365,5768,1391"/>
+<area shape="rect" id="node126" href="$d9/de5/classQuaZip.html#a4c9b38dc9e2b5669a267d627f6c4e63d" title="Returns global comment in the ZIP file." alt="" coords="5607,1466,5769,1493"/>
+<area shape="rect" id="node129" href="$d0/d5f/zip_8c.html#ae3c822f7ddf7c351e7a6c633ed1590d4" title=" " alt="" coords="4867,1213,5035,1239"/>
+<area shape="rect" id="node130" href="$d0/d5f/zip_8c.html#a14cf664b19f00f41f6865a7c3173e973" title=" " alt="" coords="4627,1213,4787,1239"/>
+<area shape="rect" id="node132" href="$da/da8/classQuaZipFile.html#a42a39b12619bccd3d419ee60bbb3fcf6" title="Closes the file." alt="" coords="4639,810,4774,837"/>
+<area shape="rect" id="node134" href="$d0/d5f/zip_8c.html#ae470f753aef4cffe4f77a5ec2bcfbde1" title=" " alt="" coords="5373,1061,5506,1087"/>
+<area shape="rect" id="node133" href="$da/da8/classQuaZipFile.html#aa1e5a0cf491bafae6cc73e649caa97fc" title="Destroys a QuaZipFile instance." alt="" coords="4363,814,4544,841"/>
+<area shape="rect" id="node136" href="$d9/de5/classQuaZip.html#a7a4323b73e12f3b4470109f200728f9f" title="Closes ZIP file." alt="" coords="4896,731,5007,758"/>
+<area shape="rect" id="node137" href="$d9/de5/classQuaZip.html#af60a2d3930b90f3b25a3148baecad81e" title="Destroys QuaZip object." alt="" coords="4639,706,4774,733"/>
+<area shape="rect" id="node143" href="$da/da8/classQuaZipFile.html#abd07949a6fcc2ef094d2be5398bc8e7c" title="Implementation of the QIODevice::writeData()." alt="" coords="5606,1517,5770,1543"/>
+</map>

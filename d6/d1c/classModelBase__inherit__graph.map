@@ -1,0 +1,8 @@
+<map id="ModelBase" name="ModelBase">
+<area shape="rect" id="node1" title=" " alt="" coords="91,131,319,604"/>
+<area shape="rect" id="node3" href="$db/d45/classPaletteModel.html" title=" " alt="" coords="13,652,199,1052"/>
+<area shape="rect" id="node6" href="$d8/d8b/classSketchModel.html" title=" " alt="" coords="223,784,386,920"/>
+<area shape="rect" id="node2" href="$d9/d5b/classQObject.html" title=" " alt="" coords="167,5,242,83"/>
+<area shape="rect" id="node4" href="$d6/d26/classReferenceModel.html" title=" " alt="" coords="19,1100,193,1324"/>
+<area shape="rect" id="node5" href="$d8/d0a/classSqliteReferenceModel.html" title=" " alt="" coords="5,1372,207,1845"/>
+</map>

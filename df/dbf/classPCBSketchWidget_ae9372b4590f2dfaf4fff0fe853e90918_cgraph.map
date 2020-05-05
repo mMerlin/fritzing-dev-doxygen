@@ -1,0 +1,13 @@
+<map id="PCBSketchWidget::canDropModelPart" name="PCBSketchWidget::canDropModelPart">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,204,141"/>
+<area shape="rect" id="node2" href="$d8/d37/classSketchWidget.html#a1d35b04b6a5080f1cbe49deaf813d5fa" title=" " alt="" coords="252,56,491,83"/>
+<area shape="rect" id="node5" href="$de/d23/classBoard.html#a6063939428d01920fefae3dd9b1f0b84" title=" " alt="" coords="313,5,430,32"/>
+<area shape="rect" id="node7" href="$d4/d72/classModelPart.html#a5c46dd2d379fdc4a1385f4d3c512bf73" title=" " alt="" coords="294,107,449,133"/>
+<area shape="rect" id="node8" href="$d8/d37/classSketchWidget.html#a065d3b4c262ca5903f09980c3dec9bca" title=" " alt="" coords="266,157,477,184"/>
+<area shape="rect" id="node11" href="$d4/d72/classModelPart.html#affa1c5cf5ca90387b030ec2f8311823f" title=" " alt="" coords="292,208,451,235"/>
+<area shape="rect" id="node3" href="$d4/d72/classModelPart.html#ac89b3fa9f8a63631644055987b33977c" title=" " alt="" coords="551,107,720,133"/>
+<area shape="rect" id="node4" href="$d8/d37/classSketchWidget.html#aad6b7b43a75038116e316bb711c7d638" title=" " alt="" coords="553,56,717,83"/>
+<area shape="rect" id="node6" href="$d4/d4f/classItemBase.html#acc2f5bad42928e7178c28fa0771b1f60" title=" " alt="" coords="556,5,715,32"/>
+<area shape="rect" id="node9" href="$d8/d37/classSketchWidget.html#a822f0b08903311cc5c4a8e53d87ebdb6" title=" " alt="" coords="539,208,732,235"/>
+<area shape="rect" id="node10" href="$d5/d9d/classViewLayer.html#acda6179880454250f27ee4ed167b6983" title=" " alt="" coords="546,157,725,184"/>
+</map>

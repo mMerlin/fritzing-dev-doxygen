@@ -1,0 +1,10 @@
+<map id="PCBSketchWidget::setWireVisible" name="PCBSketchWidget::setWireVisible">
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,200,115"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#a7565ba05974fedf75bb75923b18bca1a" title=" " alt="" coords="277,5,447,32"/>
+<area shape="rect" id="node4" href="$df/dbf/classPCBSketchWidget.html#afe1ab64e99e4f86546ae548a42f66f28" title=" " alt="" coords="248,56,476,83"/>
+<area shape="rect" id="node5" href="$d7/d64/classWire.html#af18b21be89076a015bf909b1571e010a" title=" " alt="" coords="295,107,429,133"/>
+<area shape="rect" id="node8" href="$d4/d4f/classItemBase.html#aa111fd950b091e013ba3800604020b00" title=" " alt="" coords="269,157,455,184"/>
+<area shape="rect" id="node3" href="$d3/de8/classViewGeometry.html#a11ca759a75de95be900ac023617a1858" title=" " alt="" coords="524,5,728,32"/>
+<area shape="rect" id="node6" href="$d7/d64/classWire.html#a279a6f6496623e9da9f02234b2325af6" title=" " alt="" coords="571,107,681,133"/>
+<area shape="rect" id="node7" href="$d3/de8/classViewGeometry.html#af48546e414eab094f557068fa483aee3" title=" " alt="" coords="776,107,953,133"/>
+</map>

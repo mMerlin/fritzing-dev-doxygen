@@ -1,0 +1,5 @@
+<map id="getPartConnectors" name="getPartConnectors">
+<area shape="rect" id="node1" title="collect dom elements for connectors of part in the current net" alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node2" href="$df/da0/drc_8cpp.html#a5246491477d12b692f8c884a0696ca85" title="append all immediate children of a dom element to an existing list" alt="" coords="329,5,493,32"/>
+<area shape="rect" id="node3" href="$df/da0/drc_8cpp.html#a7d31d7180cb113a92ca6985dd0f4bde1" title="mark part (graphical) sub elements as belonging to net category" alt="" coords="195,31,281,57"/>
+</map>

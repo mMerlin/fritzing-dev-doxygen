@@ -1,0 +1,8 @@
+<map id="PartsBinAddRemoveCommand" name="PartsBinAddRemoveCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="93,425,339,547"/>
+<area shape="rect" id="node5" href="$dd/dc0/classPartsBinAddCommand.html" title=" " alt="" coords="5,595,197,701"/>
+<area shape="rect" id="node6" href="$d4/dcf/classPartsBinRemoveCommand.html" title=" " alt="" coords="221,595,443,701"/>
+<area shape="rect" id="node2" href="$d7/d36/classPartsBinAddRemoveArrangeCommand.html" title=" " alt="" coords="106,271,326,377"/>
+<area shape="rect" id="node3" href="$d0/df9/classPartsBinBaseCommand.html" title=" " alt="" coords="117,131,315,223"/>
+<area shape="rect" id="node4" href="$d6/d40/classQUndoCommand.html" title=" " alt="" coords="149,5,283,83"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="BinManager::saveBinAs" name="BinManager::saveBinAs">
+<area shape="rect" id="node1" title=" " alt="" coords="5,141,181,168"/>
+<area shape="rect" id="node2" href="$d3/d50/classBinManager.html#a7b1883430ad85a0cfea0c65fd6bfc269" title=" " alt="" coords="229,112,404,139"/>
+<area shape="rect" id="node3" href="$de/d4e/classPartsBinPaletteWidget.html#a43207cd1e88066565d24c5d1369a0541" title=" " alt="" coords="233,163,400,205"/>
+<area shape="rect" id="node4" href="$de/d4e/classPartsBinPaletteWidget.html#a59fc3ee75b851d07c83fa1ad3f614645" title=" " alt="" coords="470,25,637,66"/>
+<area shape="rect" id="node5" href="$de/d4e/classPartsBinPaletteWidget.html#a9b5aed3fb875f315430d294509e4aea4" title=" " alt="" coords="716,243,883,285"/>
+<area shape="rect" id="node6" href="$d4/d08/misc_8h.html#ad72485ea9c87de2533a6eb0e699ecfb4" title=" " alt="" coords="1227,5,1382,32"/>
+<area shape="rect" id="node7" href="$d3/d1c/classFritzingWindow.html#a46da018c6bcb10814e9e2a848dab0dd4" title=" " alt="" coords="452,163,655,205"/>
+<area shape="rect" id="node16" href="$de/d4e/classPartsBinPaletteWidget.html#ad3bd22e49bec5a12554f466f41081b79" title=" " alt="" coords="470,462,637,503"/>
+<area shape="rect" id="node8" href="$d3/d1c/classFritzingWindow.html#aa47767f58c66caeff225b25a5454c390" title=" " alt="" coords="705,192,893,219"/>
+<area shape="rect" id="node9" href="$d7/d5f/misc_8cpp.html#acfc58c1b63c0597456d226225dad023c" title=" " alt="" coords="730,141,869,168"/>
+<area shape="rect" id="node10" href="$d7/d5f/misc_8cpp.html#a8b9d9444c5bd4f7781707e79227affd0" title=" " alt="" coords="965,141,1130,168"/>
+<area shape="rect" id="node11" href="$d4/d08/misc_8h.html#aa8a502117c973eea5594ca069587b0e8" title=" " alt="" coords="1201,107,1409,133"/>
+<area shape="rect" id="node12" href="$d4/d08/misc_8h.html#a6d45f03f87be52b2975812e690f9ae68" title=" " alt="" coords="1199,157,1411,184"/>
+<area shape="rect" id="node13" href="$d4/d08/misc_8h.html#abb7ae10a2ca56c950bda6dacee791688" title=" " alt="" coords="1215,208,1394,235"/>
+<area shape="rect" id="node14" href="$d4/d08/misc_8h.html#af94921b1392f8ec18b3d575c2c762b94" title=" " alt="" coords="1225,259,1384,285"/>
+<area shape="rect" id="node15" href="$d4/d08/misc_8h.html#a74b4dc3fdcea5d103f2659a5f0088b0b" title=" " alt="" coords="1216,56,1393,83"/>
+<area shape="rect" id="node17" href="$de/d4e/classPartsBinPaletteWidget.html#a945b501cc950aa81922645d7d62b7b45" title=" " alt="" coords="716,527,883,569"/>
+<area shape="rect" id="node19" href="$de/d4e/classPartsBinPaletteWidget.html#a252f93694b926a52d37986954c709275" title=" " alt="" coords="716,593,883,634"/>
+<area shape="rect" id="node21" href="$d0/d49/classModelBase.html#a894fab9d2c291110e0ce3fb802698664" title=" " alt="" coords="703,658,896,699"/>
+<area shape="rect" id="node22" href="$db/d45/classPaletteModel.html#a3d42609a97adee665638b9642c213f01" title=" " alt="" coords="707,723,891,765"/>
+<area shape="rect" id="node23" href="$d8/dee/classPartsBinIconView.html#a024fe8b5acbdb5b1694df9ee3ede4d0f" title=" " alt="" coords="704,789,895,830"/>
+<area shape="rect" id="node25" href="$d0/d49/classModelBase.html#a5a6101c2ca741297eaa4f9ed2660ed17" title=" " alt="" coords="733,309,866,336"/>
+<area shape="rect" id="node27" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="2148,389,2303,416"/>
+<area shape="rect" id="node28" href="$d6/d6c/structBinLocation.html#a33ccd55ec91315d9a71baad33500a0f0" title=" " alt="" coords="707,411,892,437"/>
+<area shape="rect" id="node37" href="$de/d4e/classPartsBinPaletteWidget.html#a413ee955b4adc6eb014dc38a102a6831" title=" " alt="" coords="716,462,883,503"/>
+<area shape="rect" id="node18" href="$de/d4e/classPartsBinPaletteWidget.html#a9f3ec4dd34ce797d74476d54109f6784" title=" " alt="" coords="964,531,1131,573"/>
+<area shape="rect" id="node20" href="$d0/d49/classModelBase.html#aa720e23b5ac99421022c412380c9ace3" title=" " alt="" coords="983,600,1111,627"/>
+<area shape="rect" id="node24" href="$d6/d17/classSvgIconWidget.html#a3e17155cc070e211179f21c5bf4a1a64" title=" " alt="" coords="951,796,1144,823"/>
+<area shape="rect" id="node26" href="$d2/d94/classFMessageBox.html#a64304e91e7816907a25c81f8ffc3284a" title=" " alt="" coords="1461,309,1635,336"/>
+<area shape="rect" id="node29" href="$dd/d63/classFolderUtils.html#a1d31fd7428720ce7c1480a9cf6dc15de" title=" " alt="" coords="958,466,1137,507"/>
+<area shape="rect" id="node35" href="$dd/d63/classFolderUtils.html#a3e0e661c4c3e02261f367c7d00829f41" title=" " alt="" coords="944,413,1151,440"/>
+<area shape="rect" id="node30" href="$dd/d63/classFolderUtils.html#a1cfc928bc5e4767ee32d0e12fe3e14a8" title=" " alt="" coords="1929,528,2099,555"/>
+<area shape="rect" id="node31" href="$dd/d63/classFolderUtils.html#affe62da0f029c1f69d5fbc0fd1fc0c74" title=" " alt="" coords="1215,477,1394,518"/>
+<area shape="rect" id="node32" href="$dd/d63/classFolderUtils.html#a362640e33643f9f8049352fd7d947ea8" title=" " alt="" coords="1459,443,1637,485"/>
+<area shape="rect" id="node33" href="$dd/d63/classFolderUtils.html#ab9ac929b2f8ae09fb703d6e4fcc952e0" title=" " alt="" coords="1685,443,1880,485"/>
+<area shape="rect" id="node34" href="$dd/d63/classFolderUtils.html#ae36aca73d9a99c08603ca1f2b908dea0" title=" " alt="" coords="1928,411,2100,453"/>
+<area shape="rect" id="node36" href="$dd/d63/classFolderUtils.html#a9e306412034df4031e73cf34f8348439" title=" " alt="" coords="1215,411,1394,453"/>
+</map>

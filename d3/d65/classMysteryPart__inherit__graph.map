@@ -1,0 +1,9 @@
+<map id="MysteryPart" name="MysteryPart">
+<area shape="rect" id="node1" title=" " alt="" coords="145,2751,375,3327"/>
+<area shape="rect" id="node7" href="$dc/dec/classDip.html" title=" " alt="" coords="145,3375,375,3731"/>
+<area shape="rect" id="node2" href="$d3/d04/classPaletteItem.html" title=" " alt="" coords="153,1980,367,2703"/>
+<area shape="rect" id="node3" href="$d7/de7/classPaletteItemBase.html" title=" " alt="" coords="145,1444,375,1932"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html" title=" " alt="" coords="5,131,280,1396"/>
+<area shape="rect" id="node5" href="$df/da7/classQGraphicsSvgItem.html" title=" " alt="" coords="71,5,214,83"/>
+<area shape="rect" id="node6" href="$db/d0a/classCursorKeyListener.html" title=" " alt="" coords="305,725,453,802"/>
+</map>

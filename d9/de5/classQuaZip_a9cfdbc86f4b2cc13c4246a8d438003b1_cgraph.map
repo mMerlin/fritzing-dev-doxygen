@@ -1,0 +1,13 @@
+<map id="QuaZip::getCurrentFileName" name="QuaZip::getCurrentFileName">
+<area shape="rect" id="node1" title="Returns the current file name." alt="" coords="5,56,213,83"/>
+<area shape="rect" id="node2" href="$d9/de5/classQuaZip.html#af14ccbcf38bb540ba73b833cdc000f90" title="Returns true if the current file has been set." alt="" coords="261,5,432,32"/>
+<area shape="rect" id="node3" href="$d9/de5/classQuaZip.html#ae9652544f94ed1384632ef9b43e6ec92" title="Returns true if ZIP file is open, false otherwise." alt="" coords="285,56,408,83"/>
+<area shape="rect" id="node4" href="$d6/da7/unzip_8c.html#ac99166540260b60340f4787af0a90029" title=" " alt="" coords="265,107,429,133"/>
+<area shape="rect" id="node5" href="$d6/da7/unzip_8c.html#a604f8ca20c251b1ae520a40cd1a688ad" title=" " alt="" coords="480,99,683,141"/>
+<area shape="rect" id="node6" href="$d2/db7/ioapi_8h.html#a50e9e9d5c30e481de822ad68fe537986" title=" " alt="" coords="1029,107,1090,133"/>
+<area shape="rect" id="node7" href="$d6/da7/unzip_8c.html#a2adf50ee682fe99e90f76e3b5c5aff19" title=" " alt="" coords="731,81,944,108"/>
+<area shape="rect" id="node8" href="$d6/da7/unzip_8c.html#adf85ae30e9d93b75f7980750f9696a9a" title=" " alt="" coords="770,132,905,159"/>
+<area shape="rect" id="node11" href="$d6/da7/unzip_8c.html#a6e42c868757990ea103d34619e3f5fa2" title=" " alt="" coords="768,183,907,209"/>
+<area shape="rect" id="node9" href="$d6/da7/unzip_8c.html#a5ebba7e31a1d05c7283915a397b4b3d0" title=" " alt="" coords="992,169,1127,196"/>
+<area shape="rect" id="node10" href="$d2/db7/ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title=" " alt="" coords="1175,169,1213,196"/>
+</map>

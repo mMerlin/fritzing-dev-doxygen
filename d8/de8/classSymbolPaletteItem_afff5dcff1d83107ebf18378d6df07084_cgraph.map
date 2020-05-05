@@ -1,0 +1,11 @@
+<map id="SymbolPaletteItem::removeMeFromBus" name="SymbolPaletteItem::removeMeFromBus">
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,160,171"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#af8b5baf85b1febe04dbaccd09e90d58a" title=" " alt="" coords="208,5,412,47"/>
+<area shape="rect" id="node3" href="$dc/d3a/classConnectorItem.html#aa22ed310cdf87c914bfad84ce759d66b" title=" " alt="" coords="215,71,405,112"/>
+<area shape="rect" id="node4" href="$da/d3a/classDebugDialog.html#ad26216d18945d7d7188420707b76f241" title=" " alt="" coords="233,137,387,163"/>
+<area shape="rect" id="node5" href="$d8/de8/classSymbolPaletteItem.html#aab72df5f558fc6cce66cc21a4ee62fdf" title=" " alt="" coords="233,188,387,229"/>
+<area shape="rect" id="node8" href="$d8/de8/classSymbolPaletteItem.html#a3774e4b85b7459578d02685dd7740223" title=" " alt="" coords="233,253,387,295"/>
+<area shape="rect" id="node6" href="$d4/d72/classModelPart.html#a47369e86cac97b2139fbed138cf3e6c2" title=" " alt="" coords="478,149,633,175"/>
+<area shape="rect" id="node7" href="$d4/d4f/classItemBase.html#acc2f5bad42928e7178c28fa0771b1f60" title=" " alt="" coords="476,199,635,226"/>
+<area shape="rect" id="node9" href="$dc/d3a/classConnectorItem.html#aca52a788abdcadfbe5d61e3c15e9d369" title=" " alt="" coords="460,253,651,295"/>
+</map>

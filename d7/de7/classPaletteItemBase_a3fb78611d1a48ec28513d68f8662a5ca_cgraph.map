@@ -1,0 +1,14 @@
+<map id="PaletteItemBase::shape" name="PaletteItemBase::shape">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,181,134"/>
+<area shape="rect" id="node2" href="$d4/d4f/classItemBase.html#a1abdb0919ccb45601c83fe5bd3da59f7" title=" " alt="" coords="236,5,440,47"/>
+<area shape="rect" id="node3" href="$dc/d3a/classConnectorItem.html#aa18adaf7ea8d4a23a613fe0f18e7764c" title=" " alt="" coords="241,71,435,112"/>
+<area shape="rect" id="node4" href="$d4/d4f/classItemBase.html#af04d5720eead42b15b100b923cd9a00d" title=" " alt="" coords="229,137,447,163"/>
+<area shape="rect" id="node5" href="$dc/d3a/classConnectorItem.html#aee474fae810819d009f977ff02b26b61" title=" " alt="" coords="255,187,421,214"/>
+<area shape="rect" id="node6" href="$dc/d3a/classConnectorItem.html#ad11738366c01ae4faf2a8314f013e8f8" title=" " alt="" coords="495,187,685,214"/>
+<area shape="rect" id="node7" href="$d8/d3c/classBezier.html#a2414f8c161c4a4fed536113237cb35ec" title=" " alt="" coords="781,61,876,87"/>
+<area shape="rect" id="node8" href="$d8/d3c/classBezier.html#ab31ae58e9814f75281175355a1b1abe1" title=" " alt="" coords="781,111,876,138"/>
+<area shape="rect" id="node9" href="$d8/d3c/classBezier.html#aec0fe0ef3264fbc54ca7e5808470f1ac" title=" " alt="" coords="767,162,891,189"/>
+<area shape="rect" id="node10" href="$dc/d3a/classConnectorItem.html#ab56e4b282be8f23cbba342aa52373428" title=" " alt="" coords="743,213,914,239"/>
+<area shape="rect" id="node11" href="$dc/d09/classNonConnectorItem.html#a87a6133cc006daa875ff1f669c632405" title=" " alt="" coords="733,263,924,290"/>
+<area shape="rect" id="node12" href="$d7/dfe/classGraphicsUtils.html#a192187e812688be5f5e2cd02b860f26c" title=" " alt="" coords="972,289,1189,315"/>
+</map>

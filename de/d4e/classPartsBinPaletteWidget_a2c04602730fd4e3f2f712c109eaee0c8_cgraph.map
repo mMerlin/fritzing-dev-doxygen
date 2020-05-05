@@ -1,0 +1,12 @@
+<map id="PartsBinPaletteWidget::removeParts" name="PartsBinPaletteWidget::removeParts">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,172,112"/>
+<area shape="rect" id="node2" href="$d0/dcf/classPartsBinListView.html#ae6b24f7f35dbeb77f3cdaae32d02a78f" title=" " alt="" coords="225,5,412,47"/>
+<area shape="rect" id="node3" href="$d8/dee/classPartsBinIconView.html#a26c02ff74e1ee05460ce5963f1d9006e" title=" " alt="" coords="223,71,414,112"/>
+<area shape="rect" id="node9" href="$db/d45/classPaletteModel.html#a66a8197261d1af4ac3f9b53d2c45235e" title=" " alt="" coords="220,137,417,163"/>
+<area shape="rect" id="node4" href="$d8/dee/classPartsBinIconView.html#a818cc13f88ad2d3c2b07596a9afc070e" title=" " alt="" coords="465,78,679,105"/>
+<area shape="rect" id="node5" href="$d8/dee/classPartsBinIconView.html#a52cb4d6ad8545cf34df3c8de06afcd0c" title=" " alt="" coords="727,71,913,112"/>
+<area shape="rect" id="node6" href="$d4/d68/classGraphicsFlowLayout.html#a638700c37415a199eb80aaa32f1741a4" title=" " alt="" coords="961,71,1116,112"/>
+<area shape="rect" id="node7" href="$d4/d68/classGraphicsFlowLayout.html#a6ea0fadc3f302b08fd5a22d64d427076" title=" " alt="" coords="1164,71,1319,112"/>
+<area shape="rect" id="node8" href="$d4/d08/misc_8h.html#ae7cc352fa1dc81e57ff53ebbc762f27d" title=" " alt="" coords="1367,78,1425,105"/>
+<area shape="rect" id="node10" href="$d4/d72/classModelPart.html#affa1c5cf5ca90387b030ec2f8311823f" title=" " alt="" coords="493,137,651,163"/>
+</map>

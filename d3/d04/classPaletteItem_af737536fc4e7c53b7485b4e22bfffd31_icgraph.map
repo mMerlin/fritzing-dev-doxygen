@@ -1,0 +1,21 @@
+<map id="PaletteItem::collectExtraInfo" name="PaletteItem::collectExtraInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="823,284,1029,311"/>
+<area shape="rect" id="node2" href="$df/dca/classCapacitor.html#af3db740745d4dd197a9f558154af512e" title=" " alt="" coords="557,31,751,57"/>
+<area shape="rect" id="node6" href="$d6/d3e/classHole.html#a77c26b50bad8b5b7e69d5101bbf07975" title=" " alt="" coords="573,81,735,108"/>
+<area shape="rect" id="node7" href="$de/d5e/classLogoItem.html#a59e68f47a3ea8cce2163bce79f784337" title=" " alt="" coords="557,183,751,209"/>
+<area shape="rect" id="node10" href="$d8/d73/classMysteryPart.html#a8f68ac1105a9c2c1ccf3e43ee65a75cb" title=" " alt="" coords="549,132,759,159"/>
+<area shape="rect" id="node12" href="$d3/d78/classPad.html#a976cd676a97a6f191810858b750905a8" title=" " alt="" coords="577,233,731,260"/>
+<area shape="rect" id="node13" href="$d9/d10/classPinHeader.html#a954848f249d45c2e4964462ba33f2697" title=" " alt="" coords="555,284,753,311"/>
+<area shape="rect" id="node14" href="$de/d23/classBoard.html#a03a22882cedaaa2a8bfa620edd036c25" title=" " alt="" coords="569,335,739,361"/>
+<area shape="rect" id="node16" href="$d7/d60/classRuler.html#ada8d5da70a4434614952d99d4b2c5761" title=" " alt="" coords="571,385,737,412"/>
+<area shape="rect" id="node17" href="$df/d59/classSchematicFrame.html#a18f3b2896838647e00e6dda84f55dca1" title=" " alt="" coords="533,436,775,463"/>
+<area shape="rect" id="node18" href="$db/d54/classScrewTerminal.html#a0619dafd9de51ca93334abc1ec943286" title=" " alt="" coords="541,487,767,513"/>
+<area shape="rect" id="node19" href="$d8/de8/classSymbolPaletteItem.html#abcc0e79e4234831782c36fb27152577e" title=" " alt="" coords="577,538,731,579"/>
+<area shape="rect" id="node3" href="$d6/d92/classPerfboard.html#a3642d75e559bd3cf9f084e2fa9acb307" title=" " alt="" coords="271,5,466,32"/>
+<area shape="rect" id="node5" href="$dd/df8/classResistor.html#a5fa036046a448cf546910a3c618fac95" title=" " alt="" coords="276,56,461,83"/>
+<area shape="rect" id="node4" href="$d3/dee/classStripboard.html#aa7cf1d5671ebbd2250a6f8ec5b3add51" title=" " alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node8" href="$d5/d7a/classBreadboardLogoItem.html#a0ea7da18b4a2d88034ff6f1be73e8380" title=" " alt="" coords="289,183,448,225"/>
+<area shape="rect" id="node9" href="$d7/d13/classBoardLogoItem.html#a0caff46d29afc82f22d965c6610e269e" title=" " alt="" coords="253,267,484,293"/>
+<area shape="rect" id="node11" href="$dc/dec/classDip.html#a0522701fd2734211263caac552679eb7" title=" " alt="" coords="291,132,446,159"/>
+<area shape="rect" id="node15" href="$d7/dde/classResizableBoard.html#ae25f4b313b23003b03d166b12ddd7e2e" title=" " alt="" coords="252,335,485,361"/>
+</map>

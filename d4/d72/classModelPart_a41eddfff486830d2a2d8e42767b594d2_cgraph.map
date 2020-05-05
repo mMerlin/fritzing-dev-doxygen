@@ -1,0 +1,13 @@
+<map id="ModelPart::initConnectors" name="ModelPart::initConnectors">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,195,83"/>
+<area shape="rect" id="node2" href="$d4/d72/classModelPart.html#a2acf4e49c5485c018eafe728acae0229" title=" " alt="" coords="243,5,409,32"/>
+<area shape="rect" id="node4" href="$d7/d1b/classConnectorShared.html#a2ba3eb78fb417cdc98943d670426529c" title=" " alt="" coords="249,56,403,83"/>
+<area shape="rect" id="node5" href="$d4/d72/classModelPart.html#ade497815345c420bbd23e111aa96b87d" title=" " alt="" coords="249,107,403,133"/>
+<area shape="rect" id="node3" href="$d4/d72/classModelPart.html#ab3aad94e89c7415cfdcc8c269052c9a9" title=" " alt="" coords="501,5,619,32"/>
+<area shape="rect" id="node6" href="$d2/dfc/classBus.html#aee9b091c50d02e889b17a600d664e6eb" title=" " alt="" coords="488,56,632,83"/>
+<area shape="rect" id="node7" href="$d7/d1b/classConnectorShared.html#a287f4978e9742842d23ae0b1a00f46c2" title=" " alt="" coords="478,107,642,133"/>
+<area shape="rect" id="node8" href="$d9/d65/classConnector.html#a24de03e134daab2d9efa441caaa42297" title=" " alt="" coords="457,157,663,184"/>
+<area shape="rect" id="node9" href="$d5/d1b/classBusShared.html#aefd518b6892423933c79f4f0375a13d8" title=" " alt="" coords="505,208,615,235"/>
+<area shape="rect" id="node10" href="$d9/d65/classConnector.html#a1b9aaeb26c3135118b58aaecd1ef36f5" title=" " alt="" coords="490,259,630,285"/>
+<area shape="rect" id="node11" href="$d9/d65/classConnector.html#aa48281ac91fd7d99765da3bfc2a3cd75" title=" " alt="" coords="711,259,829,285"/>
+</map>
